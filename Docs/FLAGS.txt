@@ -1,0 +1,91 @@
+My latest list is revealing things that are confusing me now. I can't make 0123 make a spellstone disappear from the inventory. 
+0123 Placed the 'unactivated' spellstone 1 at VFPT (Also hides the unactivated spellstone from inventory menu) [038394F4]
+     used: 022B
+     graphic: 0562
+     graphic2: FFFF
+     infoID: 0060
+     menu: FF
+     ?: 01
+022B Passing back over the path after the Leap of Faith, Trigger: '023A Sabre: You would not believe what we had to do to get this!' [03839500]
+     used: FFFF
+     graphic: 0563
+     graphic2: FFFF
+     infoID: 0061
+     menu: FF
+     ?: 01
+[06:12]
+I thought it would be if I set 022B, and then 0123, but nope
+[06:13]
+0123 instead makes a spellstone appear in the inventory but only if you're Fox/Sabre (Bearbeitet)
+
+MusicalProgrammer — 11.01.2022
+Oh wait, I get it now... I guess technically that's what it's doing. 0123 makes the unactivated spellstone appear, and 022B makes it disappear while adding an activated spellstone. (Bearbeitet)
+[06:28]
+For the record I'm using the labels from the Wiki
+[06:35]
+I'm just not sure if "Placed the spellstone" is entirely accurate... From what I see, it's the item required to place the spellstone, but I don't see how it's the flag that's set when you place the spellstone.
+
+MusicalProgrammer — 11.01.2022
+And... Now I just learned that cutscenes have special commands that allow them to unset flags. Looks like this. 0D00C000 7F000123 0123 being the flag. (Bearbeitet)
+[07:07]
+That's how the spellstone gets removed from the inventory in Volcano Force Point Temple.
+
+Jeebs2kx — 11.01.2022
+Ah so would that explain why changing the activated spellstone value from 022B to 0123 makes it work on the 1st visit? RAM values in post below
+
+https://discord.com/channels/827608544555171850/839960689120641064/914169891341336588
+
+MusicalProgrammer — 11.01.2022
+I guess you could say that. Though this is the real reason. 
+VFP_SpellPlace 054E 09 FE 04 E4 3F 29 (-14656.269, -1216.570, -1394.754) - [020EF45E]
+00042804 0000 0000 0000 0877 0123 0000 
+  setFlag: 0877
+  itemRequired: 0123
+  in_setup(s): 0
+ (Bearbeitet)
+[22:28]
+If you set 020EF47E to 022B it should work in a more legit way. And setting 01F23ACA also to 022B (so that it gets removed from the inventory) (Bearbeitet)
+
+Jeebs2kx — 11.01.2022
+I see! That makes complete sense now seeing this, thanks for that!
+
+MusicalProgrammer — 11.01.2022
+Of course now I see that would only give you back a deactivated spellstone if you tried activating the spellstone prior.
+[22:55]
+Not sure if swapstones recognize you no longer have an item if the "used" flag is set in the inventory.
+[22:56]
+Because that would be the more ideal solution in the end.
+
+zim. — 11.01.2022
+I still don't understand how changing 4 values changes it to some other thing entirely like you just coded something
+
+MusicalProgrammer — 11.01.2022
+It's not changing things that much. It's just changing when certain code triggers, usually game progression related things. The devs just coded it in such a way that it makes it easy for themselves.
+[23:13]
+You're only limited to so many things.
+========Flag IDs=======
+0000
+	805C5110 - (bit: 00 hex: 01)
+0001
+	805C4D45 - (bit: 03 hex: 08)
+0002
+... (119 kB verbleibend)
+Mehr anzeigen
+flagIDs.txt
+169 kB
+[23:16]
+Set any of these values manually, and things will happen in the game, and certain objects set these bits too, which you can then modify to trigger things in the game. (Bearbeitet)
+[23:20]
+Okay, swapstone doesn't like flag: 0123, (805C4D6C - bit: 03 hex: 08) so the cutscene has to unset that one, (which it already does) and the activated spellstone's "used" flag could then be used as the swapstone ignores that. (Bearbeitet)
+[23:26]
+So... I would set... 03839500 to 0877, as that's the cutscene trigger to Volcano Force Point cutscene where you place the spellstone.
+[23:27]
+As in... The cutscene sets that flag, which should in turn hide the activated spellstone.
+
+zim. — 11.01.2022
+Any way to automate that?
+
+MusicalProgrammer — 11.01.2022
+Probably, though it's only two locations I think
+[23:31]
+03839500 >> 0877, and 020EF47E >> 022B

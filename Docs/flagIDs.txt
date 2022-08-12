@@ -1,0 +1,6541 @@
+========Flag IDs=======
+0000
+	805C5110 - (bit: 00 hex: 01)
+0001
+	805C4D45 - (bit: 03 hex: 08)
+0002
+	805C4D45 - (bit: 04 hex: 10)
+0003
+	805C4D45 - (bit: 05 hex: 20)
+0004
+	805C4D45 - (bit: 06 hex: 40)
+0005
+	805C4E0C - (bit: 07 hex: 80)
+0006
+	805C4C3C - (bit: 05 hex: 20) ?
+0007
+	805C4C3C - (bit: 06 hex: 40) ?
+0008
+	805C4C39 - (bit: 03 hex: 08) Played: '00D0 Sabre: "He's on his own. Maybe we can sneak by."'
+0009
+	805C4DC0 - (bit: 03 hex: 08) ?
+000A
+	805C4C39 - (bit: 05 hex: 20) Snowhorn mammoth fed twice (ice block at ground level)
+000B
+	805C4D38 - (bit: 01 hex: 02)
+000C
+	805C4D49 - (bit: 01 hex: 02) ?
+000D
+	805C4D42 - (bit: 01 hex: 02)
+000E
+	805C4D42 - (bit: 02 hex: 04)
+000F
+	805C4D42 - (bit: 03 hex: 08)
+0010
+	805C4D42 - (bit: 04 hex: 10)
+0011
+	805C5126 - (bit: 01 hex: 02)
+0012
+	805C4D42 - (bit: 05 hex: 20)
+0013
+	805C4D3D - (bit: 04 hex: 10) Play: 0037 (Thorntail and log) [SHseqobject]
+0014
+	805C4D3F - (bit: 00 hex: 01) Played: 0037 (Thorntail and log) [SHseqobject]
+0015
+	805C5114 - (bit: 02 hex: 04)
+0016
+	805C4D41 - (bit: 03 hex: 08) ?
+0017
+	805C5114 - (bit: 03 hex: 08)
+0018
+	805C4D41 - (bit: 04 hex: 10) ?
+0019
+	805C4D42 - (bit: 06 hex: 40)
+001A
+	805C4D42 - (bit: 07 hex: 80)
+001B
+	805C4D43 - (bit: 00 hex: 01)
+001C
+	805C5115 - (bit: 05 hex: 20)
+001D
+	805C4DD1 - (bit: 00 hex: 01)
+	805C4DD1 - (bit: 01 hex: 02)
+001E
+	805C4DD1 - (bit: 02 hex: 04)
+001F
+	805C4DD1 - (bit: 03 hex: 08)
+0020
+	805C4D43 - (bit: 01 hex: 02)
+0021
+	805C4D43 - (bit: 02 hex: 04)
+0022
+	805C511B - (bit: 01 hex: 02)
+0023
+	805C4C51 - (bit: 04 hex: 10) ?
+	805C4C51 - (bit: 05 hex: 20) ?
+	805C4C51 - (bit: 06 hex: 40) ?
+	805C4C51 - (bit: 07 hex: 80) ?
+0024
+	805C4DC0 - (bit: 04 hex: 10) ?
+0025 Collected Tricky's Ball
+	805C4C39 - (bit: 04 hex: 10) Collected Tricky's Ball
+0026
+	805C4C3C - (bit: 07 hex: 80) Toppled the log bridge leading further into Snowhorn Wastes
+0027
+	805C4D67 - (bit: 05 hex: 20) Spoke to the hungry SnowHorn/Tricky learned Flame
+0028
+	805C4D67 - (bit: 06 hex: 40) Fed SnowHorn the first Alpine Root
+0029
+	805C4D63 - (bit: 05 hex: 20)
+002A
+	805C4D67 - (bit: 01 hex: 02) Unlocked the leg-clamped SnowHorn
+002B
+	805C4D67 - (bit: 00 hex: 01) Obtained Mine Key
+002C
+	805C4DBE - (bit: 00 hex: 01) ?
+002D
+	805C4DBE - (bit: 01 hex: 02) Projectile
+002E
+	805C511E - (bit: 06 hex: 40)
+002F
+	805C511E - (bit: 07 hex: 80)
+0030
+	805C511F - (bit: 00 hex: 01) Flamed ice wall leading to Alpine Root 2 (same as 805C4D6A bit 4?)
+0031
+	805C5115 - (bit: 06 hex: 40)
+0032
+	805C4D43 - (bit: 03 hex: 08)
+0033
+	805C4D6A - (bit: 02 hex: 04) Entered underground area of igloo/Flame puzzle
+0034
+	805C4D6A - (bit: 03 hex: 08) Flamed ice wall leading nowhere (above bridge machine)
+0035
+	805C4D6A - (bit: 04 hex: 10) Flamed ice wall leading to Alpine Root 2
+0036
+	805C511F - (bit: 02 hex: 04) Started crossing first lava rock bridge on path to DarkIce Mines (triggers second bridge breaking)
+0037
+	805C4D43 - (bit: 04 hex: 10)
+0038
+	805C4D43 - (bit: 05 hex: 20)
+0039
+	805C4D46 - (bit: 05 hex: 20)
+003A
+	805C4D6A - (bit: 06 hex: 40) Approached second bridge in lava path
+003B
+	805C4D6A - (bit: 07 hex: 80) Jumped over second bridge in lava path
+003C
+	805C511F - (bit: 03 hex: 08) Approached second lava rock bridge (triggers third bridge breaking)
+003D
+	805C511F - (bit: 04 hex: 10) Started crossing final lava rock bridge (triggers final bridge breaking)
+003E
+	805C4D49 - (bit: 02 hex: 04) Played: '0170 Randorn: Ah, Krystal my dear. So tell me, what did you find at Discovery Falls? (QALachu intro)'
+003F
+	805C5116 - (bit: 01 hex: 02)
+0040
+	805C4DBE - (bit: 02 hex: 04) Illusion
+0041
+	805C4D49 - (bit: 03 hex: 08) ?
+0042
+	805C511B - (bit: 02 hex: 04)
+0043
+	805C4D49 - (bit: 04 hex: 10) ?
+0044
+	805C4D49 - (bit: 05 hex: 20) Prison Key [Cloudrunner Fortress]
+0045
+	805C4D49 - (bit: 06 hex: 40) ?
+0046
+	805C4D4A - (bit: 00 hex: 01)
+0047
+	805C4D4A - (bit: 02 hex: 04)
+0048
+	805C4D4A - (bit: 04 hex: 10)
+0049
+	805C511B - (bit: 03 hex: 08)
+004A
+	805C4D4A - (bit: 05 hex: 20)
+004B
+	805C4D4A - (bit: 06 hex: 40)
+	805C4D4A - (bit: 07 hex: 80)
+	805C4D4B - (bit: 00 hex: 01) ?
+	805C4D4B - (bit: 01 hex: 02) ?
+004C
+	805C4D4B - (bit: 02 hex: 04) ?
+004D
+	805C4D4B - (bit: 03 hex: 08) ?
+004E
+	805C4D4B - (bit: 04 hex: 10) ?
+004F
+	805C4D4B - (bit: 05 hex: 20) ?
+0050
+	805C4D4B - (bit: 06 hex: 40) ?
+0051
+	805C4D4B - (bit: 07 hex: 80) Red Power Crystal [Cloudrunner Fortress]
+0052
+	805C4D4C - (bit: 00 hex: 01) Green Power Crystal [Cloudrunner Fortress]
+0053
+	805C4D4C - (bit: 01 hex: 02) Blue Power Crystal [Cloudrunner Fortress]
+0054
+	805C4D4C - (bit: 05 hex: 20) ?
+0055
+	805C4D4C - (bit: 06 hex: 40) ?
+0056
+	805C4D4C - (bit: 07 hex: 80) ?
+0057
+	805C4D4D - (bit: 00 hex: 01) ?
+0058
+	805C4D4D - (bit: 02 hex: 04) ?
+0059
+	805C511B - (bit: 04 hex: 10)
+005A
+	805C511B - (bit: 05 hex: 20)
+005B
+	805C4D4D - (bit: 03 hex: 08) ?
+005C
+	805C4D4D - (bit: 04 hex: 10) ?
+005D
+	805C4D4D - (bit: 05 hex: 20) ?
+005E
+	805C4D46 - (bit: 06 hex: 40)
+005F
+	805C4D4D - (bit: 06 hex: 40) ?
+0060
+	805C4D4D - (bit: 07 hex: 80) Power Room Key [Cloudrunner Fortress]
+0061
+	805C511B - (bit: 06 hex: 40)
+0062
+	805C4D4E - (bit: 00 hex: 01)
+0063
+	805C4D4E - (bit: 02 hex: 04)
+0064
+	805C4D4E - (bit: 04 hex: 10)
+0065
+	805C4D4E - (bit: 05 hex: 20)
+0066
+	805C511B - (bit: 07 hex: 80)
+0067
+	805C4D4E - (bit: 06 hex: 40)
+0068
+	805C4D4E - (bit: 07 hex: 80)
+0069
+	805C4D4F - (bit: 00 hex: 01)
+006A
+	805C4D4F - (bit: 01 hex: 02)
+006B
+	805C4D4F - (bit: 02 hex: 04)
+006C
+	805C4D4F - (bit: 03 hex: 08)
+006D
+	805C4C57 - (bit: 03 hex: 08)
+006E
+	805C4C57 - (bit: 04 hex: 10)
+006F
+	805C4C57 - (bit: 05 hex: 20)
+0070
+	805C4C57 - (bit: 06 hex: 40)
+0071
+	805C4C57 - (bit: 07 hex: 80)
+0072
+	805C4C58 - (bit: 00 hex: 01) ?
+0073
+	805C4DD0 - (bit: 05 hex: 20)
+0074
+	805C4DD0 - (bit: 06 hex: 40)
+0075
+	805C4D97 - (bit: 01 hex: 02)
+0076
+	805C4D97 - (bit: 02 hex: 04)
+0077
+	805C4DD0 - (bit: 07 hex: 80)
+0078
+	805C4C5B - (bit: 02 hex: 04) Triggered: '00EF Scales Escapes with Kyte'
+0079
+	805C4C58 - (bit: 01 hex: 02) ?
+007A
+	805C4C3F - (bit: 02 hex: 04) Shiney Nugget #1 used (disappears from inventory)
+007B
+	805C4C42 - (bit: 03 hex: 08)
+007C
+	805C4C42 - (bit: 04 hex: 10)
+007D
+	805C5110 - (bit: 05 hex: 20)
+007E
+	805C5110 - (bit: 06 hex: 40)
+007F
+	805C5110 - (bit: 07 hex: 80)
+0080
+	805C5111 - (bit: 03 hex: 08)
+0081
+	805C4C3F - (bit: 03 hex: 08) Shiney Nugget #2 used (disappears from inventory)
+0082
+	805C4C40 - (bit: 03 hex: 08) ?
+0083
+	805C4C40 - (bit: 04 hex: 10) ?
+0084
+	805C4C40 - (bit: 05 hex: 20) ?
+0085
+	805C4C42 - (bit: 07 hex: 80)
+0086
+	805C4C43 - (bit: 00 hex: 01)
+0087
+	805C4C42 - (bit: 05 hex: 20) Used by: SC_steppingston
+0088
+	805C4C4F - (bit: 02 hex: 04) Used shiney nugget (Guardclaw lets you pass)
+0089
+	805C4C42 - (bit: 06 hex: 40) Don't repeat Swapstone Intro
+008A
+	805C4C57 - (bit: 02 hex: 04)
+008B
+	805C5110 - (bit: 00 hex: 01)
+008C
+	805C5110 - (bit: 00 hex: 01)
+008D
+	805C5110 - (bit: 00 hex: 01)
+008E
+	805C4C3A - (bit: 00 hex: 01) Obtained Alpine Root 1 (hole closer to Snowhorn)
+008F
+	805C5110 - (bit: 00 hex: 01)
+0090
+	805C5110 - (bit: 00 hex: 01)
+0091
+	805C4D74 - (bit: 01 hex: 02) Jumped off jetbike onto conveyor belt (2)
+0092
+	805C4D38 - (bit: 02 hex: 04)
+0093
+	805C4D38 - (bit: 03 hex: 08)
+0094
+	805C5110 - (bit: 00 hex: 01)
+0095
+	805C5110 - (bit: 01 hex: 02) DISABLED
+0096
+	805C5110 - (bit: 02 hex: 04) DISABLED
+0097
+	805C5110 - (bit: 00 hex: 01)
+0098
+	805C4D65 - (bit: 06 hex: 40) ?
+0099
+	805C4D38 - (bit: 04 hex: 10)
+009A
+	805C4C3A - (bit: 04 hex: 10) ?
+009B
+	805C4C3A - (bit: 05 hex: 20) ?
+009C
+	805C4C3C - (bit: 00 hex: 01) ?
+009D
+	805C4C3C - (bit: 01 hex: 02) ?
+009E
+	805C4C80 - (bit: 03 hex: 08) Tricky persists through saves
+009F
+	805C512A - (bit: 07 hex: 80)
+00A0
+	805C4D97 - (bit: 03 hex: 08)
+00A1
+	805C5110 - (bit: 00 hex: 01)
+00A2
+	805C4D4F - (bit: 05 hex: 20)
+00A3
+	805C4C4F - (bit: 03 hex: 08) Completed the gas chamber puzzle (will activate cutscene if 0)
+00A4
+	805C4D9E - (bit: 02 hex: 04) Galleon cutscene played
+00A5
+	805C512B - (bit: 01 hex: 02)
+00A6
+	805C4DC0 - (bit: 05 hex: 20) ?
+00A7
+	805C512B - (bit: 02 hex: 04)
+00A8
+	805C4C3C - (bit: 03 hex: 08) Used Find on wall after ice-hopping leading deeper into Snowhorn Wastes
+00A9
+	805C4D65 - (bit: 05 hex: 20) ?
+00AA
+	805C4DC0 - (bit: 06 hex: 40) Small Grub Bag
+00AB
+	805C4C3C - (bit: 04 hex: 10) Used Find on wall leading into Swapstone Hollow
+00AC
+	805C4D65 - (bit: 02 hex: 04) ?
+00AD
+	805C4D65 - (bit: 01 hex: 02) ?
+00AE
+	805C4D38 - (bit: 05 hex: 20)
+00AF
+	805C4D38 - (bit: 06 hex: 40)
+00B0
+	805C4D39 - (bit: 01 hex: 02)
+	805C4D39 - (bit: 02 hex: 04)
+	805C4D39 - (bit: 03 hex: 08)
+00B1
+	805C512B - (bit: 03 hex: 08) Warlock Mountain Force Field Disabled #1
+00B2
+	805C512B - (bit: 04 hex: 10) Warlock Mountain Force Field Disabled #2
+00B3
+	805C512B - (bit: 05 hex: 20) Warlock Mountain Force Field Disabled #3
+00B4
+	805C4C5B - (bit: 03 hex: 08) Open Warp Activator Door (WM)
+00B5
+	805C514F - (bit: 05 hex: 20)
+00B6
+	805C514F - (bit: 06 hex: 40)
+00B7
+	805C514F - (bit: 07 hex: 80)
+00B8
+	805C5150 - (bit: 00 hex: 01)
+00B9
+	805C5150 - (bit: 01 hex: 02)
+00BA
+	805C5150 - (bit: 02 hex: 04)
+00BB
+	805C5150 - (bit: 03 hex: 08)
+00BC
+	805C5150 - (bit: 04 hex: 10)
+00BD
+	805C4C5B - (bit: 04 hex: 10) ?
+00BE
+	805C4D39 - (bit: 06 hex: 40)
+00BF
+	805C4D39 - (bit: 04 hex: 10)
+00C0
+	805C4D3E - (bit: 04 hex: 10)
+00C1
+	805C4D39 - (bit: 07 hex: 80)
+	805C4D3A - (bit: 00 hex: 01)
+	805C4D3A - (bit: 01 hex: 02)
+	805C4D3A - (bit: 02 hex: 04)
+00C2
+	805C4D3B - (bit: 03 hex: 08)
+	805C4D3B - (bit: 04 hex: 10)
+	805C4D3B - (bit: 05 hex: 20)
+	805C4D3B - (bit: 06 hex: 40)
+00C3
+	805C5110 - (bit: 04 hex: 10)
+00C4
+	805C4D3E - (bit: 05 hex: 20)
+00C5
+	805C4D3E - (bit: 06 hex: 40)
+00C6
+	805C4D3E - (bit: 07 hex: 80)
+00C7
+	805C4C5B - (bit: 05 hex: 20) obtained Warp Activator
+00C8
+	805C4C58 - (bit: 02 hex: 04) ?
+00C9
+	805C4C58 - (bit: 03 hex: 08) ?
+00CA
+	805C4C58 - (bit: 04 hex: 10) ?
+00CB
+	805C4C58 - (bit: 05 hex: 20) Snowbike Key
+00CC
+	805C5110 - (bit: 00 hex: 01)
+00CD
+	805C4C58 - (bit: 06 hex: 40) Snowbike Key used
+00CE
+	805C4C58 - (bit: 07 hex: 80) ?
+00CF
+	805C512B - (bit: 06 hex: 40)
+00D0
+	805C4C5C - (bit: 00 hex: 01) Trigger: '00E5 Krystal: Randorn? What's happened to you?'
+00D1
+	805C4C5C - (bit: 01 hex: 02)
+00D2
+	805C4C5C - (bit: 02 hex: 04)
+00D3
+	805C4C39 - (bit: 07 hex: 80) Fox beat Sharpclaw after Tricky chased it
+00D4
+	805C4C5B - (bit: 07 hex: 80) ?
+00D5
+	805C4D97 - (bit: 04 hex: 10)
+	805C4D97 - (bit: 05 hex: 20)
+	805C4D97 - (bit: 06 hex: 40)
+	805C4D97 - (bit: 07 hex: 80)
+00D6
+	805C4C5C - (bit: 03 hex: 08)
+00D7
+	805C4C5C - (bit: 04 hex: 10)
+00D8
+	805C4C5C - (bit: 05 hex: 20)
+00D9
+	805C4C5C - (bit: 06 hex: 40)
+00DA
+	805C4C5C - (bit: 07 hex: 80)
+00DB
+	805C4D46 - (bit: 07 hex: 80)
+00DC
+	805C4D47 - (bit: 00 hex: 01)
+00DD
+	805C4C80 - (bit: 02 hex: 04)
+00DE
+	805C4C55 - (bit: 02 hex: 04)
+00DF
+	805C4DD1 - (bit: 04 hex: 10) Rolling Demo Setup bit 1
+	805C4DD1 - (bit: 05 hex: 20) Rolling Demo Setup bit 2
+	805C4DD1 - (bit: 06 hex: 40) Rolling Demo Setup bit 3
+	805C4DD1 - (bit: 07 hex: 80) Rolling Demo Setup bit 4
+00E0
+	805C4DD2 - (bit: 00 hex: 01) Discovery Falls Setup bit 1
+	805C4DD2 - (bit: 01 hex: 02) Discovery Falls Setup bit 2
+	805C4DD2 - (bit: 02 hex: 04) Discovery Falls Setup bit 3
+	805C4DD2 - (bit: 03 hex: 08) Discovery Falls Setup bit 4
+00E1
+	805C4DD2 - (bit: 04 hex: 10) SwapStone Hollow Setup bit 1
+	805C4DD2 - (bit: 05 hex: 20) SwapStone Hollow Setup bit 2
+	805C4DD2 - (bit: 06 hex: 40) SwapStone Hollow Setup bit 3
+	805C4DD2 - (bit: 07 hex: 80) SwapStone Hollow Setup bit 4
+00E2
+	805C4DD3 - (bit: 00 hex: 01) Golden Plains Setup bit 1
+	805C4DD3 - (bit: 01 hex: 02) Golden Plains Setup bit 2
+	805C4DD3 - (bit: 02 hex: 04) Golden Plains Setup bit 3
+	805C4DD3 - (bit: 03 hex: 08) Golden Plains Setup bit 4
+00E3
+	805C4DD3 - (bit: 04 hex: 10) Northern Wastes Setup bit 1
+	805C4DD3 - (bit: 05 hex: 20) Northern Wastes Setup bit 2
+	805C4DD3 - (bit: 06 hex: 40) Northern Wastes Setup bit 3
+	805C4DD3 - (bit: 07 hex: 80) Northern Wastes Setup bit 4
+00E4
+	805C4DD4 - (bit: 00 hex: 01) Warlock Mountain Setup bit 1
+	805C4DD4 - (bit: 01 hex: 02) Warlock Mountain Setup bit 2
+	805C4DD4 - (bit: 02 hex: 04) Warlock Mountain Setup bit 3
+	805C4DD4 - (bit: 03 hex: 08) Warlock Mountain Setup bit 4
+00E5
+	805C4DD4 - (bit: 04 hex: 10) CloudRunner Fortress Setup bit 1
+	805C4DD4 - (bit: 05 hex: 20) CloudRunner Fortress Setup bit 2
+	805C4DD4 - (bit: 06 hex: 40) CloudRunner Fortress Setup bit 3
+	805C4DD4 - (bit: 07 hex: 80) CloudRunner Fortress Setup bit 4
+00E6
+	805C4DD5 - (bit: 00 hex: 01) Walled City Setup bit 1
+	805C4DD5 - (bit: 01 hex: 02) Walled City Setup bit 2
+	805C4DD5 - (bit: 02 hex: 04) Walled City Setup bit 3
+	805C4DD5 - (bit: 03 hex: 08) Walled City Setup bit 4
+00E7
+	805C4DD5 - (bit: 04 hex: 10) SwapStone Circle Setup bit 1
+	805C4DD5 - (bit: 05 hex: 20) SwapStone Circle Setup bit 2
+	805C4DD5 - (bit: 06 hex: 40) SwapStone Circle Setup bit 3
+	805C4DD5 - (bit: 07 hex: 80) SwapStone Circle Setup bit 4
+00E8
+	805C4DD6 - (bit: 00 hex: 01) CloudRunner - Treasure Setup bit 1
+	805C4DD6 - (bit: 01 hex: 02) CloudRunner - Treasure Setup bit 2
+	805C4DD6 - (bit: 02 hex: 04) CloudRunner - Treasure Setup bit 3
+	805C4DD6 - (bit: 03 hex: 08) CloudRunner - Treasure Setup bit 4
+00E9
+	805C4DD6 - (bit: 04 hex: 10) CloudRunner - Dungeon Setup bit 1
+	805C4DD6 - (bit: 05 hex: 20) CloudRunner - Dungeon Setup bit 2
+	805C4DD6 - (bit: 06 hex: 40) CloudRunner - Dungeon Setup bit 3
+	805C4DD6 - (bit: 07 hex: 80) CloudRunner - Dungeon Setup bit 4
+00EA
+	805C4DD7 - (bit: 00 hex: 01) CloudRunner - TrapRooms Setup bit 1
+	805C4DD7 - (bit: 01 hex: 02) CloudRunner - TrapRooms Setup bit 2
+	805C4DD7 - (bit: 02 hex: 04) CloudRunner - TrapRooms Setup bit 3
+	805C4DD7 - (bit: 03 hex: 08) CloudRunner - TrapRooms Setup bit 4
+00EB
+	805C4DD7 - (bit: 04 hex: 10) Moon Mountain Pass Setup bit 1
+	805C4DD7 - (bit: 05 hex: 20) Moon Mountain Pass Setup bit 2
+	805C4DD7 - (bit: 06 hex: 40) Moon Mountain Pass Setup bit 3
+	805C4DD7 - (bit: 07 hex: 80) Moon Mountain Pass Setup bit 4
+00EC
+	805C4C55 - (bit: 03 hex: 08)
+00ED
+	805C4DD8 - (bit: 00 hex: 01) NewIceMt Setup bit 1
+	805C4DD8 - (bit: 01 hex: 02) NewIceMt Setup bit 2
+	805C4DD8 - (bit: 02 hex: 04) NewIceMt Setup bit 3
+	805C4DD8 - (bit: 03 hex: 08) NewIceMt Setup bit 4
+00EE
+	805C4DD8 - (bit: 04 hex: 10) Cape Claw Setup bit 1
+	805C4DD8 - (bit: 05 hex: 20) Cape Claw Setup bit 2
+	805C4DD8 - (bit: 06 hex: 40) Cape Claw Setup bit 3
+	805C4DD8 - (bit: 07 hex: 80) Cape Claw Setup bit 4
+00EF
+	805C4DD9 - (bit: 00 hex: 01) DFShrine Setup bit 1
+	805C4DD9 - (bit: 01 hex: 02) DFShrine Setup bit 2
+	805C4DD9 - (bit: 02 hex: 04) DFShrine Setup bit 3
+	805C4DD9 - (bit: 03 hex: 08) DFShrine Setup bit 4
+00F0
+	805C4DD9 - (bit: 04 hex: 10) Animtest Setup bit 1
+	805C4DD9 - (bit: 05 hex: 20) Animtest Setup bit 2
+	805C4DD9 - (bit: 06 hex: 40) Animtest Setup bit 3
+	805C4DD9 - (bit: 07 hex: 80) Animtest Setup bit 4
+00F1
+	805C4DC0 - (bit: 07 hex: 80) Medium Grub Bag
+00F2
+	805C4D67 - (bit: 02 hex: 04) ?
+00F3
+	805C4D67 - (bit: 03 hex: 08) Obtained Gear 1 from SnowHorn
+00F4
+	805C4D3D - (bit: 00 hex: 01)
+00F5
+	805C4D3D - (bit: 01 hex: 02)
+00F6
+	805C5132 - (bit: 06 hex: 40)
+00F7
+	805C5132 - (bit: 07 hex: 80)
+00F8
+	805C5133 - (bit: 00 hex: 01)
+00F9
+	805C5133 - (bit: 01 hex: 02)
+00FA
+	805C5133 - (bit: 02 hex: 04)
+00FB
+	805C5133 - (bit: 03 hex: 08)
+00FC
+	805C4D9F - (bit: 03 hex: 08)
+00FD
+	805C513E - (bit: 00 hex: 01)
+00FE
+	805C4DC1 - (bit: 00 hex: 01) Large Grubs Bag
+00FF
+	805C4D9F - (bit: 05 hex: 20)
+0100
+	805C5116 - (bit: 00 hex: 01)
+0101
+	805C4D43 - (bit: 07 hex: 80)
+0102
+	805C4C3E - (bit: 01 hex: 02) Completed feeding Garunda Te (triggers cutscene)
+0103
+	805C4DBF - (bit: 04 hex: 10) ?
+0104
+	805C4C3E - (bit: 04 hex: 10) DarkIce Mines opened by Garunda Te
+0105
+	805C4D44 - (bit: 01 hex: 02)
+0106
+	805C4D44 - (bit: 02 hex: 04)
+0107
+	805C4DBE - (bit: 03 hex: 08) Projectile (Glitched, not working)
+0108
+	805C5114 - (bit: 04 hex: 10)
+0109
+	805C4D41 - (bit: 05 hex: 20) ?
+010A
+	805C5114 - (bit: 05 hex: 20)
+010B
+	805C4D41 - (bit: 06 hex: 40) ?
+010C
+	805C5114 - (bit: 06 hex: 40)
+010D
+	805C4D41 - (bit: 07 hex: 80) ?
+010E
+	805C5115 - (bit: 00 hex: 01)
+010F
+	805C5115 - (bit: 01 hex: 02)
+0110
+	805C5115 - (bit: 02 hex: 04)
+0111
+	805C4C3B - (bit: 04 hex: 10) Used Find on hole containing Tricky's Ball
+0112
+	805C4C3B - (bit: 05 hex: 20) Used Find on hole containing Alpine Root 2
+0113
+	805C4C3B - (bit: 06 hex: 40) Used Find on hole containing Alpine Root 1
+0114
+	805C4C3B - (bit: 07 hex: 80) Used Find on hole containing nothing (near entrance to Swapstone Hollow)
+0115
+	805C4C3D - (bit: 01 hex: 02) Completed feeding Garunda Te (both 1 and 3 are set)
+	805C4C3D - (bit: 02 hex: 04) Met Garunda Te for the first time (unset after feeding)
+	805C4C3D - (bit: 03 hex: 08) Completed feeding Garunda Te (both 1 and 3 are set)
+	805C4C3D - (bit: 04 hex: 10) ?
+0116
+	805C4C3A - (bit: 01 hex: 02) Obtained Alpine Root 2 (hole further from Snowhorn)
+0117
+	805C4C3A - (bit: 02 hex: 04) ?
+0118
+	805C4C3A - (bit: 03 hex: 08) ?
+0119
+	805C4E0C - (bit: 05 hex: 20)
+011A
+	805C4C3E - (bit: 02 hex: 04) Watched Garunda's Spellstone Guardian cutscene
+011B
+	805C4D64 - (bit: 06 hex: 40)
+011C
+	805C4D44 - (bit: 03 hex: 08)
+011D
+	805C4D44 - (bit: 04 hex: 10)
+011E
+	805C4D45 - (bit: 01 hex: 02)
+011F
+	805C4D45 - (bit: 02 hex: 04)
+0120
+	805C4C3E - (bit: 05 hex: 20) Killed SharpClaw guard near Garunda
+0121
+	805C4C3E - (bit: 06 hex: 40) Killed SharpClaw guard near bridge
+0122
+	805C4D38 - (bit: 07 hex: 80)
+0123
+	805C4D6C - (bit: 03 hex: 08) Placed the 'unactivated' spellstone 1 at VFPT (Also hides the unactivated spellstone from inventory menu)
+0124
+	805C4D39 - (bit: 00 hex: 01)
+0125
+	805C5133 - (bit: 04 hex: 10)
+0126
+	805C513E - (bit: 01 hex: 02)
+0127
+	805C513D - (bit: 05 hex: 20)
+0128
+	805C513D - (bit: 06 hex: 40)
+0129
+	805C513D - (bit: 07 hex: 80)
+012A
+	805C4D65 - (bit: 07 hex: 80) Gate Key [Northern Waste]
+012B
+	805C5134 - (bit: 03 hex: 08)
+012C
+	805C4D65 - (bit: 03 hex: 08) ?
+012D
+	805C5134 - (bit: 04 hex: 10)
+012E
+	805C4DCA - (bit: 02 hex: 04)
+	805C4DCA - (bit: 03 hex: 08)
+	805C4DCA - (bit: 04 hex: 10)
+	805C4DCA - (bit: 05 hex: 20)
+	805C4DCA - (bit: 06 hex: 40)
+	805C4DCA - (bit: 07 hex: 80)
+012F
+	805C4DDF - (bit: 00 hex: 01)
+	805C4DDF - (bit: 01 hex: 02)
+	805C4DDF - (bit: 02 hex: 04)
+	805C4DDF - (bit: 03 hex: 08)
+	805C4DDF - (bit: 04 hex: 10)
+	805C4DDF - (bit: 05 hex: 20)
+	805C4DDF - (bit: 06 hex: 40)
+	805C4DDF - (bit: 07 hex: 80)
+	805C4DE0 - (bit: 00 hex: 01)
+	805C4DE0 - (bit: 01 hex: 02)
+	805C4DE0 - (bit: 02 hex: 04)
+	805C4DE0 - (bit: 03 hex: 08)
+	805C4DE0 - (bit: 04 hex: 10)
+	805C4DE0 - (bit: 05 hex: 20)
+	805C4DE0 - (bit: 06 hex: 40)
+	805C4DE0 - (bit: 07 hex: 80)
+	805C4DE1 - (bit: 00 hex: 01)
+	805C4DE1 - (bit: 01 hex: 02)
+	805C4DE1 - (bit: 02 hex: 04)
+	805C4DE1 - (bit: 03 hex: 08)
+	805C4DE1 - (bit: 04 hex: 10)
+	805C4DE1 - (bit: 05 hex: 20)
+	805C4DE1 - (bit: 06 hex: 40)
+	805C4DE1 - (bit: 07 hex: 80)
+	805C4DE2 - (bit: 00 hex: 01)
+	805C4DE2 - (bit: 01 hex: 02)
+	805C4DE2 - (bit: 02 hex: 04)
+	805C4DE2 - (bit: 03 hex: 08)
+	805C4DE2 - (bit: 04 hex: 10)
+	805C4DE2 - (bit: 05 hex: 20)
+	805C4DE2 - (bit: 06 hex: 40)
+	805C4DE2 - (bit: 07 hex: 80)
+0130
+	805C4DE3 - (bit: 00 hex: 01)
+	805C4DE3 - (bit: 01 hex: 02)
+	805C4DE3 - (bit: 02 hex: 04)
+	805C4DE3 - (bit: 03 hex: 08)
+	805C4DE3 - (bit: 04 hex: 10)
+	805C4DE3 - (bit: 05 hex: 20)
+	805C4DE3 - (bit: 06 hex: 40)
+	805C4DE3 - (bit: 07 hex: 80)
+	805C4DE4 - (bit: 00 hex: 01)
+	805C4DE4 - (bit: 01 hex: 02)
+	805C4DE4 - (bit: 02 hex: 04)
+	805C4DE4 - (bit: 03 hex: 08)
+	805C4DE4 - (bit: 04 hex: 10)
+	805C4DE4 - (bit: 05 hex: 20)
+	805C4DE4 - (bit: 06 hex: 40)
+	805C4DE4 - (bit: 07 hex: 80)
+	805C4DE5 - (bit: 00 hex: 01)
+	805C4DE5 - (bit: 01 hex: 02)
+	805C4DE5 - (bit: 02 hex: 04)
+	805C4DE5 - (bit: 03 hex: 08)
+	805C4DE5 - (bit: 04 hex: 10)
+	805C4DE5 - (bit: 05 hex: 20)
+	805C4DE5 - (bit: 06 hex: 40)
+	805C4DE5 - (bit: 07 hex: 80)
+	805C4DE6 - (bit: 00 hex: 01)
+	805C4DE6 - (bit: 01 hex: 02)
+	805C4DE6 - (bit: 02 hex: 04)
+	805C4DE6 - (bit: 03 hex: 08)
+	805C4DE6 - (bit: 04 hex: 10)
+	805C4DE6 - (bit: 05 hex: 20)
+	805C4DE6 - (bit: 06 hex: 40)
+	805C4DE6 - (bit: 07 hex: 80)
+0131
+	805C4DE7 - (bit: 00 hex: 01)
+	805C4DE7 - (bit: 01 hex: 02)
+	805C4DE7 - (bit: 02 hex: 04)
+	805C4DE7 - (bit: 03 hex: 08)
+	805C4DE7 - (bit: 04 hex: 10)
+	805C4DE7 - (bit: 05 hex: 20)
+	805C4DE7 - (bit: 06 hex: 40)
+	805C4DE7 - (bit: 07 hex: 80)
+	805C4DE8 - (bit: 00 hex: 01)
+	805C4DE8 - (bit: 01 hex: 02)
+	805C4DE8 - (bit: 02 hex: 04)
+	805C4DE8 - (bit: 03 hex: 08)
+	805C4DE8 - (bit: 04 hex: 10)
+	805C4DE8 - (bit: 05 hex: 20)
+	805C4DE8 - (bit: 06 hex: 40)
+	805C4DE8 - (bit: 07 hex: 80)
+	805C4DE9 - (bit: 00 hex: 01)
+	805C4DE9 - (bit: 01 hex: 02)
+	805C4DE9 - (bit: 02 hex: 04)
+	805C4DE9 - (bit: 03 hex: 08)
+	805C4DE9 - (bit: 04 hex: 10)
+	805C4DE9 - (bit: 05 hex: 20)
+	805C4DE9 - (bit: 06 hex: 40)
+	805C4DE9 - (bit: 07 hex: 80)
+	805C4DEA - (bit: 00 hex: 01)
+	805C4DEA - (bit: 01 hex: 02)
+	805C4DEA - (bit: 02 hex: 04)
+	805C4DEA - (bit: 03 hex: 08)
+	805C4DEA - (bit: 04 hex: 10)
+	805C4DEA - (bit: 05 hex: 20)
+	805C4DEA - (bit: 06 hex: 40)
+	805C4DEA - (bit: 07 hex: 80)
+0132
+	805C4DEB - (bit: 00 hex: 01)
+	805C4DEB - (bit: 01 hex: 02)
+	805C4DEB - (bit: 02 hex: 04)
+	805C4DEB - (bit: 03 hex: 08)
+	805C4DEB - (bit: 04 hex: 10)
+	805C4DEB - (bit: 05 hex: 20)
+	805C4DEB - (bit: 06 hex: 40)
+	805C4DEB - (bit: 07 hex: 80)
+	805C4DEC - (bit: 00 hex: 01)
+	805C4DEC - (bit: 01 hex: 02)
+	805C4DEC - (bit: 02 hex: 04)
+	805C4DEC - (bit: 03 hex: 08)
+	805C4DEC - (bit: 04 hex: 10)
+	805C4DEC - (bit: 05 hex: 20)
+	805C4DEC - (bit: 06 hex: 40)
+	805C4DEC - (bit: 07 hex: 80)
+	805C4DED - (bit: 00 hex: 01)
+	805C4DED - (bit: 01 hex: 02)
+	805C4DED - (bit: 02 hex: 04)
+	805C4DED - (bit: 03 hex: 08)
+	805C4DED - (bit: 04 hex: 10)
+	805C4DED - (bit: 05 hex: 20)
+	805C4DED - (bit: 06 hex: 40)
+	805C4DED - (bit: 07 hex: 80)
+	805C4DEE - (bit: 00 hex: 01)
+	805C4DEE - (bit: 01 hex: 02)
+	805C4DEE - (bit: 02 hex: 04)
+	805C4DEE - (bit: 03 hex: 08)
+	805C4DEE - (bit: 04 hex: 10)
+	805C4DEE - (bit: 05 hex: 20)
+	805C4DEE - (bit: 06 hex: 40)
+	805C4DEE - (bit: 07 hex: 80)
+0133
+	805C4DEF - (bit: 00 hex: 01)
+	805C4DEF - (bit: 01 hex: 02)
+	805C4DEF - (bit: 02 hex: 04)
+	805C4DEF - (bit: 03 hex: 08)
+	805C4DEF - (bit: 04 hex: 10)
+	805C4DEF - (bit: 05 hex: 20)
+	805C4DEF - (bit: 06 hex: 40)
+	805C4DEF - (bit: 07 hex: 80)
+	805C4DF0 - (bit: 00 hex: 01)
+	805C4DF0 - (bit: 01 hex: 02)
+	805C4DF0 - (bit: 02 hex: 04)
+	805C4DF0 - (bit: 03 hex: 08)
+	805C4DF0 - (bit: 04 hex: 10)
+	805C4DF0 - (bit: 05 hex: 20)
+	805C4DF0 - (bit: 06 hex: 40)
+	805C4DF0 - (bit: 07 hex: 80)
+	805C4DF1 - (bit: 00 hex: 01)
+	805C4DF1 - (bit: 01 hex: 02)
+	805C4DF1 - (bit: 02 hex: 04)
+	805C4DF1 - (bit: 03 hex: 08)
+	805C4DF1 - (bit: 04 hex: 10)
+	805C4DF1 - (bit: 05 hex: 20)
+	805C4DF1 - (bit: 06 hex: 40)
+	805C4DF1 - (bit: 07 hex: 80)
+	805C4DF2 - (bit: 00 hex: 01)
+	805C4DF2 - (bit: 01 hex: 02)
+	805C4DF2 - (bit: 02 hex: 04)
+	805C4DF2 - (bit: 03 hex: 08)
+	805C4DF2 - (bit: 04 hex: 10)
+	805C4DF2 - (bit: 05 hex: 20)
+	805C4DF2 - (bit: 06 hex: 40)
+	805C4DF2 - (bit: 07 hex: 80)
+0134
+	805C4DF3 - (bit: 00 hex: 01)
+	805C4DF3 - (bit: 01 hex: 02)
+	805C4DF3 - (bit: 02 hex: 04)
+	805C4DF3 - (bit: 03 hex: 08)
+	805C4DF3 - (bit: 04 hex: 10)
+	805C4DF3 - (bit: 05 hex: 20)
+	805C4DF3 - (bit: 06 hex: 40)
+	805C4DF3 - (bit: 07 hex: 80)
+	805C4DF4 - (bit: 00 hex: 01)
+	805C4DF4 - (bit: 01 hex: 02)
+	805C4DF4 - (bit: 02 hex: 04)
+	805C4DF4 - (bit: 03 hex: 08)
+	805C4DF4 - (bit: 04 hex: 10)
+	805C4DF4 - (bit: 05 hex: 20)
+	805C4DF4 - (bit: 06 hex: 40)
+	805C4DF4 - (bit: 07 hex: 80)
+	805C4DF5 - (bit: 00 hex: 01)
+	805C4DF5 - (bit: 01 hex: 02)
+	805C4DF5 - (bit: 02 hex: 04)
+	805C4DF5 - (bit: 03 hex: 08)
+	805C4DF5 - (bit: 04 hex: 10)
+	805C4DF5 - (bit: 05 hex: 20)
+	805C4DF5 - (bit: 06 hex: 40)
+	805C4DF5 - (bit: 07 hex: 80)
+	805C4DF6 - (bit: 00 hex: 01)
+	805C4DF6 - (bit: 01 hex: 02)
+	805C4DF6 - (bit: 02 hex: 04)
+	805C4DF6 - (bit: 03 hex: 08)
+	805C4DF6 - (bit: 04 hex: 10)
+	805C4DF6 - (bit: 05 hex: 20)
+	805C4DF6 - (bit: 06 hex: 40)
+	805C4DF6 - (bit: 07 hex: 80)
+0135
+	805C4DF7 - (bit: 00 hex: 01)
+	805C4DF7 - (bit: 01 hex: 02)
+	805C4DF7 - (bit: 02 hex: 04)
+	805C4DF7 - (bit: 03 hex: 08)
+	805C4DF7 - (bit: 04 hex: 10)
+	805C4DF7 - (bit: 05 hex: 20)
+	805C4DF7 - (bit: 06 hex: 40)
+	805C4DF7 - (bit: 07 hex: 80)
+	805C4DF8 - (bit: 00 hex: 01)
+	805C4DF8 - (bit: 01 hex: 02)
+	805C4DF8 - (bit: 02 hex: 04)
+	805C4DF8 - (bit: 03 hex: 08)
+	805C4DF8 - (bit: 04 hex: 10)
+	805C4DF8 - (bit: 05 hex: 20)
+	805C4DF8 - (bit: 06 hex: 40)
+	805C4DF8 - (bit: 07 hex: 80)
+	805C4DF9 - (bit: 00 hex: 01)
+	805C4DF9 - (bit: 01 hex: 02)
+	805C4DF9 - (bit: 02 hex: 04)
+	805C4DF9 - (bit: 03 hex: 08)
+	805C4DF9 - (bit: 04 hex: 10)
+	805C4DF9 - (bit: 05 hex: 20)
+	805C4DF9 - (bit: 06 hex: 40)
+	805C4DF9 - (bit: 07 hex: 80)
+	805C4DFA - (bit: 00 hex: 01)
+	805C4DFA - (bit: 01 hex: 02)
+	805C4DFA - (bit: 02 hex: 04)
+	805C4DFA - (bit: 03 hex: 08)
+	805C4DFA - (bit: 04 hex: 10)
+	805C4DFA - (bit: 05 hex: 20)
+	805C4DFA - (bit: 06 hex: 40)
+	805C4DFA - (bit: 07 hex: 80)
+0136
+	805C4DFB - (bit: 00 hex: 01)
+	805C4DFB - (bit: 01 hex: 02)
+	805C4DFB - (bit: 02 hex: 04)
+	805C4DFB - (bit: 03 hex: 08)
+	805C4DFB - (bit: 04 hex: 10)
+	805C4DFB - (bit: 05 hex: 20)
+	805C4DFB - (bit: 06 hex: 40)
+	805C4DFB - (bit: 07 hex: 80)
+	805C4DFC - (bit: 00 hex: 01)
+	805C4DFC - (bit: 01 hex: 02)
+	805C4DFC - (bit: 02 hex: 04)
+	805C4DFC - (bit: 03 hex: 08)
+	805C4DFC - (bit: 04 hex: 10)
+	805C4DFC - (bit: 05 hex: 20)
+	805C4DFC - (bit: 06 hex: 40)
+	805C4DFC - (bit: 07 hex: 80)
+	805C4DFD - (bit: 00 hex: 01)
+	805C4DFD - (bit: 01 hex: 02)
+	805C4DFD - (bit: 02 hex: 04)
+	805C4DFD - (bit: 03 hex: 08)
+	805C4DFD - (bit: 04 hex: 10)
+	805C4DFD - (bit: 05 hex: 20)
+	805C4DFD - (bit: 06 hex: 40)
+	805C4DFD - (bit: 07 hex: 80)
+	805C4DFE - (bit: 00 hex: 01)
+	805C4DFE - (bit: 01 hex: 02)
+	805C4DFE - (bit: 02 hex: 04)
+	805C4DFE - (bit: 03 hex: 08)
+	805C4DFE - (bit: 04 hex: 10)
+	805C4DFE - (bit: 05 hex: 20)
+	805C4DFE - (bit: 06 hex: 40)
+	805C4DFE - (bit: 07 hex: 80)
+0137
+	805C4DFF - (bit: 00 hex: 01)
+	805C4DFF - (bit: 01 hex: 02)
+	805C4DFF - (bit: 02 hex: 04)
+	805C4DFF - (bit: 03 hex: 08)
+	805C4DFF - (bit: 04 hex: 10)
+	805C4DFF - (bit: 05 hex: 20)
+	805C4DFF - (bit: 06 hex: 40)
+	805C4DFF - (bit: 07 hex: 80)
+0138
+	805C4E00 - (bit: 00 hex: 01)
+	805C4E00 - (bit: 01 hex: 02)
+	805C4E00 - (bit: 02 hex: 04)
+	805C4E00 - (bit: 03 hex: 08)
+	805C4E00 - (bit: 04 hex: 10)
+	805C4E00 - (bit: 05 hex: 20)
+	805C4E00 - (bit: 06 hex: 40)
+	805C4E00 - (bit: 07 hex: 80)
+0139
+	805C4E01 - (bit: 00 hex: 01)
+	805C4E01 - (bit: 01 hex: 02)
+	805C4E01 - (bit: 02 hex: 04)
+	805C4E01 - (bit: 03 hex: 08)
+	805C4E01 - (bit: 04 hex: 10)
+	805C4E01 - (bit: 05 hex: 20)
+	805C4E01 - (bit: 06 hex: 40)
+	805C4E01 - (bit: 07 hex: 80)
+013A
+	805C4E02 - (bit: 00 hex: 01)
+	805C4E02 - (bit: 01 hex: 02)
+	805C4E02 - (bit: 02 hex: 04)
+	805C4E02 - (bit: 03 hex: 08)
+	805C4E02 - (bit: 04 hex: 10)
+	805C4E02 - (bit: 05 hex: 20)
+	805C4E02 - (bit: 06 hex: 40)
+	805C4E02 - (bit: 07 hex: 80)
+013B
+	805C4E03 - (bit: 00 hex: 01)
+	805C4E03 - (bit: 01 hex: 02)
+	805C4E03 - (bit: 02 hex: 04)
+	805C4E03 - (bit: 03 hex: 08)
+	805C4E03 - (bit: 04 hex: 10)
+	805C4E03 - (bit: 05 hex: 20)
+	805C4E03 - (bit: 06 hex: 40)
+	805C4E03 - (bit: 07 hex: 80)
+013C
+	805C4E04 - (bit: 00 hex: 01)
+	805C4E04 - (bit: 01 hex: 02)
+	805C4E04 - (bit: 02 hex: 04)
+	805C4E04 - (bit: 03 hex: 08)
+	805C4E04 - (bit: 04 hex: 10)
+	805C4E04 - (bit: 05 hex: 20)
+	805C4E04 - (bit: 06 hex: 40)
+	805C4E04 - (bit: 07 hex: 80)
+013D
+	805C4DCF - (bit: 05 hex: 20) ?
+	805C4DCF - (bit: 06 hex: 40) ?
+	805C4DCF - (bit: 07 hex: 80) ?
+	805C4DD0 - (bit: 00 hex: 01)
+	805C4DD0 - (bit: 01 hex: 02)
+013E
+	805C4DCE - (bit: 07 hex: 80)
+013F
+	805C4D48 - (bit: 07 hex: 80)
+0140
+	805C4D49 - (bit: 00 hex: 01) Used by: SC_steppingston
+0141
+	805C511A - (bit: 06 hex: 40)
+0142
+	805C4D66 - (bit: 00 hex: 01) ?
+0143
+	805C5135 - (bit: 01 hex: 02)
+0144
+	805C4C56 - (bit: 00 hex: 01)
+0145
+	805C511A - (bit: 07 hex: 80)
+0146
+	805C5136 - (bit: 02 hex: 04)
+0147
+	805C4D6B - (bit: 00 hex: 01) Approached final bridge in lava path
+0148
+	805C5136 - (bit: 03 hex: 08)
+0149
+	805C5136 - (bit: 04 hex: 10)
+014A
+	805C5136 - (bit: 05 hex: 20)
+014B
+	805C5136 - (bit: 06 hex: 40)
+014C
+	805C5136 - (bit: 07 hex: 80)
+014D
+	805C5137 - (bit: 00 hex: 01)
+014E
+	805C5137 - (bit: 01 hex: 02)
+014F
+	805C511F - (bit: 05 hex: 20) Currently in first half of lava path area
+0150
+	805C511F - (bit: 06 hex: 40) Currently in second half of lava path area
+0151
+	805C511F - (bit: 07 hex: 80) ?
+0152
+	805C5120 - (bit: 00 hex: 01)
+0153
+	805C5120 - (bit: 01 hex: 02)
+0154
+	805C5120 - (bit: 02 hex: 04)
+0155
+	805C4D6B - (bit: 06 hex: 40) Destroyed Gear 2 crate (behind cannon door)
+0156
+	805C4D6B - (bit: 04 hex: 10) Triggered the SharpClaw retractable cannon (2)
+0157
+	805C5120 - (bit: 03 hex: 08)
+0158
+	805C4D6B - (bit: 05 hex: 20) Retractable cannon is currently above ground
+0159
+	805C4C3D - (bit: 00 hex: 01) Toppled the log bridge near Garunda Te
+015A
+	805C4D40 - (bit: 00 hex: 01)
+015B
+	805C4D66 - (bit: 07 hex: 80) Destroyed crate holding the Mine Key used to free leg-clamped SnowHorn
+015C
+	805C4D3D - (bit: 02 hex: 04)
+015D
+	805C513E - (bit: 02 hex: 04)
+015E
+	805C4D66 - (bit: 01 hex: 02) ?
+015F
+	805C5137 - (bit: 06 hex: 40)
+0160
+	805C4DBF - (bit: 05 hex: 20) ?
+0161
+	805C4DBF - (bit: 06 hex: 40) ?
+0162
+	805C4DBF - (bit: 07 hex: 80) ?
+0163
+	805C4DC0 - (bit: 00 hex: 01) Small Food Bag
+0164
+	805C4DC0 - (bit: 01 hex: 02) Medium Food Bag
+0165
+	805C4DC0 - (bit: 02 hex: 04) Large Food Bag
+0166
+	805C4DC2 - (bit: 00 hex: 01)
+	805C4DC2 - (bit: 01 hex: 02)
+	805C4DC2 - (bit: 02 hex: 04)
+	805C4DC2 - (bit: 03 hex: 08)
+	805C4DC2 - (bit: 04 hex: 10)
+	805C4DC2 - (bit: 05 hex: 20)
+0167
+	805C4DC2 - (bit: 06 hex: 40)
+	805C4DC2 - (bit: 07 hex: 80)
+	805C4DC3 - (bit: 00 hex: 01)
+	805C4DC3 - (bit: 01 hex: 02)
+	805C4DC3 - (bit: 02 hex: 04)
+	805C4DC3 - (bit: 03 hex: 08)
+0168
+	805C4C4F - (bit: 00 hex: 01) Pushed the log off the ledge
+0169
+	805C4DCB - (bit: 00 hex: 01)
+	805C4DCB - (bit: 01 hex: 02)
+	805C4DCB - (bit: 02 hex: 04)
+	805C4DCB - (bit: 03 hex: 08)
+	805C4DCB - (bit: 04 hex: 10)
+	805C4DCB - (bit: 05 hex: 20)
+016A
+	805C5137 - (bit: 07 hex: 80)
+016B
+	805C5138 - (bit: 00 hex: 01)
+016C
+	805C5138 - (bit: 01 hex: 02)
+016D
+	805C4D69 - (bit: 06 hex: 40) Obtained Alpine Root 1 (igloo puzzle)
+016E
+	805C4D69 - (bit: 07 hex: 80) Obtained Alpine Root 2 (behind ice wall)
+016F
+	805C4D67 - (bit: 07 hex: 80) Fed SnowHorn the second Alpine Root
+0170
+	805C4D6A - (bit: 00 hex: 01) Bit 0 of Alpine Root counter
+	805C4D6A - (bit: 01 hex: 02) Bit 1 of Alpine Root counter
+0171
+	805C4D63 - (bit: 06 hex: 40)
+0172
+	805C4D67 - (bit: 04 hex: 10) Defeated SharpClaw guard near hungry SnowHorn
+0173
+	805C4D66 - (bit: 02 hex: 04) ?
+0174
+	805C5138 - (bit: 07 hex: 80)
+0175
+	805C5139 - (bit: 00 hex: 01)
+0176
+	805C5139 - (bit: 01 hex: 02)
+0177
+	805C4D3D - (bit: 03 hex: 08)
+0178
+	805C4D40 - (bit: 03 hex: 08)
+0179
+	805C4D3F - (bit: 02 hex: 04)
+017A
+	805C4D69 - (bit: 00 hex: 01) Pulled lever to extend bridge 1
+017B
+	805C4D68 - (bit: 00 hex: 01) Obtained Gear 1 (Watched cutscene freeing leg-clamped SnowHorn)
+017C
+	805C4D69 - (bit: 02 hex: 04) Bridge 1 extended
+017D
+	805C4D69 - (bit: 04 hex: 10) Set when Bridge 1 extends
+017E
+	805C4D68 - (bit: 02 hex: 04) Obtained Gear 2 (in crate behind cannon door)
+017F
+	805C4D68 - (bit: 04 hex: 10) Obtained Gear 3 (inside burning tent)
+0180
+	805C4D68 - (bit: 06 hex: 40) Obtained Gear 4 (in crate next to horn pad)
+0181
+	805C4D68 - (bit: 01 hex: 02) Placed Gear 1 into bridge machine 1
+0182
+	805C4D68 - (bit: 03 hex: 08) Placed Gear 2 into bridge machine 2
+0183
+	805C4D68 - (bit: 05 hex: 20) Placed Gear 3 into bridge machine 2
+0184
+	805C4D68 - (bit: 07 hex: 80) Placed Gear 4 into bridge machine 2
+0185
+	805C4D3F - (bit: 03 hex: 08)
+0186
+	805C4C5D - (bit: 07 hex: 80)
+	805C4C5E - (bit: 00 hex: 01)
+	805C4C5E - (bit: 01 hex: 02)
+	805C4C5E - (bit: 02 hex: 04)
+	805C4C5E - (bit: 03 hex: 08)
+	805C4C5E - (bit: 04 hex: 10)
+	805C4C5E - (bit: 05 hex: 20)
+	805C4C5E - (bit: 06 hex: 40)
+	805C4C5E - (bit: 07 hex: 80)
+	805C4C5F - (bit: 00 hex: 01)
+	805C4C5F - (bit: 01 hex: 02)
+	805C4C5F - (bit: 02 hex: 04)
+	805C4C5F - (bit: 03 hex: 08)
+	805C4C5F - (bit: 04 hex: 10)
+	805C4C5F - (bit: 05 hex: 20)
+	805C4C5F - (bit: 06 hex: 40)
+	805C4C5F - (bit: 07 hex: 80)
+	805C4C60 - (bit: 00 hex: 01)
+	805C4C60 - (bit: 01 hex: 02)
+	805C4C60 - (bit: 02 hex: 04)
+	805C4C60 - (bit: 03 hex: 08)
+	805C4C60 - (bit: 04 hex: 10)
+	805C4C60 - (bit: 05 hex: 20)
+	805C4C60 - (bit: 06 hex: 40)
+	805C4C60 - (bit: 07 hex: 80)
+	805C4C61 - (bit: 00 hex: 01)
+	805C4C61 - (bit: 01 hex: 02)
+	805C4C61 - (bit: 02 hex: 04)
+	805C4C61 - (bit: 03 hex: 08)
+	805C4C61 - (bit: 04 hex: 10)
+	805C4C61 - (bit: 05 hex: 20)
+	805C4C61 - (bit: 06 hex: 40)
+0187
+	805C4C4E - (bit: 02 hex: 04) Entered Cape Claw
+0188
+	805C4C39 - (bit: 01 hex: 02) ?
+0189
+	805C5150 - (bit: 05 hex: 20)
+018A
+	805C5110 - (bit: 00 hex: 01)
+018B
+	805C5110 - (bit: 00 hex: 01)
+018C
+	805C5110 - (bit: 00 hex: 01)
+018D
+	805C5110 - (bit: 00 hex: 01)
+018E
+	805C4C61 - (bit: 07 hex: 80)
+	805C4C62 - (bit: 00 hex: 01)
+	805C4C62 - (bit: 01 hex: 02)
+	805C4C62 - (bit: 02 hex: 04)
+	805C4C62 - (bit: 03 hex: 08)
+	805C4C62 - (bit: 04 hex: 10)
+	805C4C62 - (bit: 05 hex: 20)
+	805C4C62 - (bit: 06 hex: 40)
+	805C4C62 - (bit: 07 hex: 80)
+	805C4C63 - (bit: 00 hex: 01)
+	805C4C63 - (bit: 01 hex: 02)
+	805C4C63 - (bit: 02 hex: 04)
+	805C4C63 - (bit: 03 hex: 08)
+	805C4C63 - (bit: 04 hex: 10)
+	805C4C63 - (bit: 05 hex: 20)
+	805C4C63 - (bit: 06 hex: 40)
+	805C4C63 - (bit: 07 hex: 80)
+	805C4C64 - (bit: 00 hex: 01)
+	805C4C64 - (bit: 01 hex: 02)
+	805C4C64 - (bit: 02 hex: 04)
+	805C4C64 - (bit: 03 hex: 08)
+	805C4C64 - (bit: 04 hex: 10)
+	805C4C64 - (bit: 05 hex: 20)
+	805C4C64 - (bit: 06 hex: 40)
+	805C4C64 - (bit: 07 hex: 80)
+	805C4C65 - (bit: 00 hex: 01)
+	805C4C65 - (bit: 01 hex: 02)
+	805C4C65 - (bit: 02 hex: 04)
+	805C4C65 - (bit: 03 hex: 08)
+	805C4C65 - (bit: 04 hex: 10)
+	805C4C65 - (bit: 05 hex: 20)
+	805C4C65 - (bit: 06 hex: 40)
+018F
+	805C5110 - (bit: 00 hex: 01)
+0190
+	805C5110 - (bit: 00 hex: 01)
+0191
+	805C5110 - (bit: 00 hex: 01)
+0192
+	805C5110 - (bit: 00 hex: 01)
+0193
+	805C5110 - (bit: 00 hex: 01)
+0194
+	805C5110 - (bit: 00 hex: 01)
+0195
+	805C5110 - (bit: 00 hex: 01)
+0196
+	805C4C65 - (bit: 07 hex: 80)
+	805C4C66 - (bit: 00 hex: 01)
+	805C4C66 - (bit: 01 hex: 02)
+	805C4C66 - (bit: 02 hex: 04)
+	805C4C66 - (bit: 03 hex: 08)
+	805C4C66 - (bit: 04 hex: 10)
+	805C4C66 - (bit: 05 hex: 20)
+	805C4C66 - (bit: 06 hex: 40)
+	805C4C66 - (bit: 07 hex: 80)
+	805C4C67 - (bit: 00 hex: 01)
+	805C4C67 - (bit: 01 hex: 02)
+	805C4C67 - (bit: 02 hex: 04)
+	805C4C67 - (bit: 03 hex: 08)
+	805C4C67 - (bit: 04 hex: 10)
+	805C4C67 - (bit: 05 hex: 20)
+	805C4C67 - (bit: 06 hex: 40)
+	805C4C67 - (bit: 07 hex: 80)
+	805C4C68 - (bit: 00 hex: 01)
+	805C4C68 - (bit: 01 hex: 02)
+	805C4C68 - (bit: 02 hex: 04)
+	805C4C68 - (bit: 03 hex: 08)
+	805C4C68 - (bit: 04 hex: 10)
+	805C4C68 - (bit: 05 hex: 20)
+	805C4C68 - (bit: 06 hex: 40)
+	805C4C68 - (bit: 07 hex: 80)
+	805C4C69 - (bit: 00 hex: 01)
+	805C4C69 - (bit: 01 hex: 02)
+	805C4C69 - (bit: 02 hex: 04)
+	805C4C69 - (bit: 03 hex: 08)
+	805C4C69 - (bit: 04 hex: 10)
+	805C4C69 - (bit: 05 hex: 20)
+	805C4C69 - (bit: 06 hex: 40)
+0197
+	805C5110 - (bit: 00 hex: 01)
+0198
+	805C5110 - (bit: 00 hex: 01)
+0199
+	805C5110 - (bit: 00 hex: 01)
+019A
+	805C5110 - (bit: 00 hex: 01)
+019B
+	805C5110 - (bit: 00 hex: 01)
+019C
+	805C5110 - (bit: 00 hex: 01)
+019D
+	805C5110 - (bit: 00 hex: 01)
+019E
+	805C4C69 - (bit: 07 hex: 80)
+	805C4C6A - (bit: 00 hex: 01)
+	805C4C6A - (bit: 01 hex: 02)
+	805C4C6A - (bit: 02 hex: 04)
+	805C4C6A - (bit: 03 hex: 08)
+	805C4C6A - (bit: 04 hex: 10)
+	805C4C6A - (bit: 05 hex: 20)
+	805C4C6A - (bit: 06 hex: 40)
+	805C4C6A - (bit: 07 hex: 80)
+	805C4C6B - (bit: 00 hex: 01)
+	805C4C6B - (bit: 01 hex: 02)
+	805C4C6B - (bit: 02 hex: 04)
+	805C4C6B - (bit: 03 hex: 08)
+	805C4C6B - (bit: 04 hex: 10)
+	805C4C6B - (bit: 05 hex: 20)
+	805C4C6B - (bit: 06 hex: 40)
+	805C4C6B - (bit: 07 hex: 80)
+	805C4C6C - (bit: 00 hex: 01)
+	805C4C6C - (bit: 01 hex: 02)
+	805C4C6C - (bit: 02 hex: 04)
+	805C4C6C - (bit: 03 hex: 08)
+	805C4C6C - (bit: 04 hex: 10)
+	805C4C6C - (bit: 05 hex: 20)
+	805C4C6C - (bit: 06 hex: 40)
+	805C4C6C - (bit: 07 hex: 80)
+	805C4C6D - (bit: 00 hex: 01)
+	805C4C6D - (bit: 01 hex: 02)
+	805C4C6D - (bit: 02 hex: 04)
+	805C4C6D - (bit: 03 hex: 08)
+	805C4C6D - (bit: 04 hex: 10)
+	805C4C6D - (bit: 05 hex: 20)
+	805C4C6D - (bit: 06 hex: 40)
+019F
+	805C5110 - (bit: 00 hex: 01)
+01A0
+	805C5110 - (bit: 00 hex: 01)
+01A1
+	805C5110 - (bit: 00 hex: 01)
+01A2
+	805C5110 - (bit: 00 hex: 01)
+01A3
+	805C5110 - (bit: 00 hex: 01)
+01A4
+	805C5110 - (bit: 00 hex: 01)
+01A5
+	805C5110 - (bit: 00 hex: 01)
+01A6
+	805C4C6D - (bit: 07 hex: 80)
+	805C4C6E - (bit: 00 hex: 01)
+	805C4C6E - (bit: 01 hex: 02)
+	805C4C6E - (bit: 02 hex: 04)
+	805C4C6E - (bit: 03 hex: 08)
+	805C4C6E - (bit: 04 hex: 10)
+	805C4C6E - (bit: 05 hex: 20)
+	805C4C6E - (bit: 06 hex: 40)
+	805C4C6E - (bit: 07 hex: 80)
+	805C4C6F - (bit: 00 hex: 01)
+	805C4C6F - (bit: 01 hex: 02)
+	805C4C6F - (bit: 02 hex: 04)
+	805C4C6F - (bit: 03 hex: 08)
+	805C4C6F - (bit: 04 hex: 10)
+	805C4C6F - (bit: 05 hex: 20)
+	805C4C6F - (bit: 06 hex: 40)
+	805C4C6F - (bit: 07 hex: 80)
+	805C4C70 - (bit: 00 hex: 01)
+	805C4C70 - (bit: 01 hex: 02)
+	805C4C70 - (bit: 02 hex: 04)
+	805C4C70 - (bit: 03 hex: 08)
+	805C4C70 - (bit: 04 hex: 10)
+	805C4C70 - (bit: 05 hex: 20)
+	805C4C70 - (bit: 06 hex: 40)
+	805C4C70 - (bit: 07 hex: 80)
+	805C4C71 - (bit: 00 hex: 01)
+	805C4C71 - (bit: 01 hex: 02)
+	805C4C71 - (bit: 02 hex: 04)
+	805C4C71 - (bit: 03 hex: 08)
+	805C4C71 - (bit: 04 hex: 10)
+	805C4C71 - (bit: 05 hex: 20)
+	805C4C71 - (bit: 06 hex: 40)
+01A7
+	805C5110 - (bit: 00 hex: 01)
+01A8
+	805C5110 - (bit: 00 hex: 01)
+01A9
+	805C5110 - (bit: 00 hex: 01)
+01AA
+	805C5110 - (bit: 00 hex: 01)
+01AB
+	805C5110 - (bit: 00 hex: 01)
+01AC
+	805C5110 - (bit: 00 hex: 01)
+01AD
+	805C5110 - (bit: 00 hex: 01)
+01AE
+	805C4C71 - (bit: 07 hex: 80)
+	805C4C72 - (bit: 00 hex: 01)
+	805C4C72 - (bit: 01 hex: 02)
+	805C4C72 - (bit: 02 hex: 04)
+	805C4C72 - (bit: 03 hex: 08)
+	805C4C72 - (bit: 04 hex: 10)
+	805C4C72 - (bit: 05 hex: 20)
+	805C4C72 - (bit: 06 hex: 40)
+	805C4C72 - (bit: 07 hex: 80)
+	805C4C73 - (bit: 00 hex: 01)
+	805C4C73 - (bit: 01 hex: 02)
+	805C4C73 - (bit: 02 hex: 04)
+	805C4C73 - (bit: 03 hex: 08)
+	805C4C73 - (bit: 04 hex: 10)
+	805C4C73 - (bit: 05 hex: 20)
+	805C4C73 - (bit: 06 hex: 40)
+	805C4C73 - (bit: 07 hex: 80)
+	805C4C74 - (bit: 00 hex: 01)
+	805C4C74 - (bit: 01 hex: 02)
+	805C4C74 - (bit: 02 hex: 04)
+	805C4C74 - (bit: 03 hex: 08)
+	805C4C74 - (bit: 04 hex: 10)
+	805C4C74 - (bit: 05 hex: 20)
+	805C4C74 - (bit: 06 hex: 40)
+	805C4C74 - (bit: 07 hex: 80)
+	805C4C75 - (bit: 00 hex: 01)
+	805C4C75 - (bit: 01 hex: 02)
+	805C4C75 - (bit: 02 hex: 04)
+	805C4C75 - (bit: 03 hex: 08)
+	805C4C75 - (bit: 04 hex: 10)
+	805C4C75 - (bit: 05 hex: 20)
+	805C4C75 - (bit: 06 hex: 40)
+01AF
+	805C5110 - (bit: 00 hex: 01)
+01B0
+	805C5110 - (bit: 00 hex: 01)
+01B1
+	805C5110 - (bit: 00 hex: 01)
+01B2
+	805C5110 - (bit: 00 hex: 01)
+01B3
+	805C5110 - (bit: 00 hex: 01)
+01B4
+	805C5110 - (bit: 00 hex: 01)
+01B5
+	805C5110 - (bit: 00 hex: 01)
+01B6
+	805C4C75 - (bit: 07 hex: 80)
+	805C4C76 - (bit: 00 hex: 01)
+	805C4C76 - (bit: 01 hex: 02)
+	805C4C76 - (bit: 02 hex: 04)
+	805C4C76 - (bit: 03 hex: 08)
+	805C4C76 - (bit: 04 hex: 10)
+	805C4C76 - (bit: 05 hex: 20)
+	805C4C76 - (bit: 06 hex: 40)
+	805C4C76 - (bit: 07 hex: 80)
+	805C4C77 - (bit: 00 hex: 01)
+	805C4C77 - (bit: 01 hex: 02)
+	805C4C77 - (bit: 02 hex: 04)
+	805C4C77 - (bit: 03 hex: 08)
+	805C4C77 - (bit: 04 hex: 10)
+	805C4C77 - (bit: 05 hex: 20)
+	805C4C77 - (bit: 06 hex: 40)
+	805C4C77 - (bit: 07 hex: 80)
+	805C4C78 - (bit: 00 hex: 01)
+	805C4C78 - (bit: 01 hex: 02)
+	805C4C78 - (bit: 02 hex: 04)
+	805C4C78 - (bit: 03 hex: 08)
+	805C4C78 - (bit: 04 hex: 10)
+	805C4C78 - (bit: 05 hex: 20)
+	805C4C78 - (bit: 06 hex: 40)
+	805C4C78 - (bit: 07 hex: 80)
+	805C4C79 - (bit: 00 hex: 01)
+	805C4C79 - (bit: 01 hex: 02)
+	805C4C79 - (bit: 02 hex: 04)
+	805C4C79 - (bit: 03 hex: 08)
+	805C4C79 - (bit: 04 hex: 10)
+	805C4C79 - (bit: 05 hex: 20)
+	805C4C79 - (bit: 06 hex: 40)
+01B7
+	805C5110 - (bit: 00 hex: 01)
+01B8
+	805C5110 - (bit: 00 hex: 01)
+01B9
+	805C5110 - (bit: 00 hex: 01)
+01BA
+	805C5110 - (bit: 00 hex: 01)
+01BB
+	805C5110 - (bit: 00 hex: 01)
+01BC
+	805C5110 - (bit: 00 hex: 01)
+01BD
+	805C5110 - (bit: 00 hex: 01)
+01BE
+	805C4C79 - (bit: 07 hex: 80)
+	805C4C7A - (bit: 00 hex: 01)
+	805C4C7A - (bit: 01 hex: 02)
+	805C4C7A - (bit: 02 hex: 04)
+	805C4C7A - (bit: 03 hex: 08)
+	805C4C7A - (bit: 04 hex: 10)
+	805C4C7A - (bit: 05 hex: 20)
+	805C4C7A - (bit: 06 hex: 40)
+	805C4C7A - (bit: 07 hex: 80)
+	805C4C7B - (bit: 00 hex: 01)
+	805C4C7B - (bit: 01 hex: 02)
+	805C4C7B - (bit: 02 hex: 04)
+	805C4C7B - (bit: 03 hex: 08)
+	805C4C7B - (bit: 04 hex: 10)
+	805C4C7B - (bit: 05 hex: 20)
+	805C4C7B - (bit: 06 hex: 40)
+	805C4C7B - (bit: 07 hex: 80)
+	805C4C7C - (bit: 00 hex: 01)
+	805C4C7C - (bit: 01 hex: 02)
+	805C4C7C - (bit: 02 hex: 04)
+	805C4C7C - (bit: 03 hex: 08)
+	805C4C7C - (bit: 04 hex: 10)
+	805C4C7C - (bit: 05 hex: 20)
+	805C4C7C - (bit: 06 hex: 40)
+	805C4C7C - (bit: 07 hex: 80)
+	805C4C7D - (bit: 00 hex: 01)
+	805C4C7D - (bit: 01 hex: 02)
+	805C4C7D - (bit: 02 hex: 04)
+	805C4C7D - (bit: 03 hex: 08)
+	805C4C7D - (bit: 04 hex: 10)
+	805C4C7D - (bit: 05 hex: 20)
+	805C4C7D - (bit: 06 hex: 40)
+01BF
+	805C5110 - (bit: 00 hex: 01)
+01C0
+	805C5110 - (bit: 00 hex: 01)
+01C1
+	805C5110 - (bit: 00 hex: 01)
+01C2
+	805C5110 - (bit: 00 hex: 01)
+01C3
+	805C5110 - (bit: 00 hex: 01)
+01C4
+	805C5110 - (bit: 00 hex: 01)
+01C5
+	805C5110 - (bit: 00 hex: 01)
+01C6
+	805C5139 - (bit: 02 hex: 04)
+01C7
+	805C5139 - (bit: 03 hex: 08)
+01C8
+	805C5139 - (bit: 04 hex: 10)
+01C9
+	805C5139 - (bit: 05 hex: 20)
+01CA
+	805C5139 - (bit: 06 hex: 40)
+01CB
+	805C5139 - (bit: 07 hex: 80)
+01CC
+	805C513A - (bit: 00 hex: 01)
+01CD
+	805C513B - (bit: 00 hex: 01)
+01CE
+	805C513C - (bit: 03 hex: 08)
+01CF
+	805C513B - (bit: 01 hex: 02)
+01D0
+	805C4DCB - (bit: 06 hex: 40)
+	805C4DCB - (bit: 07 hex: 80)
+	805C4DCC - (bit: 00 hex: 01)
+	805C4DCC - (bit: 01 hex: 02)
+	805C4DCC - (bit: 02 hex: 04)
+	805C4DCC - (bit: 03 hex: 08)
+01D1
+	805C4DA0 - (bit: 04 hex: 10)
+01D2
+	805C513C - (bit: 04 hex: 10)
+01D3
+	805C513C - (bit: 05 hex: 20)
+01D4
+	805C513C - (bit: 06 hex: 40)
+01D5
+	805C513C - (bit: 07 hex: 80)
+01D6
+	805C4DCC - (bit: 04 hex: 10)
+	805C4DCC - (bit: 05 hex: 20)
+	805C4DCC - (bit: 06 hex: 40)
+	805C4DCC - (bit: 07 hex: 80)
+	805C4DCD - (bit: 00 hex: 01)
+	805C4DCD - (bit: 01 hex: 02)
+01D7
+	805C4DBE - (bit: 04 hex: 10) Forcefield
+01D8
+	805C513D - (bit: 00 hex: 01)
+01D9
+	805C5110 - (bit: 00 hex: 01)
+01DA
+	805C5110 - (bit: 00 hex: 01)
+01DB
+	805C4D6B - (bit: 01 hex: 02) Pulled formerly-icy lever to open door to bridge/machine 2
+01DC
+	805C4D6B - (bit: 02 hex: 04) Triggered the SharpClaw retractable cannon (1)
+01DD
+	805C4D6F - (bit: 01 hex: 02) Started using Flame on Galadon's ice
+01DE
+	805C5122 - (bit: 07 hex: 80)
+01DF
+	805C4D6F - (bit: 04 hex: 10) Completed using Flame on Galadon's ice
+01E0
+	805C511F - (bit: 01 hex: 02) Flamed icy switch leading to bridge 2 (same as 805C4D6A bit 5?)
+01E1
+	805C4D6A - (bit: 05 hex: 20) Flamed icy switch leading to bridge 2
+01E2
+	805C4D6B - (bit: 03 hex: 08) Destroyed door in the retractable cannon area
+01E3
+	805C4D69 - (bit: 01 hex: 02) Pulled lever to extend bridge 2
+01E4
+	805C4D69 - (bit: 03 hex: 08) Bridge 2 extended
+01E5
+	805C4D69 - (bit: 05 hex: 20) Set when Bridge 2 extends
+01E6
+	805C4D6F - (bit: 02 hex: 04) Galadon's hand twitches (triggers rockfall effect)
+01E7
+	805C513E - (bit: 04 hex: 10)
+01E8
+	805C4D6C - (bit: 00 hex: 01) Performed the Leap of Faith (2)
+01E9
+	805C4D6C - (bit: 01 hex: 02) Performed the Leap of Faith (3)
+01EA
+	805C4E0D - (bit: 00 hex: 01)
+01EB
+	805C4C55 - (bit: 04 hex: 10)
+01EC
+	805C4C55 - (bit: 05 hex: 20)
+01ED
+	805C4DCD - (bit: 02 hex: 04)
+	805C4DCD - (bit: 03 hex: 08)
+	805C4DCD - (bit: 04 hex: 10)
+	805C4DCD - (bit: 05 hex: 20)
+	805C4DCD - (bit: 06 hex: 40)
+	805C4DCD - (bit: 07 hex: 80)
+01EE
+	805C4D6C - (bit: 05 hex: 20) Obtained Horn of Truth
+01EF
+	805C4D6C - (bit: 02 hex: 04) Performed the Leap of Faith (1)
+01F0
+	805C4D74 - (bit: 02 hex: 04) ?
+01F1
+	805C4D74 - (bit: 03 hex: 08) Obtained Belina Te's Cell Key
+01F2
+	805C4D74 - (bit: 04 hex: 10) Used Belina Te's Cell Key (not set by game)
+01F3
+	805C4D74 - (bit: 05 hex: 20) Obtained Tricky's Cell Key
+01F4
+	805C4D74 - (bit: 06 hex: 40) Used Tricky's Cell Key (not set by game)
+01F5
+	805C4D74 - (bit: 07 hex: 80) Broke crate holding Tricky's Cell Key
+01F6
+	805C5150 - (bit: 06 hex: 40)
+01F7
+	805C5115 - (bit: 03 hex: 08)
+01F8
+	805C4D4F - (bit: 06 hex: 40)
+01F9
+	805C4D4F - (bit: 07 hex: 80)
+01FA
+	805C4D75 - (bit: 01 hex: 02) Loaded first DIM2 area (set while still on jetbike) (1)
+01FB
+	805C4D75 - (bit: 02 hex: 04) Loaded first DIM2 area (set while still on jetbike) (2)
+01FC
+	805C4D99 - (bit: 04 hex: 10) '0170 Randorn: Ah, Krystal my dear. So tell me, what did you find at Discovery Falls? (QALachu intro)'
+01FD
+	805C4DCE - (bit: 00 hex: 01)
+	805C4DCE - (bit: 01 hex: 02)
+	805C4DCE - (bit: 02 hex: 04)
+	805C4DCE - (bit: 03 hex: 08)
+	805C4DCE - (bit: 04 hex: 10)
+	805C4DCE - (bit: 05 hex: 20)
+01FE
+	805C4D6C - (bit: 06 hex: 40) Summoned SnowHorn using the Horn of Truth
+01FF
+	805C4D6C - (bit: 07 hex: 80) Shot the switch to lower Horn of Truth platform
+0200
+	805C4DC1 - (bit: 06 hex: 40) Grub Bag Action
+0201
+	805C4D80 - (bit: 06 hex: 40) Sun Stone
+0202
+	805C4D81 - (bit: 00 hex: 01)
+0203
+	805C4D84 - (bit: 01 hex: 02)
+0204
+	805C4D83 - (bit: 01 hex: 02)
+0205
+	805C4D82 - (bit: 02 hex: 04)
+0206
+	805C4D82 - (bit: 05 hex: 20)
+0207
+	805C4D75 - (bit: 03 hex: 08) Belina Te's cell door open (1)
+0208
+	805C4D75 - (bit: 04 hex: 10) Watched cutscene of Tricky's cell opening
+0209
+	805C4D50 - (bit: 00 hex: 01)
+020A
+	805C4D50 - (bit: 01 hex: 02)
+020B
+	805C5123 - (bit: 01 hex: 02)
+020C
+	805C5124 - (bit: 01 hex: 02)
+	805C5124 - (bit: 02 hex: 04)
+	805C5124 - (bit: 03 hex: 08)
+	805C5124 - (bit: 04 hex: 10)
+020D
+	805C5123 - (bit: 06 hex: 40)
+020E
+	805C5124 - (bit: 05 hex: 20)
+020F
+	805C5123 - (bit: 07 hex: 80)
+0210
+	805C4C5B - (bit: 01 hex: 02) ?
+0211
+	805C4D6D - (bit: 00 hex: 01) ?
+0212
+	805C4D50 - (bit: 02 hex: 04)
+0213
+	805C4D50 - (bit: 03 hex: 08)
+0214
+	805C4D50 - (bit: 04 hex: 10)
+0215
+	805C4D75 - (bit: 07 hex: 80) Belina Te's cell door open (2)
+0216
+	805C4D76 - (bit: 00 hex: 01) Tricky's cell door open (2)
+0217
+	805C4D76 - (bit: 01 hex: 02) Tricky started Flaming ice blocking Belina Te's Cell Key
+0218
+	805C4D76 - (bit: 02 hex: 04) Tricky finished Flaming ice blocking Belina Te's Cell Key
+0219
+	805C4D75 - (bit: 05 hex: 20) Triggered cutscene of Belina Te's cell opening
+021A
+	805C4D75 - (bit: 06 hex: 40) Tricky's cell door open (1)
+021B
+	805C4D9F - (bit: 04 hex: 10)
+021C
+	805C4D9F - (bit: 06 hex: 40)
+021D
+	805C4D9F - (bit: 07 hex: 80)
+021E
+	805C4DA0 - (bit: 00 hex: 01)
+021F
+	805C4DA0 - (bit: 01 hex: 02)
+0220
+	805C4DA0 - (bit: 02 hex: 04)
+0221
+	805C4DA0 - (bit: 03 hex: 08)
+0222
+	805C4DA0 - (bit: 05 hex: 20)
+0223
+	805C4D76 - (bit: 03 hex: 08) Spoke to Belina Te (1)
+0224
+	805C4D76 - (bit: 04 hex: 10) Spoke to Belina Te (2)
+0225
+	805C4D82 - (bit: 00 hex: 01)
+0226
+	805C4D82 - (bit: 03 hex: 08)
+0227
+	805C512B - (bit: 07 hex: 80)
+0228
+	805C4C4E - (bit: 07 hex: 80) Finished Lightfoot cutscene and learned Shield spell
+0229
+	805C4DDA - (bit: 04 hex: 10) BOSS Galdon Setup bit 1
+	805C4DDA - (bit: 05 hex: 20) BOSS Galdon Setup bit 2
+	805C4DDA - (bit: 06 hex: 40) BOSS Galdon Setup bit 3
+	805C4DDA - (bit: 07 hex: 80) BOSS Galdon Setup bit 4
+022A
+	805C4C55 - (bit: 06 hex: 40)
+022B
+	805C4D6C - (bit: 04 hex: 10) Passing back over the path after the Leap of Faith, Trigger: '023A Sabre: You would not believe what we had to do to get this!'
+022C
+	805C4DC1 - (bit: 07 hex: 80) Grub Bag Action
+022D
+	805C4F39 - (bit: 02 hex: 04) Render Cape Claw Beach, near Gas Chamber
+022E
+	805C4C3E - (bit: 03 hex: 08) Triggered: '023A Sabre: You would not believe what we had to do to get this!'
+022F
+	805C4D76 - (bit: 07 hex: 80) Belina smashed through the rock wall (1)
+0230
+	805C4D77 - (bit: 00 hex: 01) Belina smashed through the rock wall (2)
+0231
+	805C512C - (bit: 00 hex: 01)
+0232
+	805C512C - (bit: 01 hex: 02)
+0233
+	805C4D77 - (bit: 01 hex: 02) ?
+0234
+	805C4C53 - (bit: 00 hex: 01) Activate Krazoa Tablet Slots
+0235
+	805C4D85 - (bit: 07 hex: 80)
+0236
+	805C4D48 - (bit: 05 hex: 20)
+0237
+	805C4C53 - (bit: 01 hex: 02) ?
+0238
+	805C4C53 - (bit: 02 hex: 04) ?
+0239
+	805C4C53 - (bit: 03 hex: 08) ?
+023A
+	805C4C53 - (bit: 04 hex: 10) ?
+023B
+	805C4C53 - (bit: 05 hex: 20) Krazoa Tablets (3) [Cape Claw] Bit 1
+	805C4C53 - (bit: 06 hex: 40) Krazoa Tablets (3) [Cape Claw] Bit 2
+023C
+	805C4D48 - (bit: 06 hex: 40)
+023D
+	805C4C54 - (bit: 00 hex: 01)
+023E
+	805C4D77 - (bit: 02 hex: 04) Triggered the elevator switch (set/unset every frame while elevator is loaded; unset is on a delay if you shoot the switch instead of standing on it)
+023F
+	805C4D77 - (bit: 03 hex: 08) Elevator is currently in lowered position
+0240
+	805C4D77 - (bit: 04 hex: 10) Defeated the SharpClaw after riding the elevator
+0241
+	805C4D77 - (bit: 05 hex: 20) Obtained Door Key 1 from SharpClaw
+0242
+	805C4D77 - (bit: 06 hex: 40) Used Door Key 1 (not set by game)
+0243
+	805C4D81 - (bit: 01 hex: 02)
+0244
+	805C4D82 - (bit: 01 hex: 02)
+0245
+	805C4C80 - (bit: 04 hex: 10)
+0246
+	805C4C4E - (bit: 04 hex: 10) ?
+0247
+	805C5110 - (bit: 00 hex: 01)
+0248
+	805C5110 - (bit: 00 hex: 01)
+0249
+	805C5110 - (bit: 00 hex: 01)
+024A
+	805C4D77 - (bit: 07 hex: 80) ?
+024B
+	805C4D78 - (bit: 00 hex: 01) Wooden door 1 in elevator room is open
+024C
+	805C512C - (bit: 02 hex: 04)
+024D
+	805C512C - (bit: 03 hex: 08)
+024E
+	805C512C - (bit: 04 hex: 10)
+024F
+	805C4D50 - (bit: 07 hex: 80)
+0250
+	805C4D51 - (bit: 00 hex: 01)
+0251
+	805C4D51 - (bit: 01 hex: 02)
+0252
+	805C4D51 - (bit: 02 hex: 04)
+0253
+	805C4D51 - (bit: 03 hex: 08)
+0254
+	805C4D78 - (bit: 01 hex: 02) Shot down north icicle
+0255
+	805C4D78 - (bit: 02 hex: 04) Shot down east icicle
+0256
+	805C4DC3 - (bit: 04 hex: 10)
+	805C4DC3 - (bit: 05 hex: 20)
+	805C4DC3 - (bit: 06 hex: 40)
+	805C4DC3 - (bit: 07 hex: 80)
+	805C4DC4 - (bit: 00 hex: 01)
+	805C4DC4 - (bit: 01 hex: 02)
+0257
+	805C4D49 - (bit: 07 hex: 80) ?
+0258
+	805C4D4A - (bit: 01 hex: 02)
+0259
+	805C4D4A - (bit: 03 hex: 08)
+025A
+	805C4D81 - (bit: 02 hex: 04)
+025B
+	805C4D81 - (bit: 03 hex: 08)
+025C
+	805C4D81 - (bit: 04 hex: 10)
+025D
+	805C4D81 - (bit: 05 hex: 20)
+025E
+	805C5124 - (bit: 00 hex: 01)
+025F
+	805C4D82 - (bit: 06 hex: 40)
+0260
+	805C512A - (bit: 00 hex: 01)
+0261
+	805C512A - (bit: 01 hex: 02)
+0262
+	805C512A - (bit: 02 hex: 04)
+0263
+	805C512A - (bit: 03 hex: 08)
+0264
+	805C4D80 - (bit: 07 hex: 80) Moon Stone
+0265
+	805C4D85 - (bit: 04 hex: 10)
+0266
+	805C5123 - (bit: 02 hex: 04)
+0267
+	805C5123 - (bit: 03 hex: 08)
+0268
+	805C5123 - (bit: 04 hex: 10)
+0269
+	805C5124 - (bit: 06 hex: 40)
+026A
+	805C5124 - (bit: 07 hex: 80)
+026B
+	805C5125 - (bit: 00 hex: 01)
+026C
+	805C4D78 - (bit: 03 hex: 08) Shot down south icicle
+026D
+	805C4D78 - (bit: 04 hex: 10) Shot down west icicle
+026E
+	805C4D78 - (bit: 06 hex: 40) North icicle's platform created
+026F
+	805C4D78 - (bit: 07 hex: 80) East icicle's platform created
+0270
+	805C4D79 - (bit: 00 hex: 01) South icicle's platform created
+0271
+	805C4D79 - (bit: 01 hex: 02) West icicle's platform created
+0272
+	805C4D78 - (bit: 05 hex: 20) Pushed ice block down into lake
+0273
+	805C5110 - (bit: 00 hex: 01)
+0274
+	805C4D83 - (bit: 00 hex: 01)
+0275
+	805C5110 - (bit: 00 hex: 01)
+0276
+	805C4F39 - (bit: 06 hex: 40) Village Ruins Secret Tunnel
+0277
+	805C4D99 - (bit: 05 hex: 20)
+0278
+	805C4D79 - (bit: 03 hex: 08) Pulled lever to release ice floes
+0279
+	805C4D79 - (bit: 04 hex: 10) Spawn ice floes behind the gate
+027A
+	805C4D79 - (bit: 05 hex: 20) Opened the ice room gate
+027B
+	805C4D79 - (bit: 02 hex: 04) Ice block's platform created
+027C
+	805C4D7A - (bit: 01 hex: 02) Raised platform 1 in pitfall room
+027D
+	805C4D7A - (bit: 02 hex: 04) Raised platform 2 in pitfall room
+027E
+	805C4D7A - (bit: 03 hex: 08) Raised platform 3 in pitfall room
+027F
+	805C4D79 - (bit: 06 hex: 40) Shot switch 1 in pitfall room
+0280
+	805C4D79 - (bit: 07 hex: 80) Show switch 2 in pitfall room
+0281
+	805C4D7A - (bit: 00 hex: 01) Shot switch 3 in pitfall room
+0282
+	805C4D7A - (bit: 04 hex: 10) Obtained Door Key 2 from crate near mushrooms
+0283
+	805C4D7A - (bit: 05 hex: 20) Used Door Key 2 (not set by game)
+0284
+	805C4D7A - (bit: 06 hex: 40) ?
+0285
+	805C4D7A - (bit: 07 hex: 80) Opened wooden door 2 in mushroom room
+0286
+	805C4D75 - (bit: 00 hex: 01) Destroyed crate holding Door Key 2 (for wooden door 2)
+0287
+	805C4D7B - (bit: 00 hex: 01) Shot trapdoor switch in lava/boulder room (unset on a delay)
+0288
+	805C4D7B - (bit: 01 hex: 02) Trapdoor opened (unset on a delay)
+0289
+	805C5110 - (bit: 00 hex: 01)
+028A
+	805C5110 - (bit: 00 hex: 01)
+028B
+	805C5110 - (bit: 00 hex: 01)
+028C
+	805C4D7B - (bit: 02 hex: 04) Lava is solidified and can be walked on (looks like lava again after a reload, but it's not)
+028D
+	805C5115 - (bit: 04 hex: 10)
+028E
+	805C5116 - (bit: 02 hex: 04)
+028F
+	805C4D47 - (bit: 01 hex: 02)
+0290
+	805C4D52 - (bit: 02 hex: 04)
+0291
+	805C4D7B - (bit: 03 hex: 08) ?
+0292
+	805C4F39 - (bit: 07 hex: 80) Village Ruins Secret Room (Cape Claw)
+0293
+	805C5115 - (bit: 07 hex: 80)
+0294
+	805C4D43 - (bit: 06 hex: 40)
+0295
+	805C4F39 - (bit: 05 hex: 20) Village Ruins Ledge (Cape Claw)
+0296
+	805C4C54 - (bit: 02 hex: 04) After waterfall passage opens/closes
+0297
+	805C4D99 - (bit: 06 hex: 40)
+0298
+	805C4D99 - (bit: 07 hex: 80)
+0299
+	805C4C54 - (bit: 01 hex: 02) Open waterfall passage (Village Ruins, Cape Claw)
+029A
+	805C4D9A - (bit: 04 hex: 10)
+029B
+	805C4D9A - (bit: 05 hex: 20)
+029C
+	805C512C - (bit: 05 hex: 20)
+029D
+	805C5116 - (bit: 03 hex: 08)
+029E
+	805C4D47 - (bit: 02 hex: 04)
+029F
+	805C5116 - (bit: 04 hex: 10)
+02A0
+	805C4D45 - (bit: 07 hex: 80)
+02A1
+	805C4D44 - (bit: 05 hex: 20)
+02A2
+	805C4D44 - (bit: 06 hex: 40)
+02A3
+	805C4D44 - (bit: 07 hex: 80)
+02A4
+	805C4D45 - (bit: 00 hex: 01)
+02A5
+	805C4D83 - (bit: 02 hex: 04)
+02A6
+	805C4D82 - (bit: 04 hex: 10)
+02A7
+	805C4D9A - (bit: 00 hex: 01)
+02A8
+	805C4D9A - (bit: 01 hex: 02)
+02A9
+	805C4D9A - (bit: 02 hex: 04)
+02AA
+	805C512D - (bit: 07 hex: 80)
+02AB
+	805C512E - (bit: 00 hex: 01)
+02AC
+	805C512E - (bit: 01 hex: 02)
+02AD
+	805C512E - (bit: 02 hex: 04)
+02AE
+	805C512E - (bit: 03 hex: 08)
+02AF
+	805C512E - (bit: 04 hex: 10)
+02B0
+	805C4D85 - (bit: 02 hex: 04)
+02B1
+	805C4D83 - (bit: 03 hex: 08)
+02B2
+	805C4C41 - (bit: 06 hex: 40)
+02B3
+	805C5112 - (bit: 01 hex: 02)
+02B4
+	805C4F39 - (bit: 00 hex: 01) Render Village Ruins Entrance
+02B5
+	805C4C45 - (bit: 04 hex: 10)
+02B6
+	805C4C3F - (bit: 00 hex: 01) Shiney Nugget #1 (useless, doesn't show after completing Cape Claw)
+02B7
+	805C4C3F - (bit: 01 hex: 02) Shiney Nugget #2 (useless, doesn't show after completing Cape Claw)
+02B8
+	805C5111 - (bit: 04 hex: 10)
+02B9
+	805C4C3F - (bit: 07 hex: 80) ?
+02BA Increments every night up to 27, then resets
+	805C4C41 - (bit: 00 hex: 01)
+	805C4C41 - (bit: 01 hex: 02)
+	805C4C41 - (bit: 02 hex: 04)
+	805C4C41 - (bit: 03 hex: 08)
+	805C4C41 - (bit: 04 hex: 10)
+02BB
+	805C4C41 - (bit: 05 hex: 20)
+02BC
+	805C5111 - (bit: 05 hex: 20)
+02BD
+	805C512E - (bit: 05 hex: 20)
+02BE
+	805C4D9B - (bit: 07 hex: 80)
+02BF
+	805C512E - (bit: 06 hex: 40) Trigger: '01B3 Randorn: Be careful, there are Skeetlas everywhere.'
+02C0
+	805C4F39 - (bit: 03 hex: 08) Render Krazoa Tablet / Prison Area (Cape Claw)
+02C1
+	805C4F39 - (bit: 04 hex: 10) Render Village Ruins (Cape Claw)
+02C2
+	805C4D76 - (bit: 05 hex: 20) Reached Belina Te at the bottom of DarkIce Mines (1)
+02C3
+	805C4D76 - (bit: 06 hex: 40) Reached Belina Te at the bottom of DarkIce Mines (2)
+02C4
+	805C512E - (bit: 07 hex: 80)
+02C5
+	805C4C51 - (bit: 01 hex: 02) Used cell door key (also 'legit Kyte', freeing Kyte will persist through saves)
+02C6
+	805C5112 - (bit: 05 hex: 20)
+02C7
+	805C4C45 - (bit: 05 hex: 20)
+02C8
+	805C5111 - (bit: 07 hex: 80)
+02C9
+	805C4C45 - (bit: 06 hex: 40)
+02CA
+	805C4C46 - (bit: 00 hex: 01)
+02CB
+	805C5112 - (bit: 00 hex: 01)
+02CC
+	805C4C45 - (bit: 07 hex: 80)
+02CD
+	805C4C40 - (bit: 00 hex: 01) ?
+02CE
+	805C4C40 - (bit: 01 hex: 02) ?
+02CF
+	805C4C40 - (bit: 02 hex: 04) ?
+02D0
+	805C4C45 - (bit: 03 hex: 08)
+02D1
+	805C4D83 - (bit: 05 hex: 20)
+02D2
+	805C4D83 - (bit: 06 hex: 40)
+02D3
+	805C4D52 - (bit: 03 hex: 08)
+02D4
+	805C4D85 - (bit: 00 hex: 01)
+02D5
+	805C4D85 - (bit: 01 hex: 02)
+02D6
+	805C4D9C - (bit: 01 hex: 02)
+02D7
+	805C4C42 - (bit: 00 hex: 01)
+02D8
+	805C4C42 - (bit: 01 hex: 02)
+02D9
+	805C4C42 - (bit: 02 hex: 04)
+02DA
+	805C4E05 - (bit: 00 hex: 01)
+	805C4E05 - (bit: 01 hex: 02)
+	805C4E05 - (bit: 02 hex: 04)
+	805C4E05 - (bit: 03 hex: 08)
+	805C4E05 - (bit: 04 hex: 10)
+	805C4E05 - (bit: 05 hex: 20)
+	805C4E05 - (bit: 06 hex: 40)
+	805C4E05 - (bit: 07 hex: 80)
+02DB
+	805C512F - (bit: 00 hex: 01)
+02DC
+	805C4C43 - (bit: 01 hex: 02)
+02DD
+	805C512F - (bit: 01 hex: 02)
+02DE
+	805C4D52 - (bit: 04 hex: 10)
+02DF
+	805C4D52 - (bit: 05 hex: 20)
+02E0
+	805C4D52 - (bit: 06 hex: 40)
+02E1
+	805C4D52 - (bit: 07 hex: 80)
+02E2
+	805C512F - (bit: 02 hex: 04)
+02E3
+	805C512F - (bit: 03 hex: 08)
+02E4
+	805C512F - (bit: 04 hex: 10)
+02E5
+	805C512F - (bit: 05 hex: 20)
+02E6
+	805C4C43 - (bit: 02 hex: 04)
+02E7
+	805C4C46 - (bit: 04 hex: 10)
+02E8
+	805C4D41 - (bit: 01 hex: 02) Spellstone [Cloudrunner Fortress]
+02E9
+	805C512F - (bit: 06 hex: 40)
+02EA
+	805C4E06 - (bit: 00 hex: 01)
+02EB
+	805C4D84 - (bit: 05 hex: 20)
+02EC
+	805C4D84 - (bit: 02 hex: 04)
+02ED
+	805C4D9C - (bit: 02 hex: 04)
+02EE
+	805C512F - (bit: 07 hex: 80)
+02EF
+	805C4D84 - (bit: 03 hex: 08)
+02F0
+	805C4D84 - (bit: 06 hex: 40)
+02F1
+	805C4D84 - (bit: 07 hex: 80)
+02F2
+	805C4D9C - (bit: 03 hex: 08)
+02F3
+	805C4D9C - (bit: 04 hex: 10)
+02F4
+	805C4D9C - (bit: 05 hex: 20)
+02F5
+	805C5130 - (bit: 00 hex: 01)
+02F6
+	805C5130 - (bit: 01 hex: 02)
+02F7
+	805C5130 - (bit: 02 hex: 04)
+02F8
+	805C4D83 - (bit: 04 hex: 10)
+02F9
+	805C4D53 - (bit: 03 hex: 08)
+02FA
+	805C5130 - (bit: 03 hex: 08)
+02FB
+	805C4D9C - (bit: 07 hex: 80)
+02FC
+	805C4D51 - (bit: 04 hex: 10)
+02FD
+	805C4D51 - (bit: 05 hex: 20)
+02FE
+	805C4D51 - (bit: 06 hex: 40)
+02FF
+	805C4D51 - (bit: 07 hex: 80)
+0300
+	805C4D52 - (bit: 00 hex: 01)
+0301
+	805C4D53 - (bit: 04 hex: 10)
+0302
+	805C4D53 - (bit: 07 hex: 80)
+0303
+	805C4D54 - (bit: 00 hex: 01)
+0304
+	805C4D84 - (bit: 04 hex: 10)
+0305
+	805C4D54 - (bit: 01 hex: 02)
+0306
+	805C4D53 - (bit: 05 hex: 20)
+0307
+	805C4D53 - (bit: 06 hex: 40)
+0308
+	805C4D4E - (bit: 01 hex: 02)
+0309
+	805C4D4E - (bit: 03 hex: 08)
+030A
+	805C4D52 - (bit: 01 hex: 02)
+030B
+	805C4D54 - (bit: 02 hex: 04)
+030C
+	805C4D54 - (bit: 03 hex: 08)
+030D
+	805C4D54 - (bit: 04 hex: 10)
+030E
+	805C4D54 - (bit: 06 hex: 40)
+030F
+	805C4D54 - (bit: 07 hex: 80)
+0310
+	805C4D9D - (bit: 00 hex: 01)
+0311
+	805C5123 - (bit: 05 hex: 20)
+0312
+	805C5125 - (bit: 01 hex: 02)
+0313
+	805C5125 - (bit: 02 hex: 04)
+0314
+	805C4D9D - (bit: 01 hex: 02)
+0315
+	805C4D9D - (bit: 02 hex: 04)
+0316
+	805C4D9A - (bit: 06 hex: 40)
+0317
+	805C4D9C - (bit: 00 hex: 01)
+0318
+	805C4D9C - (bit: 06 hex: 40)
+0319
+	805C5130 - (bit: 05 hex: 20)
+031A
+	805C5130 - (bit: 06 hex: 40)
+031B
+	805C5130 - (bit: 07 hex: 80)
+031C
+	805C4D9D - (bit: 03 hex: 08)
+031D
+	805C5131 - (bit: 00 hex: 01)
+031E
+	805C5131 - (bit: 01 hex: 02)
+031F
+	805C4D55 - (bit: 00 hex: 01)
+0320
+	805C4D55 - (bit: 01 hex: 02)
+0321
+	805C4D55 - (bit: 02 hex: 04)
+0322
+	805C5131 - (bit: 02 hex: 04)
+0323
+	805C4D55 - (bit: 03 hex: 08)
+0324
+	805C4D55 - (bit: 05 hex: 20)
+0325
+	805C4D98 - (bit: 02 hex: 04)
+0326
+	805C4D98 - (bit: 03 hex: 08)
+0327
+	805C4D98 - (bit: 04 hex: 10)
+0328
+	805C4D98 - (bit: 05 hex: 20)
+0329
+	805C4D98 - (bit: 06 hex: 40)
+032A
+	805C4D98 - (bit: 07 hex: 80)
+032B
+	805C4D99 - (bit: 00 hex: 01)
+032C
+	805C4D99 - (bit: 01 hex: 02)
+032D
+	805C4D99 - (bit: 02 hex: 04)
+032E
+	805C5130 - (bit: 04 hex: 10)
+032F
+	805C4D60 - (bit: 03 hex: 08)
+0330
+	805C4D60 - (bit: 04 hex: 10)
+0331
+	805C4D55 - (bit: 06 hex: 40)
+0332
+	805C4D55 - (bit: 07 hex: 80)
+0333
+	805C4D56 - (bit: 00 hex: 01) ?
+0334
+	805C4D56 - (bit: 01 hex: 02) ?
+0335
+	805C4D85 - (bit: 06 hex: 40)
+0336
+	805C4D56 - (bit: 02 hex: 04) Treasure Chest Key [Cloudrunner Fortress]
+0337
+	805C4D56 - (bit: 03 hex: 08) ?
+0338
+	805C4D85 - (bit: 05 hex: 20)
+0339
+	805C4D60 - (bit: 06 hex: 40)
+033A
+	805C4D60 - (bit: 07 hex: 80)
+033B
+	805C5120 - (bit: 04 hex: 10)
+033C
+	805C5120 - (bit: 05 hex: 20)
+033D
+	805C4D56 - (bit: 04 hex: 10) ?
+033E
+	805C4D56 - (bit: 05 hex: 20) ?
+033F
+	805C4D56 - (bit: 06 hex: 40) ?
+0340
+	805C4D56 - (bit: 07 hex: 80) ?
+0341
+	805C4DBE - (bit: 05 hex: 20) Projectile (Glitched, looks like dinosaur eye, not working)
+0342
+	805C4D46 - (bit: 00 hex: 01)
+0343
+	805C4D46 - (bit: 01 hex: 02)
+0344
+	805C4D46 - (bit: 02 hex: 04)
+0345
+	805C4D46 - (bit: 03 hex: 08)
+0346
+	805C4D46 - (bit: 04 hex: 10)
+0347
+	805C4D57 - (bit: 00 hex: 01)
+0348
+	805C4DBE - (bit: 06 hex: 40) ?
+0349
+	805C4DDB - (bit: 00 hex: 01) BOSS Drakor Setup bit 1
+	805C4DDB - (bit: 01 hex: 02) BOSS Drakor Setup bit 2
+	805C4DDB - (bit: 02 hex: 04) BOSS Drakor Setup bit 3
+	805C4DDB - (bit: 03 hex: 08) BOSS Drakor Setup bit 4
+034A
+	805C5110 - (bit: 00 hex: 01)
+034B
+	805C4D57 - (bit: 05 hex: 20)
+034C
+	805C4D57 - (bit: 06 hex: 40)
+034D
+	805C4D82 - (bit: 07 hex: 80)
+034E
+	805C4D58 - (bit: 00 hex: 01)
+034F
+	805C4D58 - (bit: 01 hex: 02)
+0350
+	805C4D55 - (bit: 04 hex: 10)
+0351
+	805C4D3F - (bit: 01 hex: 02)
+0352
+	805C4D50 - (bit: 05 hex: 20)
+0353
+	805C4D7B - (bit: 05 hex: 20) Tricky dug the hole leading nowhere
+0354
+	805C4D7B - (bit: 06 hex: 40) Tricky dug the hole leading to Galadon's chamber
+0355
+	805C4C5D - (bit: 00 hex: 01)
+0356
+	805C4D58 - (bit: 02 hex: 04)
+0357
+	805C4D58 - (bit: 03 hex: 08)
+0358
+	805C4D58 - (bit: 04 hex: 10)
+0359
+	805C4D58 - (bit: 05 hex: 20)
+035A
+	805C4D58 - (bit: 06 hex: 40)
+035B
+	805C4D58 - (bit: 07 hex: 80)
+035C
+	805C4D59 - (bit: 00 hex: 01)
+035D
+	805C4D59 - (bit: 01 hex: 02)
+035E
+	805C4D59 - (bit: 02 hex: 04)
+035F
+	805C4D7B - (bit: 07 hex: 80) Jumped off jetbike onto conveyor belt (1)
+0360
+	805C4D59 - (bit: 03 hex: 08)
+0361
+	805C4D59 - (bit: 04 hex: 10)
+0362
+	805C4D59 - (bit: 05 hex: 20)
+0363
+	805C5131 - (bit: 03 hex: 08)
+0364
+	805C5131 - (bit: 04 hex: 10)
+0365
+	805C5131 - (bit: 05 hex: 20)
+0366
+	805C4D9D - (bit: 04 hex: 10)
+0367
+	805C5131 - (bit: 06 hex: 40)
+0368
+	805C5131 - (bit: 07 hex: 80)
+0369
+	805C5132 - (bit: 01 hex: 02)
+036A
+	805C4F3D - (bit: 00 hex: 01)
+	805C4F3D - (bit: 01 hex: 02)
+	805C4F3D - (bit: 02 hex: 04)
+	805C4F3D - (bit: 03 hex: 08)
+	805C4F3D - (bit: 04 hex: 10)
+	805C4F3D - (bit: 05 hex: 20)
+	805C4F3D - (bit: 06 hex: 40)
+	805C4F3D - (bit: 07 hex: 80)
+	805C4F3E - (bit: 00 hex: 01)
+	805C4F3E - (bit: 01 hex: 02)
+	805C4F3E - (bit: 02 hex: 04)
+	805C4F3E - (bit: 03 hex: 08)
+	805C4F3E - (bit: 04 hex: 10)
+	805C4F3E - (bit: 05 hex: 20)
+	805C4F3E - (bit: 06 hex: 40)
+	805C4F3E - (bit: 07 hex: 80)
+	805C4F3F - (bit: 00 hex: 01)
+	805C4F3F - (bit: 01 hex: 02)
+	805C4F3F - (bit: 02 hex: 04)
+	805C4F3F - (bit: 03 hex: 08)
+	805C4F3F - (bit: 04 hex: 10)
+	805C4F3F - (bit: 05 hex: 20)
+	805C4F3F - (bit: 06 hex: 40)
+	805C4F3F - (bit: 07 hex: 80)
+	805C4F40 - (bit: 00 hex: 01)
+	805C4F40 - (bit: 01 hex: 02)
+	805C4F40 - (bit: 02 hex: 04)
+	805C4F40 - (bit: 03 hex: 08)
+	805C4F40 - (bit: 04 hex: 10)
+	805C4F40 - (bit: 05 hex: 20)
+	805C4F40 - (bit: 06 hex: 40)
+	805C4F40 - (bit: 07 hex: 80)
+036B
+	805C5132 - (bit: 02 hex: 04)
+036C
+	805C5132 - (bit: 03 hex: 08)
+036D
+	805C5132 - (bit: 04 hex: 10)
+036E
+	805C4DC4 - (bit: 02 hex: 04)
+	805C4DC4 - (bit: 03 hex: 08)
+	805C4DC4 - (bit: 04 hex: 10)
+	805C4DC4 - (bit: 05 hex: 20)
+	805C4DC4 - (bit: 06 hex: 40)
+	805C4DC4 - (bit: 07 hex: 80)
+036F
+	805C4C55 - (bit: 01 hex: 02)
+0370
+	805C5132 - (bit: 05 hex: 20)
+0371
+	805C4D84 - (bit: 00 hex: 01)
+0372
+	805C4C50 - (bit: 07 hex: 80) Killed left sharpclaw
+0373
+	805C4F41 - (bit: 00 hex: 01)
+	805C4F41 - (bit: 01 hex: 02)
+	805C4F41 - (bit: 02 hex: 04)
+	805C4F41 - (bit: 03 hex: 08)
+	805C4F41 - (bit: 04 hex: 10)
+	805C4F41 - (bit: 05 hex: 20)
+	805C4F41 - (bit: 06 hex: 40)
+	805C4F41 - (bit: 07 hex: 80)
+	805C4F42 - (bit: 00 hex: 01)
+	805C4F42 - (bit: 01 hex: 02)
+	805C4F42 - (bit: 02 hex: 04)
+	805C4F42 - (bit: 03 hex: 08)
+	805C4F42 - (bit: 04 hex: 10)
+	805C4F42 - (bit: 05 hex: 20)
+	805C4F42 - (bit: 06 hex: 40)
+	805C4F42 - (bit: 07 hex: 80)
+	805C4F43 - (bit: 00 hex: 01)
+	805C4F43 - (bit: 01 hex: 02)
+	805C4F43 - (bit: 02 hex: 04)
+	805C4F43 - (bit: 03 hex: 08)
+	805C4F43 - (bit: 04 hex: 10)
+	805C4F43 - (bit: 05 hex: 20)
+	805C4F43 - (bit: 06 hex: 40)
+	805C4F43 - (bit: 07 hex: 80)
+	805C4F44 - (bit: 00 hex: 01)
+	805C4F44 - (bit: 01 hex: 02)
+	805C4F44 - (bit: 02 hex: 04)
+	805C4F44 - (bit: 03 hex: 08)
+	805C4F44 - (bit: 04 hex: 10)
+	805C4F44 - (bit: 05 hex: 20)
+	805C4F44 - (bit: 06 hex: 40)
+	805C4F44 - (bit: 07 hex: 80)
+0374
+	805C4C59 - (bit: 00 hex: 01)
+0375
+	805C4C59 - (bit: 01 hex: 02)
+0376
+	805C4C59 - (bit: 02 hex: 04)
+0377
+	805C4C5A - (bit: 02 hex: 04)
+0378
+	805C4C5A - (bit: 07 hex: 80)
+0379
+	805C4C59 - (bit: 03 hex: 08)
+037A
+	805C4C59 - (bit: 04 hex: 10)
+037B
+	805C4C59 - (bit: 05 hex: 20)
+037C
+	805C4C59 - (bit: 06 hex: 40)
+037D
+	805C4C59 - (bit: 07 hex: 80)
+037E
+	805C4C5A - (bit: 00 hex: 01)
+037F
+	805C4DC5 - (bit: 00 hex: 01)
+	805C4DC5 - (bit: 01 hex: 02)
+	805C4DC5 - (bit: 02 hex: 04)
+	805C4DC5 - (bit: 03 hex: 08)
+	805C4DC5 - (bit: 04 hex: 10)
+	805C4DC5 - (bit: 05 hex: 20)
+0380
+	805C4DC5 - (bit: 06 hex: 40)
+	805C4DC5 - (bit: 07 hex: 80)
+	805C4DC6 - (bit: 00 hex: 01)
+	805C4DC6 - (bit: 01 hex: 02)
+	805C4DC6 - (bit: 02 hex: 04)
+	805C4DC6 - (bit: 03 hex: 08)
+0381
+	805C4DC6 - (bit: 04 hex: 10)
+	805C4DC6 - (bit: 05 hex: 20)
+	805C4DC6 - (bit: 06 hex: 40)
+	805C4DC6 - (bit: 07 hex: 80)
+	805C4DC7 - (bit: 00 hex: 01)
+	805C4DC7 - (bit: 01 hex: 02)
+0382
+	805C4C5A - (bit: 01 hex: 02)
+0383
+	805C4DC1 - (bit: 04 hex: 10) Food Bag Action
+0384
+	805C4DC1 - (bit: 05 hex: 20) Food Bag Action
+0385
+	805C4DC1 - (bit: 01 hex: 02) Food Bag Action
+0386
+	805C4DC1 - (bit: 02 hex: 04) Food Bag Action
+0387
+	805C4DC1 - (bit: 03 hex: 08) Food Bag Action
+0388
+	805C4DAC - (bit: 05 hex: 20) ?
+0389
+	805C4C47 - (bit: 00 hex: 01)
+038A
+	805C4C47 - (bit: 02 hex: 04)
+038B
+	805C4C47 - (bit: 03 hex: 08)
+038C
+	805C4D85 - (bit: 03 hex: 08)
+038D
+	805C4D9D - (bit: 07 hex: 80)
+038E
+	805C4D9E - (bit: 00 hex: 01)
+038F
+	805C4D9E - (bit: 01 hex: 02)
+0390
+	805C4C50 - (bit: 06 hex: 40) Killed right sharpclaw
+0391
+	805C513B - (bit: 02 hex: 04)
+0392
+	805C4D83 - (bit: 07 hex: 80)
+0393
+	805C4C51 - (bit: 02 hex: 04) Pulled all 4 levers with Kyte
+0394
+	805C4F39 - (bit: 01 hex: 02) Render part of Cape Claw Entry (Near LightFoot village)
+0395
+	805C4C4F - (bit: 01 hex: 02) Picked up shiney nugget
+0396
+	805C4DAC - (bit: 06 hex: 40) ?
+0397
+	805C4F51 - (bit: 00 hex: 01)
+	805C4F51 - (bit: 01 hex: 02)
+	805C4F51 - (bit: 02 hex: 04)
+	805C4F51 - (bit: 03 hex: 08)
+	805C4F51 - (bit: 04 hex: 10)
+	805C4F51 - (bit: 05 hex: 20)
+	805C4F51 - (bit: 06 hex: 40)
+	805C4F51 - (bit: 07 hex: 80)
+	805C4F52 - (bit: 00 hex: 01)
+	805C4F52 - (bit: 01 hex: 02)
+	805C4F52 - (bit: 02 hex: 04)
+	805C4F52 - (bit: 03 hex: 08)
+	805C4F52 - (bit: 04 hex: 10)
+	805C4F52 - (bit: 05 hex: 20)
+	805C4F52 - (bit: 06 hex: 40)
+	805C4F52 - (bit: 07 hex: 80)
+	805C4F53 - (bit: 00 hex: 01)
+	805C4F53 - (bit: 01 hex: 02)
+	805C4F53 - (bit: 02 hex: 04)
+	805C4F53 - (bit: 03 hex: 08)
+	805C4F53 - (bit: 04 hex: 10)
+	805C4F53 - (bit: 05 hex: 20)
+	805C4F53 - (bit: 06 hex: 40)
+	805C4F53 - (bit: 07 hex: 80)
+	805C4F54 - (bit: 00 hex: 01)
+	805C4F54 - (bit: 01 hex: 02)
+	805C4F54 - (bit: 02 hex: 04)
+	805C4F54 - (bit: 03 hex: 08)
+	805C4F54 - (bit: 04 hex: 10)
+	805C4F54 - (bit: 05 hex: 20)
+	805C4F54 - (bit: 06 hex: 40)
+	805C4F54 - (bit: 07 hex: 80)
+0398
+	805C5110 - (bit: 00 hex: 01)
+0399
+	805C4DAC - (bit: 07 hex: 80) ?
+039A
+	805C4DAD - (bit: 00 hex: 01)
+039B
+	805C4DAD - (bit: 01 hex: 02) Killed Sharpclaw attacking Pointback
+039C
+	805C4DAD - (bit: 02 hex: 04) Gave egg #1 to Pointback in Diamond Bay
+039D
+	805C4DAD - (bit: 03 hex: 08)
+039E
+	805C4DAD - (bit: 04 hex: 10)
+039F
+	805C5132 - (bit: 00 hex: 01)
+03A0
+	805C4C4E - (bit: 03 hex: 08) Trigger Cinematic Battle, Entering Cape Claw
+03A1
+	805C5110 - (bit: 00 hex: 01)
+03A2
+	805C4C5A - (bit: 03 hex: 08)
+03A3
+	805C4C5A - (bit: 04 hex: 10)
+03A4
+	805C4DAD - (bit: 05 hex: 20)
+03A5
+	805C4DAD - (bit: 06 hex: 40) Dove down Diamond Bay waterfall
+03A6
+	805C4DAD - (bit: 07 hex: 80) Pointback stops getting attacked by sharpclaw (lay down animation???)
+03A7
+	805C4DAE - (bit: 00 hex: 01) Visited Diamond Bay for the first time (check for cutscene trigger)
+03A8
+	805C4C54 - (bit: 05 hex: 20)
+03A9
+	805C4C53 - (bit: 07 hex: 80) ?
+03AA
+	805C4C56 - (bit: 03 hex: 08)
+03AB
+	805C4C56 - (bit: 04 hex: 10)
+03AC
+	805C4C57 - (bit: 01 hex: 02)
+03AD
+	805C4F49 - (bit: 00 hex: 01)
+	805C4F49 - (bit: 01 hex: 02)
+	805C4F49 - (bit: 02 hex: 04)
+	805C4F49 - (bit: 03 hex: 08)
+	805C4F49 - (bit: 04 hex: 10)
+	805C4F49 - (bit: 05 hex: 20)
+	805C4F49 - (bit: 06 hex: 40)
+	805C4F49 - (bit: 07 hex: 80)
+	805C4F4A - (bit: 00 hex: 01)
+	805C4F4A - (bit: 01 hex: 02)
+	805C4F4A - (bit: 02 hex: 04)
+	805C4F4A - (bit: 03 hex: 08)
+	805C4F4A - (bit: 04 hex: 10)
+	805C4F4A - (bit: 05 hex: 20)
+	805C4F4A - (bit: 06 hex: 40)
+	805C4F4A - (bit: 07 hex: 80)
+	805C4F4B - (bit: 00 hex: 01)
+	805C4F4B - (bit: 01 hex: 02)
+	805C4F4B - (bit: 02 hex: 04)
+	805C4F4B - (bit: 03 hex: 08)
+	805C4F4B - (bit: 04 hex: 10)
+	805C4F4B - (bit: 05 hex: 20)
+	805C4F4B - (bit: 06 hex: 40)
+	805C4F4B - (bit: 07 hex: 80)
+	805C4F4C - (bit: 00 hex: 01)
+	805C4F4C - (bit: 01 hex: 02)
+	805C4F4C - (bit: 02 hex: 04)
+	805C4F4C - (bit: 03 hex: 08)
+	805C4F4C - (bit: 04 hex: 10)
+	805C4F4C - (bit: 05 hex: 20)
+	805C4F4C - (bit: 06 hex: 40)
+	805C4F4C - (bit: 07 hex: 80)
+03AE
+	805C4C5A - (bit: 05 hex: 20)
+03AF
+	805C5110 - (bit: 00 hex: 01)
+03B0
+	805C4C4E - (bit: 06 hex: 40) Spoke to freed Lightfoot
+03B1
+	805C4DAE - (bit: 03 hex: 08)
+03B2
+	805C4DAE - (bit: 04 hex: 10)
+03B3
+	805C4DAE - (bit: 05 hex: 20)
+03B4
+	805C4DAE - (bit: 06 hex: 40)
+03B5
+	805C4DAE - (bit: 07 hex: 80)
+03B6
+	805C4DAF - (bit: 00 hex: 01)
+03B7
+	805C4F4D - (bit: 00 hex: 01)
+	805C4F4D - (bit: 01 hex: 02)
+	805C4F4D - (bit: 02 hex: 04)
+	805C4F4D - (bit: 03 hex: 08)
+	805C4F4D - (bit: 04 hex: 10)
+	805C4F4D - (bit: 05 hex: 20)
+	805C4F4D - (bit: 06 hex: 40)
+	805C4F4D - (bit: 07 hex: 80)
+	805C4F4E - (bit: 00 hex: 01)
+	805C4F4E - (bit: 01 hex: 02)
+	805C4F4E - (bit: 02 hex: 04)
+	805C4F4E - (bit: 03 hex: 08)
+	805C4F4E - (bit: 04 hex: 10)
+	805C4F4E - (bit: 05 hex: 20)
+	805C4F4E - (bit: 06 hex: 40)
+	805C4F4E - (bit: 07 hex: 80)
+	805C4F4F - (bit: 00 hex: 01)
+	805C4F4F - (bit: 01 hex: 02)
+	805C4F4F - (bit: 02 hex: 04)
+	805C4F4F - (bit: 03 hex: 08)
+	805C4F4F - (bit: 04 hex: 10)
+	805C4F4F - (bit: 05 hex: 20)
+	805C4F4F - (bit: 06 hex: 40)
+	805C4F4F - (bit: 07 hex: 80)
+	805C4F50 - (bit: 00 hex: 01)
+	805C4F50 - (bit: 01 hex: 02)
+	805C4F50 - (bit: 02 hex: 04)
+	805C4F50 - (bit: 03 hex: 08)
+	805C4F50 - (bit: 04 hex: 10)
+	805C4F50 - (bit: 05 hex: 20)
+	805C4F50 - (bit: 06 hex: 40)
+	805C4F50 - (bit: 07 hex: 80)
+03B8
+	805C4C4F - (bit: 06 hex: 40) Gas chamber exit door opened
+03B9
+	805C4C5A - (bit: 06 hex: 40)
+03BA
+	805C4C5B - (bit: 00 hex: 01) ?
+03BB
+	805C4DAF - (bit: 01 hex: 02)
+03BC
+	805C4DAF - (bit: 02 hex: 04)
+03BD
+	805C4DAF - (bit: 03 hex: 08)
+03BE
+	805C4DAF - (bit: 04 hex: 10)
+03BF
+	805C4DAF - (bit: 05 hex: 20)
+03C0
+	805C4DAF - (bit: 06 hex: 40)
+03C1
+	805C4C4F - (bit: 04 hex: 10) Killed gas chamber sharpclaw 1
+03C2
+	805C4C4F - (bit: 05 hex: 20) Killed gas chamber sharpclaw 2
+03C3
+	805C4C4E - (bit: 05 hex: 20) Shot down Lightfoot's cage
+03C4
+	805C4DAF - (bit: 07 hex: 80) Picked up the egg #1 in Diamond Bay cave, Can pick up third egg (0 = Fox will be able to, 1 = won't be able to)
+03C5
+	805C4DB0 - (bit: 00 hex: 01)
+03C6
+	805C4DB0 - (bit: 01 hex: 02)
+03C7
+	805C4DB0 - (bit: 02 hex: 04)
+03C8
+	805C4DB0 - (bit: 03 hex: 08)
+03C9
+	805C4DB0 - (bit: 04 hex: 10)
+03CA
+	805C4DB0 - (bit: 05 hex: 20)
+	805C4DB0 - (bit: 06 hex: 40)
+	805C4DB0 - (bit: 07 hex: 80)
+03CB
+	805C4E0A - (bit: 01 hex: 02)
+03CC
+	805C4DB1 - (bit: 00 hex: 01)
+03CD
+	805C4DB1 - (bit: 01 hex: 02)
+03CE
+	805C4DB1 - (bit: 02 hex: 04)
+03CF
+	805C4D6D - (bit: 01 hex: 02) Defeated retractable cannon SharpClaw
+03D0
+	805C5120 - (bit: 06 hex: 40)
+03D1
+	805C4DB1 - (bit: 03 hex: 08)
+03D2
+	805C4C52 - (bit: 00 hex: 01) ?
+03D3
+	805C4C52 - (bit: 01 hex: 02) ?
+03D4
+	805C4C52 - (bit: 02 hex: 04) ?
+03D5
+	805C4C52 - (bit: 03 hex: 08) Fire Crystal (3) [Cape Claw]
+	805C4C52 - (bit: 04 hex: 10) Fire Crystal (3) [Cape Claw]
+03D6
+	805C4C54 - (bit: 07 hex: 80)
+03D7
+	805C4C55 - (bit: 00 hex: 01) Blow up wall beside waterfall (Cape Claw village ruins)
+03D8
+	805C5120 - (bit: 07 hex: 80)
+03D9
+	805C4DB1 - (bit: 04 hex: 10)
+03DA
+	805C4DB1 - (bit: 05 hex: 20)
+03DB
+	805C4DB1 - (bit: 06 hex: 40)
+03DC
+	805C5121 - (bit: 00 hex: 01)
+03DD
+	805C4C52 - (bit: 05 hex: 20) ?
+03DE
+	805C4C52 - (bit: 06 hex: 40) ?
+03DF
+	805C4C52 - (bit: 07 hex: 80) ?
+03E0
+	805C4F55 - (bit: 00 hex: 01)
+	805C4F55 - (bit: 01 hex: 02)
+	805C4F55 - (bit: 02 hex: 04)
+	805C4F55 - (bit: 03 hex: 08)
+	805C4F55 - (bit: 04 hex: 10)
+	805C4F55 - (bit: 05 hex: 20)
+	805C4F55 - (bit: 06 hex: 40)
+	805C4F55 - (bit: 07 hex: 80)
+	805C4F56 - (bit: 00 hex: 01)
+	805C4F56 - (bit: 01 hex: 02)
+	805C4F56 - (bit: 02 hex: 04)
+	805C4F56 - (bit: 03 hex: 08)
+	805C4F56 - (bit: 04 hex: 10)
+	805C4F56 - (bit: 05 hex: 20)
+	805C4F56 - (bit: 06 hex: 40)
+	805C4F56 - (bit: 07 hex: 80)
+	805C4F57 - (bit: 00 hex: 01)
+	805C4F57 - (bit: 01 hex: 02)
+	805C4F57 - (bit: 02 hex: 04)
+	805C4F57 - (bit: 03 hex: 08)
+	805C4F57 - (bit: 04 hex: 10)
+	805C4F57 - (bit: 05 hex: 20)
+	805C4F57 - (bit: 06 hex: 40)
+	805C4F57 - (bit: 07 hex: 80)
+	805C4F58 - (bit: 00 hex: 01)
+	805C4F58 - (bit: 01 hex: 02)
+	805C4F58 - (bit: 02 hex: 04)
+	805C4F58 - (bit: 03 hex: 08)
+	805C4F58 - (bit: 04 hex: 10)
+	805C4F58 - (bit: 05 hex: 20)
+	805C4F58 - (bit: 06 hex: 40)
+	805C4F58 - (bit: 07 hex: 80)
+03E1
+	805C4E06 - (bit: 01 hex: 02)
+03E2
+	805C5121 - (bit: 01 hex: 02)
+03E3
+	805C5121 - (bit: 02 hex: 04)
+03E4
+	805C4C7D - (bit: 07 hex: 80)
+	805C4C7E - (bit: 00 hex: 01)
+	805C4C7E - (bit: 01 hex: 02)
+	805C4C7E - (bit: 02 hex: 04)
+	805C4C7E - (bit: 03 hex: 08)
+	805C4C7E - (bit: 04 hex: 10)
+	805C4C7E - (bit: 05 hex: 20)
+	805C4C7E - (bit: 06 hex: 40)
+03E5
+	805C4D66 - (bit: 06 hex: 40) Pushed ice block into place in DarkIce Mines 1 igloo
+03E6
+	805C4C50 - (bit: 01 hex: 02) You shot the left door with the cannon
+03E7
+	805C4C50 - (bit: 02 hex: 04) You shot the right door with the cannon
+03E8
+	805C5121 - (bit: 03 hex: 08)
+03E9
+	805C5121 - (bit: 04 hex: 10)
+03EA
+	805C4D40 - (bit: 07 hex: 80)
+03EB
+	805C4D41 - (bit: 00 hex: 01) ?
+03EC
+	805C5119 - (bit: 04 hex: 10)
+03ED
+	805C4C51 - (bit: 00 hex: 01) Have cell door key (Cape Claw)
+03EE
+	805C4DDB - (bit: 04 hex: 10) Diamond Bay Setup bit 1
+	805C4DDB - (bit: 05 hex: 20) Diamond Bay Setup bit 2
+	805C4DDB - (bit: 06 hex: 40) Diamond Bay Setup bit 3
+	805C4DDB - (bit: 07 hex: 80) Diamond Bay Setup bit 4
+03EF
+	805C5121 - (bit: 05 hex: 20)
+03F0
+	805C5110 - (bit: 03 hex: 08) Triggered: '00D0 Sabre: "He's on his own. Maybe we can sneak by."'
+03F1
+	805C5121 - (bit: 06 hex: 40)
+03F2
+	805C4DB1 - (bit: 07 hex: 80)
+03F3
+	805C4DB2 - (bit: 00 hex: 01)
+03F4
+	805C511A - (bit: 04 hex: 10)
+03F5
+	805C511A - (bit: 05 hex: 20)
+03F6
+	805C5121 - (bit: 07 hex: 80)
+03F7
+	805C5122 - (bit: 00 hex: 01)
+03F8
+	805C4C80 - (bit: 01 hex: 02)
+03F9
+	805C4C56 - (bit: 01 hex: 02)
+03FA
+	805C4C56 - (bit: 02 hex: 04)
+03FB
+	805C4C55 - (bit: 07 hex: 80)
+03FC
+	805C4C54 - (bit: 03 hex: 08)
+03FD
+	805C4C54 - (bit: 04 hex: 10)
+03FE
+	805C4DB2 - (bit: 01 hex: 02)
+03FF
+	805C4DB2 - (bit: 02 hex: 04) Third Pointback egg fetch cutscene trigger
+0400
+	805C4DB2 - (bit: 03 hex: 08) Watched third cutscene Pointback egg fetch cutscene
+0401
+	805C4DB2 - (bit: 04 hex: 10)
+0402
+	805C4DB2 - (bit: 05 hex: 20)
+0403
+	805C4DB2 - (bit: 06 hex: 40)
+0404
+	805C4DB2 - (bit: 07 hex: 80)
+0405
+	805C4F59 - (bit: 00 hex: 01)
+	805C4F59 - (bit: 01 hex: 02)
+	805C4F59 - (bit: 02 hex: 04)
+	805C4F59 - (bit: 03 hex: 08)
+	805C4F59 - (bit: 04 hex: 10)
+	805C4F59 - (bit: 05 hex: 20)
+	805C4F59 - (bit: 06 hex: 40)
+	805C4F59 - (bit: 07 hex: 80)
+	805C4F5A - (bit: 00 hex: 01)
+	805C4F5A - (bit: 01 hex: 02)
+	805C4F5A - (bit: 02 hex: 04)
+	805C4F5A - (bit: 03 hex: 08)
+	805C4F5A - (bit: 04 hex: 10)
+	805C4F5A - (bit: 05 hex: 20)
+	805C4F5A - (bit: 06 hex: 40)
+	805C4F5A - (bit: 07 hex: 80)
+	805C4F5B - (bit: 00 hex: 01)
+	805C4F5B - (bit: 01 hex: 02)
+	805C4F5B - (bit: 02 hex: 04)
+	805C4F5B - (bit: 03 hex: 08)
+	805C4F5B - (bit: 04 hex: 10)
+	805C4F5B - (bit: 05 hex: 20)
+	805C4F5B - (bit: 06 hex: 40)
+	805C4F5B - (bit: 07 hex: 80)
+	805C4F5C - (bit: 00 hex: 01)
+	805C4F5C - (bit: 01 hex: 02)
+	805C4F5C - (bit: 02 hex: 04)
+	805C4F5C - (bit: 03 hex: 08)
+	805C4F5C - (bit: 04 hex: 10)
+	805C4F5C - (bit: 05 hex: 20)
+	805C4F5C - (bit: 06 hex: 40)
+	805C4F5C - (bit: 07 hex: 80)
+0406
+	805C4DB3 - (bit: 00 hex: 01) Draining pool #1 in Diamond Bay cave (Animation)
+0407
+	805C4DB3 - (bit: 01 hex: 02) Draining pool #2 in Diamond Bay cave (Animation)
+0408
+	805C4DB3 - (bit: 02 hex: 04) Draining pool #3 in Diamond Bay cave (Animation)
+0409
+	805C5122 - (bit: 01 hex: 02)
+040A
+	805C4D6D - (bit: 04 hex: 10) Exiting the underground area on the jetbike
+040B
+	805C5110 - (bit: 00 hex: 01)
+040C
+	805C4DB3 - (bit: 06 hex: 40) Tricky dug to drain pool #1 in Diamond Bay cave (After animation)
+040D
+	805C4DB3 - (bit: 07 hex: 80) Tricky dug to drain pool #2 in Diamond Bay cave (After animation)
+040E
+	805C4DB4 - (bit: 00 hex: 01) Tricky dug to drain pool #3 in Diamond Bay cave (After animation)
+040F
+	805C4C47 - (bit: 04 hex: 10) Trigger: '0263 Sharpclaw Placement (MMP Border Entry)'
+0410
+	805C4C47 - (bit: 05 hex: 20) Trigger: '0264 Sharpclaw Placement (MMP Border Entry)'
+0411
+	805C4DB4 - (bit: 03 hex: 08) Pool #3 drained in Diamond Bay cave (After animation)
+0412
+	805C4DB4 - (bit: 04 hex: 10)
+0413
+	805C4DB4 - (bit: 05 hex: 20) Water level rising 1 in Diamond Bay cave (Animation)
+0414
+	805C4DB4 - (bit: 06 hex: 40) Water level rising 2 in Diamond Bay cave (Animation)
+0415
+	805C4DB4 - (bit: 07 hex: 80) Water level rising 3 in Diamond Bay cave (Animation)
+0416
+	805C5110 - (bit: 00 hex: 01)
+0417
+	805C5110 - (bit: 00 hex: 01)
+0418
+	805C5110 - (bit: 00 hex: 01)
+0419
+	805C5110 - (bit: 00 hex: 01)
+041A
+	805C5110 - (bit: 00 hex: 01)
+041B
+	805C5110 - (bit: 00 hex: 01)
+041C
+	805C4C47 - (bit: 06 hex: 40) Triggered: 0263, 0264 Sharpclaw Placement (MMP Border Entry)
+041D
+	805C4C47 - (bit: 01 hex: 02)
+041E
+	805C4C50 - (bit: 03 hex: 08) Pulled the left gate lever/flamed the left torch with Kyte
+041F
+	805C4DB5 - (bit: 03 hex: 08)
+0420
+	805C4DB5 - (bit: 04 hex: 10)
+0421
+	805C4F5D - (bit: 00 hex: 01)
+	805C4F5D - (bit: 01 hex: 02)
+	805C4F5D - (bit: 02 hex: 04)
+	805C4F5D - (bit: 03 hex: 08)
+	805C4F5D - (bit: 04 hex: 10)
+	805C4F5D - (bit: 05 hex: 20)
+	805C4F5D - (bit: 06 hex: 40)
+	805C4F5D - (bit: 07 hex: 80)
+	805C4F5E - (bit: 00 hex: 01)
+	805C4F5E - (bit: 01 hex: 02)
+	805C4F5E - (bit: 02 hex: 04)
+	805C4F5E - (bit: 03 hex: 08)
+	805C4F5E - (bit: 04 hex: 10)
+	805C4F5E - (bit: 05 hex: 20)
+	805C4F5E - (bit: 06 hex: 40)
+	805C4F5E - (bit: 07 hex: 80)
+	805C4F5F - (bit: 00 hex: 01)
+	805C4F5F - (bit: 01 hex: 02)
+	805C4F5F - (bit: 02 hex: 04)
+	805C4F5F - (bit: 03 hex: 08)
+	805C4F5F - (bit: 04 hex: 10)
+	805C4F5F - (bit: 05 hex: 20)
+	805C4F5F - (bit: 06 hex: 40)
+	805C4F5F - (bit: 07 hex: 80)
+	805C4F60 - (bit: 00 hex: 01)
+	805C4F60 - (bit: 01 hex: 02)
+	805C4F60 - (bit: 02 hex: 04)
+	805C4F60 - (bit: 03 hex: 08)
+	805C4F60 - (bit: 04 hex: 10)
+	805C4F60 - (bit: 05 hex: 20)
+	805C4F60 - (bit: 06 hex: 40)
+	805C4F60 - (bit: 07 hex: 80)
+0422
+	805C4DB5 - (bit: 05 hex: 20)
+0423
+	805C4DB5 - (bit: 06 hex: 40)
+0424
+	805C4DB5 - (bit: 07 hex: 80)
+0425
+	805C4DB6 - (bit: 00 hex: 01)
+0426
+	805C4DB6 - (bit: 01 hex: 02)
+0427
+	805C4DB6 - (bit: 02 hex: 04)
+0428
+	805C4DB6 - (bit: 03 hex: 08)
+	805C4DB6 - (bit: 04 hex: 10)
+	805C4DB6 - (bit: 05 hex: 20)
+	805C4DB6 - (bit: 06 hex: 40)
+0429
+	805C4C5D - (bit: 01 hex: 02)
+042A
+	805C4DB6 - (bit: 07 hex: 80)
+042B
+	805C5122 - (bit: 03 hex: 08)
+042C
+	805C4D6D - (bit: 05 hex: 20) ?
+042D
+	805C5122 - (bit: 05 hex: 20)
+042E
+	805C4F69 - (bit: 00 hex: 01)
+	805C4F69 - (bit: 01 hex: 02)
+	805C4F69 - (bit: 02 hex: 04)
+	805C4F69 - (bit: 03 hex: 08)
+	805C4F69 - (bit: 04 hex: 10)
+	805C4F69 - (bit: 05 hex: 20)
+	805C4F69 - (bit: 06 hex: 40)
+	805C4F69 - (bit: 07 hex: 80)
+	805C4F6A - (bit: 00 hex: 01)
+	805C4F6A - (bit: 01 hex: 02)
+	805C4F6A - (bit: 02 hex: 04)
+	805C4F6A - (bit: 03 hex: 08)
+	805C4F6A - (bit: 04 hex: 10)
+	805C4F6A - (bit: 05 hex: 20)
+	805C4F6A - (bit: 06 hex: 40)
+	805C4F6A - (bit: 07 hex: 80)
+	805C4F6B - (bit: 00 hex: 01)
+	805C4F6B - (bit: 01 hex: 02)
+	805C4F6B - (bit: 02 hex: 04)
+	805C4F6B - (bit: 03 hex: 08)
+	805C4F6B - (bit: 04 hex: 10)
+	805C4F6B - (bit: 05 hex: 20)
+	805C4F6B - (bit: 06 hex: 40)
+	805C4F6B - (bit: 07 hex: 80)
+	805C4F6C - (bit: 00 hex: 01)
+	805C4F6C - (bit: 01 hex: 02)
+	805C4F6C - (bit: 02 hex: 04)
+	805C4F6C - (bit: 03 hex: 08)
+	805C4F6C - (bit: 04 hex: 10)
+	805C4F6C - (bit: 05 hex: 20)
+	805C4F6C - (bit: 06 hex: 40)
+	805C4F6C - (bit: 07 hex: 80)
+042F
+	805C5122 - (bit: 02 hex: 04)
+0430
+	805C5122 - (bit: 04 hex: 10)
+0431
+	805C4DB7 - (bit: 00 hex: 01)
+0432
+	805C4DB7 - (bit: 01 hex: 02)
+0433
+	805C4DB7 - (bit: 02 hex: 04)
+0434
+	805C4C47 - (bit: 07 hex: 80)
+0435
+	805C4DB7 - (bit: 03 hex: 08)
+0436
+	805C4DB7 - (bit: 04 hex: 10)
+0437
+	805C4DB7 - (bit: 05 hex: 20)
+0438
+	805C4DB7 - (bit: 06 hex: 40)
+0439
+	805C4DB7 - (bit: 07 hex: 80)
+043A
+	805C4DB8 - (bit: 00 hex: 01)
+043B
+	805C4DB8 - (bit: 01 hex: 02)
+043C
+	805C4DB8 - (bit: 02 hex: 04)
+043D
+	805C4DB8 - (bit: 03 hex: 08)
+043E
+	805C4DB8 - (bit: 04 hex: 10)
+043F
+	805C4DB8 - (bit: 05 hex: 20)
+0440
+	805C4DB8 - (bit: 06 hex: 40)
+0441
+	805C4D6F - (bit: 03 hex: 08) Galadon smashes through the ice
+0442
+	805C5123 - (bit: 00 hex: 01)
+0443
+	805C4F6D - (bit: 00 hex: 01)
+	805C4F6D - (bit: 01 hex: 02)
+	805C4F6D - (bit: 02 hex: 04)
+	805C4F6D - (bit: 03 hex: 08)
+	805C4F6D - (bit: 04 hex: 10)
+	805C4F6D - (bit: 05 hex: 20)
+	805C4F6D - (bit: 06 hex: 40)
+	805C4F6D - (bit: 07 hex: 80)
+	805C4F6E - (bit: 00 hex: 01)
+	805C4F6E - (bit: 01 hex: 02)
+	805C4F6E - (bit: 02 hex: 04)
+	805C4F6E - (bit: 03 hex: 08)
+	805C4F6E - (bit: 04 hex: 10)
+	805C4F6E - (bit: 05 hex: 20)
+	805C4F6E - (bit: 06 hex: 40)
+	805C4F6E - (bit: 07 hex: 80)
+	805C4F6F - (bit: 00 hex: 01)
+	805C4F6F - (bit: 01 hex: 02)
+	805C4F6F - (bit: 02 hex: 04)
+	805C4F6F - (bit: 03 hex: 08)
+	805C4F6F - (bit: 04 hex: 10)
+	805C4F6F - (bit: 05 hex: 20)
+	805C4F6F - (bit: 06 hex: 40)
+	805C4F6F - (bit: 07 hex: 80)
+	805C4F70 - (bit: 00 hex: 01)
+	805C4F70 - (bit: 01 hex: 02)
+	805C4F70 - (bit: 02 hex: 04)
+	805C4F70 - (bit: 03 hex: 08)
+	805C4F70 - (bit: 04 hex: 10)
+	805C4F70 - (bit: 05 hex: 20)
+	805C4F70 - (bit: 06 hex: 40)
+	805C4F70 - (bit: 07 hex: 80)
+0444
+	805C4D99 - (bit: 03 hex: 08)
+0445
+	805C5146 - (bit: 02 hex: 04)
+0446
+	805C5146 - (bit: 03 hex: 08)
+0447
+	805C4D64 - (bit: 07 hex: 80)
+0448
+	805C5146 - (bit: 04 hex: 10)
+0449
+	805C4D6D - (bit: 06 hex: 40) Tricky dug up the Horn pad with Find
+044A
+	805C4D6D - (bit: 07 hex: 80) ?
+044B
+	805C4DB5 - (bit: 00 hex: 01) Water level raised 1 in Diamond Bay cave (After animation)
+044C
+	805C4DB5 - (bit: 01 hex: 02) Water level raised 2 in Diamond Bay cave (After animation)
+044D
+	805C4DB5 - (bit: 02 hex: 04) Water level raised 3 in Diamond Bay cave (After animation)
+044E
+	805C4DB3 - (bit: 03 hex: 08)
+044F
+	805C5151 - (bit: 00 hex: 01)
+0450
+	805C4DB3 - (bit: 04 hex: 10)
+0451
+	805C5146 - (bit: 05 hex: 20)
+0452
+	805C4F65 - (bit: 00 hex: 01)
+	805C4F65 - (bit: 01 hex: 02)
+	805C4F65 - (bit: 02 hex: 04)
+	805C4F65 - (bit: 03 hex: 08)
+	805C4F65 - (bit: 04 hex: 10)
+	805C4F65 - (bit: 05 hex: 20)
+	805C4F65 - (bit: 06 hex: 40)
+	805C4F65 - (bit: 07 hex: 80)
+	805C4F66 - (bit: 00 hex: 01)
+	805C4F66 - (bit: 01 hex: 02)
+	805C4F66 - (bit: 02 hex: 04)
+	805C4F66 - (bit: 03 hex: 08)
+	805C4F66 - (bit: 04 hex: 10)
+	805C4F66 - (bit: 05 hex: 20)
+	805C4F66 - (bit: 06 hex: 40)
+	805C4F66 - (bit: 07 hex: 80)
+	805C4F67 - (bit: 00 hex: 01)
+	805C4F67 - (bit: 01 hex: 02)
+	805C4F67 - (bit: 02 hex: 04)
+	805C4F67 - (bit: 03 hex: 08)
+	805C4F67 - (bit: 04 hex: 10)
+	805C4F67 - (bit: 05 hex: 20)
+	805C4F67 - (bit: 06 hex: 40)
+	805C4F67 - (bit: 07 hex: 80)
+	805C4F68 - (bit: 00 hex: 01)
+	805C4F68 - (bit: 01 hex: 02)
+	805C4F68 - (bit: 02 hex: 04)
+	805C4F68 - (bit: 03 hex: 08)
+	805C4F68 - (bit: 04 hex: 10)
+	805C4F68 - (bit: 05 hex: 20)
+	805C4F68 - (bit: 06 hex: 40)
+	805C4F68 - (bit: 07 hex: 80)
+0453
+	805C4C48 - (bit: 00 hex: 01)
+0454
+	805C4E0A - (bit: 02 hex: 04)
+0455
+	805C4D4F - (bit: 04 hex: 10)
+0456
+	805C5110 - (bit: 00 hex: 01)
+0457
+	805C5110 - (bit: 00 hex: 01)
+0458
+	805C4F71 - (bit: 00 hex: 01)
+	805C4F71 - (bit: 01 hex: 02)
+	805C4F71 - (bit: 02 hex: 04)
+	805C4F71 - (bit: 03 hex: 08)
+	805C4F71 - (bit: 04 hex: 10)
+	805C4F71 - (bit: 05 hex: 20)
+	805C4F71 - (bit: 06 hex: 40)
+	805C4F71 - (bit: 07 hex: 80)
+	805C4F72 - (bit: 00 hex: 01)
+	805C4F72 - (bit: 01 hex: 02)
+	805C4F72 - (bit: 02 hex: 04)
+	805C4F72 - (bit: 03 hex: 08)
+	805C4F72 - (bit: 04 hex: 10)
+	805C4F72 - (bit: 05 hex: 20)
+	805C4F72 - (bit: 06 hex: 40)
+	805C4F72 - (bit: 07 hex: 80)
+	805C4F73 - (bit: 00 hex: 01)
+	805C4F73 - (bit: 01 hex: 02)
+	805C4F73 - (bit: 02 hex: 04)
+	805C4F73 - (bit: 03 hex: 08)
+	805C4F73 - (bit: 04 hex: 10)
+	805C4F73 - (bit: 05 hex: 20)
+	805C4F73 - (bit: 06 hex: 40)
+	805C4F73 - (bit: 07 hex: 80)
+	805C4F74 - (bit: 00 hex: 01)
+	805C4F74 - (bit: 01 hex: 02)
+	805C4F74 - (bit: 02 hex: 04)
+	805C4F74 - (bit: 03 hex: 08)
+	805C4F74 - (bit: 04 hex: 10)
+	805C4F74 - (bit: 05 hex: 20)
+	805C4F74 - (bit: 06 hex: 40)
+	805C4F74 - (bit: 07 hex: 80)
+0459
+	805C5133 - (bit: 05 hex: 20)
+045A
+	805C4F75 - (bit: 00 hex: 01)
+	805C4F75 - (bit: 01 hex: 02)
+	805C4F75 - (bit: 02 hex: 04)
+	805C4F75 - (bit: 03 hex: 08)
+	805C4F75 - (bit: 04 hex: 10)
+	805C4F75 - (bit: 05 hex: 20)
+	805C4F75 - (bit: 06 hex: 40)
+	805C4F75 - (bit: 07 hex: 80)
+	805C4F76 - (bit: 00 hex: 01)
+	805C4F76 - (bit: 01 hex: 02)
+	805C4F76 - (bit: 02 hex: 04)
+	805C4F76 - (bit: 03 hex: 08)
+	805C4F76 - (bit: 04 hex: 10)
+	805C4F76 - (bit: 05 hex: 20)
+	805C4F76 - (bit: 06 hex: 40)
+	805C4F76 - (bit: 07 hex: 80)
+	805C4F77 - (bit: 00 hex: 01)
+	805C4F77 - (bit: 01 hex: 02)
+	805C4F77 - (bit: 02 hex: 04)
+	805C4F77 - (bit: 03 hex: 08)
+	805C4F77 - (bit: 04 hex: 10)
+	805C4F77 - (bit: 05 hex: 20)
+	805C4F77 - (bit: 06 hex: 40)
+	805C4F77 - (bit: 07 hex: 80)
+	805C4F78 - (bit: 00 hex: 01)
+	805C4F78 - (bit: 01 hex: 02)
+	805C4F78 - (bit: 02 hex: 04)
+	805C4F78 - (bit: 03 hex: 08)
+	805C4F78 - (bit: 04 hex: 10)
+	805C4F78 - (bit: 05 hex: 20)
+	805C4F78 - (bit: 06 hex: 40)
+	805C4F78 - (bit: 07 hex: 80)
+045B
+	805C4D50 - (bit: 06 hex: 40)
+045C
+	805C4D3B - (bit: 07 hex: 80)
+045D
+	805C4D3C - (bit: 00 hex: 01)
+045E
+	805C4D3C - (bit: 01 hex: 02)
+045F
+	805C4D3C - (bit: 02 hex: 04)
+0460
+	805C4D3C - (bit: 03 hex: 08)
+0461
+	805C4D3C - (bit: 04 hex: 10)
+0462
+	805C4D3C - (bit: 05 hex: 20)
+0463
+	805C4D3C - (bit: 06 hex: 40)
+0464
+	805C4D3C - (bit: 07 hex: 80)
+0465
+	805C5110 - (bit: 00 hex: 01)
+0466
+	805C5133 - (bit: 06 hex: 40)
+0467
+	805C5133 - (bit: 07 hex: 80)
+0468
+	805C514F - (bit: 02 hex: 04)
+0469
+	805C5134 - (bit: 01 hex: 02)
+046A
+	805C5134 - (bit: 00 hex: 01)
+046B
+	805C4D59 - (bit: 06 hex: 40)
+046C
+	805C4D59 - (bit: 07 hex: 80)
+046D
+	805C4D6E - (bit: 00 hex: 01) Bit 0 of 4-bit randInt for which tent holds Gear 3
+	805C4D6E - (bit: 01 hex: 02) Bit 1 of 4-bit randInt for which tent holds Gear 3
+	805C4D6E - (bit: 02 hex: 04) Bit 2 of 4-bit randInt for which tent holds Gear 3
+	805C4D6E - (bit: 03 hex: 08) Bit 3 of 4-bit randInt for which tent holds Gear 3
+046E
+	805C4FB5 - (bit: 00 hex: 01)
+	805C4FB5 - (bit: 01 hex: 02)
+	805C4FB5 - (bit: 02 hex: 04)
+	805C4FB5 - (bit: 03 hex: 08)
+	805C4FB5 - (bit: 04 hex: 10)
+	805C4FB5 - (bit: 05 hex: 20)
+	805C4FB5 - (bit: 06 hex: 40)
+	805C4FB5 - (bit: 07 hex: 80)
+	805C4FB6 - (bit: 00 hex: 01)
+	805C4FB6 - (bit: 01 hex: 02)
+	805C4FB6 - (bit: 02 hex: 04)
+	805C4FB6 - (bit: 03 hex: 08)
+	805C4FB6 - (bit: 04 hex: 10)
+	805C4FB6 - (bit: 05 hex: 20)
+	805C4FB6 - (bit: 06 hex: 40)
+	805C4FB6 - (bit: 07 hex: 80)
+046F
+	805C5138 - (bit: 02 hex: 04)
+0470
+	805C5138 - (bit: 03 hex: 08)
+0471
+	805C5138 - (bit: 04 hex: 10)
+0472
+	805C5138 - (bit: 05 hex: 20)
+0473
+	805C4F7D - (bit: 00 hex: 01)
+	805C4F7D - (bit: 01 hex: 02)
+	805C4F7D - (bit: 02 hex: 04)
+	805C4F7D - (bit: 03 hex: 08)
+	805C4F7D - (bit: 04 hex: 10)
+	805C4F7D - (bit: 05 hex: 20)
+	805C4F7D - (bit: 06 hex: 40)
+	805C4F7D - (bit: 07 hex: 80)
+	805C4F7E - (bit: 00 hex: 01)
+	805C4F7E - (bit: 01 hex: 02)
+	805C4F7E - (bit: 02 hex: 04)
+	805C4F7E - (bit: 03 hex: 08)
+	805C4F7E - (bit: 04 hex: 10)
+	805C4F7E - (bit: 05 hex: 20)
+	805C4F7E - (bit: 06 hex: 40)
+	805C4F7E - (bit: 07 hex: 80)
+	805C4F7F - (bit: 00 hex: 01)
+	805C4F7F - (bit: 01 hex: 02)
+	805C4F7F - (bit: 02 hex: 04)
+	805C4F7F - (bit: 03 hex: 08)
+	805C4F7F - (bit: 04 hex: 10)
+	805C4F7F - (bit: 05 hex: 20)
+	805C4F7F - (bit: 06 hex: 40)
+	805C4F7F - (bit: 07 hex: 80)
+	805C4F80 - (bit: 00 hex: 01)
+	805C4F80 - (bit: 01 hex: 02)
+	805C4F80 - (bit: 02 hex: 04)
+	805C4F80 - (bit: 03 hex: 08)
+	805C4F80 - (bit: 04 hex: 10)
+	805C4F80 - (bit: 05 hex: 20)
+	805C4F80 - (bit: 06 hex: 40)
+	805C4F80 - (bit: 07 hex: 80)
+0474
+	805C5138 - (bit: 06 hex: 40)
+0475
+	805C4D57 - (bit: 07 hex: 80)
+0476
+	805C4D5A - (bit: 00 hex: 01)
+0477
+	805C4D5A - (bit: 01 hex: 02)
+0478
+	805C5126 - (bit: 06 hex: 40) Trigger '0379 Sharpclaw Jetbike Short'
+0479
+	805C4D71 - (bit: 04 hex: 10) ?
+047A
+	805C5110 - (bit: 00 hex: 01)
+047B
+	805C4F85 - (bit: 00 hex: 01)
+	805C4F85 - (bit: 01 hex: 02)
+	805C4F85 - (bit: 02 hex: 04)
+	805C4F85 - (bit: 03 hex: 08)
+	805C4F85 - (bit: 04 hex: 10)
+	805C4F85 - (bit: 05 hex: 20)
+	805C4F85 - (bit: 06 hex: 40)
+	805C4F85 - (bit: 07 hex: 80)
+	805C4F86 - (bit: 00 hex: 01)
+	805C4F86 - (bit: 01 hex: 02)
+	805C4F86 - (bit: 02 hex: 04)
+	805C4F86 - (bit: 03 hex: 08)
+	805C4F86 - (bit: 04 hex: 10)
+	805C4F86 - (bit: 05 hex: 20)
+	805C4F86 - (bit: 06 hex: 40)
+	805C4F86 - (bit: 07 hex: 80)
+	805C4F87 - (bit: 00 hex: 01)
+	805C4F87 - (bit: 01 hex: 02)
+	805C4F87 - (bit: 02 hex: 04)
+	805C4F87 - (bit: 03 hex: 08)
+	805C4F87 - (bit: 04 hex: 10)
+	805C4F87 - (bit: 05 hex: 20)
+	805C4F87 - (bit: 06 hex: 40)
+	805C4F87 - (bit: 07 hex: 80)
+	805C4F88 - (bit: 00 hex: 01)
+	805C4F88 - (bit: 01 hex: 02)
+	805C4F88 - (bit: 02 hex: 04)
+	805C4F88 - (bit: 03 hex: 08)
+	805C4F88 - (bit: 04 hex: 10)
+	805C4F88 - (bit: 05 hex: 20)
+	805C4F88 - (bit: 06 hex: 40)
+	805C4F88 - (bit: 07 hex: 80)
+047C
+	805C4F79 - (bit: 00 hex: 01)
+	805C4F79 - (bit: 01 hex: 02)
+	805C4F79 - (bit: 02 hex: 04)
+	805C4F79 - (bit: 03 hex: 08)
+	805C4F79 - (bit: 04 hex: 10)
+	805C4F79 - (bit: 05 hex: 20)
+	805C4F79 - (bit: 06 hex: 40)
+	805C4F79 - (bit: 07 hex: 80)
+	805C4F7A - (bit: 00 hex: 01)
+	805C4F7A - (bit: 01 hex: 02)
+	805C4F7A - (bit: 02 hex: 04)
+	805C4F7A - (bit: 03 hex: 08)
+	805C4F7A - (bit: 04 hex: 10)
+	805C4F7A - (bit: 05 hex: 20)
+	805C4F7A - (bit: 06 hex: 40)
+	805C4F7A - (bit: 07 hex: 80)
+	805C4F7B - (bit: 00 hex: 01)
+	805C4F7B - (bit: 01 hex: 02)
+	805C4F7B - (bit: 02 hex: 04)
+	805C4F7B - (bit: 03 hex: 08)
+	805C4F7B - (bit: 04 hex: 10)
+	805C4F7B - (bit: 05 hex: 20)
+	805C4F7B - (bit: 06 hex: 40)
+	805C4F7B - (bit: 07 hex: 80)
+	805C4F7C - (bit: 00 hex: 01)
+	805C4F7C - (bit: 01 hex: 02)
+	805C4F7C - (bit: 02 hex: 04)
+	805C4F7C - (bit: 03 hex: 08)
+	805C4F7C - (bit: 04 hex: 10)
+	805C4F7C - (bit: 05 hex: 20)
+	805C4F7C - (bit: 06 hex: 40)
+	805C4F7C - (bit: 07 hex: 80)
+047D
+	805C5126 - (bit: 07 hex: 80) Triggered '0379 Sharpclaw Jetbike Short' and '038F Triggers when you're submerged in sinking sand'
+047E
+	805C4DAE - (bit: 01 hex: 02) Triggers 2nd Pointback fetch cutscene in Diamond Bay (assumes Fox has spellstone 2)
+047F
+	805C4DAE - (bit: 02 hex: 04) Watched 2nd Pointback egg fetch cutscene
+0480
+	805C4F89 - (bit: 00 hex: 01)
+	805C4F89 - (bit: 01 hex: 02)
+	805C4F89 - (bit: 02 hex: 04)
+	805C4F89 - (bit: 03 hex: 08)
+	805C4F89 - (bit: 04 hex: 10)
+	805C4F89 - (bit: 05 hex: 20)
+	805C4F89 - (bit: 06 hex: 40)
+	805C4F89 - (bit: 07 hex: 80)
+	805C4F8A - (bit: 00 hex: 01)
+	805C4F8A - (bit: 01 hex: 02)
+	805C4F8A - (bit: 02 hex: 04)
+	805C4F8A - (bit: 03 hex: 08)
+	805C4F8A - (bit: 04 hex: 10)
+	805C4F8A - (bit: 05 hex: 20)
+	805C4F8A - (bit: 06 hex: 40)
+	805C4F8A - (bit: 07 hex: 80)
+	805C4F8B - (bit: 00 hex: 01)
+	805C4F8B - (bit: 01 hex: 02)
+	805C4F8B - (bit: 02 hex: 04)
+	805C4F8B - (bit: 03 hex: 08)
+	805C4F8B - (bit: 04 hex: 10)
+	805C4F8B - (bit: 05 hex: 20)
+	805C4F8B - (bit: 06 hex: 40)
+	805C4F8B - (bit: 07 hex: 80)
+	805C4F8C - (bit: 00 hex: 01)
+	805C4F8C - (bit: 01 hex: 02)
+	805C4F8C - (bit: 02 hex: 04)
+	805C4F8C - (bit: 03 hex: 08)
+	805C4F8C - (bit: 04 hex: 10)
+	805C4F8C - (bit: 05 hex: 20)
+	805C4F8C - (bit: 06 hex: 40)
+	805C4F8C - (bit: 07 hex: 80)
+0481
+	805C512C - (bit: 06 hex: 40)
+0482
+	805C512C - (bit: 07 hex: 80)
+0483
+	805C512D - (bit: 00 hex: 01)
+0484
+	805C4D3D - (bit: 05 hex: 20) Triggered: '0298 QEarthwalker: This is a Force Point Temple.'
+0485
+	805C4D3D - (bit: 06 hex: 40) Triggered: '0299 QEarthwalker: You and Krystal must find the objects designed to do this job: the six Spellstones.'
+0486
+	805C4D3D - (bit: 07 hex: 80) Trigger: '0298 QEarthwalker: This is a Force Point Temple.'
+0487
+	805C4D3E - (bit: 00 hex: 01) Trigger: '0299 QEarthwalker: You and Krystal must find the objects designed to do this job: the six Spellstones.'
+0488
+	805C4E09 - (bit: 01 hex: 02)
+	805C4E09 - (bit: 02 hex: 04)
+	805C4E09 - (bit: 03 hex: 08)
+	805C4E09 - (bit: 04 hex: 10)
+	805C4E09 - (bit: 05 hex: 20)
+	805C4E09 - (bit: 06 hex: 40)
+	805C4E09 - (bit: 07 hex: 80)
+	805C4E0A - (bit: 00 hex: 01)
+0489
+	805C4D9E - (bit: 03 hex: 08)
+	805C4D9E - (bit: 04 hex: 10)
+	805C4D9E - (bit: 05 hex: 20)
+	805C4D9E - (bit: 06 hex: 40)
+	805C4D9E - (bit: 07 hex: 80)
+	805C4D9F - (bit: 00 hex: 01)
+	805C4D9F - (bit: 01 hex: 02)
+	805C4D9F - (bit: 02 hex: 04)
+048A
+	805C4D65 - (bit: 00 hex: 01) ?
+048B
+	805C4C3D - (bit: 05 hex: 20) Bit 0 of Garunda Te feeding counter
+	805C4C3D - (bit: 06 hex: 40) Bit 1 of Garunda Te feeding counter
+	805C4C3D - (bit: 07 hex: 80) Bit 2 of Garunda Te feeding counter
+	805C4C3E - (bit: 00 hex: 01) Bit 3 of Garunda Te feeding counter
+048C
+	805C5110 - (bit: 00 hex: 01)
+048D
+	805C5110 - (bit: 00 hex: 01)
+048E
+	805C5110 - (bit: 00 hex: 01)
+048F
+	805C5110 - (bit: 00 hex: 01)
+0490
+	805C5110 - (bit: 00 hex: 01)
+0491
+	805C5110 - (bit: 00 hex: 01)
+0492
+	805C4DDA - (bit: 00 hex: 01) DarkIce Mines Setup bit 1
+	805C4DDA - (bit: 01 hex: 02) DarkIce Mines Setup bit 2
+	805C4DDA - (bit: 02 hex: 04) DarkIce Mines Setup bit 3
+	805C4DDA - (bit: 03 hex: 08) DarkIce Mines Setup bit 4
+0493
+	805C4F45 - (bit: 00 hex: 01)
+	805C4F45 - (bit: 01 hex: 02)
+	805C4F45 - (bit: 02 hex: 04)
+	805C4F45 - (bit: 03 hex: 08)
+	805C4F45 - (bit: 04 hex: 10)
+	805C4F45 - (bit: 05 hex: 20)
+	805C4F45 - (bit: 06 hex: 40)
+	805C4F45 - (bit: 07 hex: 80)
+	805C4F46 - (bit: 00 hex: 01)
+	805C4F46 - (bit: 01 hex: 02)
+	805C4F46 - (bit: 02 hex: 04)
+	805C4F46 - (bit: 03 hex: 08)
+	805C4F46 - (bit: 04 hex: 10)
+	805C4F46 - (bit: 05 hex: 20)
+	805C4F46 - (bit: 06 hex: 40)
+	805C4F46 - (bit: 07 hex: 80)
+	805C4F47 - (bit: 00 hex: 01)
+	805C4F47 - (bit: 01 hex: 02)
+	805C4F47 - (bit: 02 hex: 04)
+	805C4F47 - (bit: 03 hex: 08)
+	805C4F47 - (bit: 04 hex: 10)
+	805C4F47 - (bit: 05 hex: 20)
+	805C4F47 - (bit: 06 hex: 40)
+	805C4F47 - (bit: 07 hex: 80)
+	805C4F48 - (bit: 00 hex: 01)
+	805C4F48 - (bit: 01 hex: 02)
+	805C4F48 - (bit: 02 hex: 04)
+	805C4F48 - (bit: 03 hex: 08)
+	805C4F48 - (bit: 04 hex: 10)
+	805C4F48 - (bit: 05 hex: 20)
+	805C4F48 - (bit: 06 hex: 40)
+	805C4F48 - (bit: 07 hex: 80)
+0494
+	805C5110 - (bit: 00 hex: 01)
+0495
+	805C5110 - (bit: 00 hex: 01)
+0496
+	805C5110 - (bit: 00 hex: 01)
+0497
+	805C4D61 - (bit: 03 hex: 08)
+0498
+	805C4D61 - (bit: 04 hex: 10)
+0499
+	805C4D61 - (bit: 05 hex: 20)
+049A
+	805C4D61 - (bit: 06 hex: 40)
+049B
+	805C4D61 - (bit: 07 hex: 80)
+049C
+	805C4D62 - (bit: 00 hex: 01)
+049D
+	805C4D62 - (bit: 01 hex: 02)
+049E
+	805C4D62 - (bit: 02 hex: 04)
+049F
+	805C4D62 - (bit: 03 hex: 08)
+04A0
+	805C4D62 - (bit: 04 hex: 10)
+04A1
+	805C5114 - (bit: 07 hex: 80)
+04A2
+	805C4D42 - (bit: 00 hex: 01)
+04A3
+	805C4F81 - (bit: 00 hex: 01)
+	805C4F81 - (bit: 01 hex: 02)
+	805C4F81 - (bit: 02 hex: 04)
+	805C4F81 - (bit: 03 hex: 08)
+	805C4F81 - (bit: 04 hex: 10)
+	805C4F81 - (bit: 05 hex: 20)
+	805C4F81 - (bit: 06 hex: 40)
+	805C4F81 - (bit: 07 hex: 80)
+	805C4F82 - (bit: 00 hex: 01)
+	805C4F82 - (bit: 01 hex: 02)
+	805C4F82 - (bit: 02 hex: 04)
+	805C4F82 - (bit: 03 hex: 08)
+	805C4F82 - (bit: 04 hex: 10)
+	805C4F82 - (bit: 05 hex: 20)
+	805C4F82 - (bit: 06 hex: 40)
+	805C4F82 - (bit: 07 hex: 80)
+	805C4F83 - (bit: 00 hex: 01)
+	805C4F83 - (bit: 01 hex: 02)
+	805C4F83 - (bit: 02 hex: 04)
+	805C4F83 - (bit: 03 hex: 08)
+	805C4F83 - (bit: 04 hex: 10)
+	805C4F83 - (bit: 05 hex: 20)
+	805C4F83 - (bit: 06 hex: 40)
+	805C4F83 - (bit: 07 hex: 80)
+	805C4F84 - (bit: 00 hex: 01)
+	805C4F84 - (bit: 01 hex: 02)
+	805C4F84 - (bit: 02 hex: 04)
+	805C4F84 - (bit: 03 hex: 08)
+	805C4F84 - (bit: 04 hex: 10)
+	805C4F84 - (bit: 05 hex: 20)
+	805C4F84 - (bit: 06 hex: 40)
+	805C4F84 - (bit: 07 hex: 80)
+04A4
+	805C4D62 - (bit: 05 hex: 20)
+04A5
+	805C4E0A - (bit: 03 hex: 08)
+04A6
+	805C4F8D - (bit: 00 hex: 01)
+	805C4F8D - (bit: 01 hex: 02)
+	805C4F8D - (bit: 02 hex: 04)
+	805C4F8D - (bit: 03 hex: 08)
+	805C4F8D - (bit: 04 hex: 10)
+	805C4F8D - (bit: 05 hex: 20)
+	805C4F8D - (bit: 06 hex: 40)
+	805C4F8D - (bit: 07 hex: 80)
+	805C4F8E - (bit: 00 hex: 01)
+	805C4F8E - (bit: 01 hex: 02)
+	805C4F8E - (bit: 02 hex: 04)
+	805C4F8E - (bit: 03 hex: 08)
+	805C4F8E - (bit: 04 hex: 10)
+	805C4F8E - (bit: 05 hex: 20)
+	805C4F8E - (bit: 06 hex: 40)
+	805C4F8E - (bit: 07 hex: 80)
+	805C4F8F - (bit: 00 hex: 01)
+	805C4F8F - (bit: 01 hex: 02)
+	805C4F8F - (bit: 02 hex: 04)
+	805C4F8F - (bit: 03 hex: 08)
+	805C4F8F - (bit: 04 hex: 10)
+	805C4F8F - (bit: 05 hex: 20)
+	805C4F8F - (bit: 06 hex: 40)
+	805C4F8F - (bit: 07 hex: 80)
+	805C4F90 - (bit: 00 hex: 01)
+	805C4F90 - (bit: 01 hex: 02)
+	805C4F90 - (bit: 02 hex: 04)
+	805C4F90 - (bit: 03 hex: 08)
+	805C4F90 - (bit: 04 hex: 10)
+	805C4F90 - (bit: 05 hex: 20)
+	805C4F90 - (bit: 06 hex: 40)
+	805C4F90 - (bit: 07 hex: 80)
+04A7
+	805C512D - (bit: 01 hex: 02)
+04A8
+	805C4D6B - (bit: 07 hex: 80) Destroyed Gear 4 crate (next to horn pad)
+04A9
+	805C4D62 - (bit: 06 hex: 40)
+04AA
+	805C4D62 - (bit: 07 hex: 80)
+04AB
+	805C4D63 - (bit: 00 hex: 01)
+04AC
+	805C4D7B - (bit: 04 hex: 10) ?
+04AD
+	805C4E06 - (bit: 02 hex: 04)
+04AE
+	805C4F61 - (bit: 00 hex: 01)
+	805C4F61 - (bit: 01 hex: 02)
+	805C4F61 - (bit: 02 hex: 04)
+	805C4F61 - (bit: 03 hex: 08)
+	805C4F61 - (bit: 04 hex: 10)
+	805C4F61 - (bit: 05 hex: 20)
+	805C4F61 - (bit: 06 hex: 40)
+	805C4F61 - (bit: 07 hex: 80)
+	805C4F62 - (bit: 00 hex: 01)
+	805C4F62 - (bit: 01 hex: 02)
+	805C4F62 - (bit: 02 hex: 04)
+	805C4F62 - (bit: 03 hex: 08)
+	805C4F62 - (bit: 04 hex: 10)
+	805C4F62 - (bit: 05 hex: 20)
+	805C4F62 - (bit: 06 hex: 40)
+	805C4F62 - (bit: 07 hex: 80)
+	805C4F63 - (bit: 00 hex: 01)
+	805C4F63 - (bit: 01 hex: 02)
+	805C4F63 - (bit: 02 hex: 04)
+	805C4F63 - (bit: 03 hex: 08)
+	805C4F63 - (bit: 04 hex: 10)
+	805C4F63 - (bit: 05 hex: 20)
+	805C4F63 - (bit: 06 hex: 40)
+	805C4F63 - (bit: 07 hex: 80)
+	805C4F64 - (bit: 00 hex: 01)
+	805C4F64 - (bit: 01 hex: 02)
+	805C4F64 - (bit: 02 hex: 04)
+	805C4F64 - (bit: 03 hex: 08)
+	805C4F64 - (bit: 04 hex: 10)
+	805C4F64 - (bit: 05 hex: 20)
+	805C4F64 - (bit: 06 hex: 40)
+	805C4F64 - (bit: 07 hex: 80)
+04AF
+	805C4D9D - (bit: 06 hex: 40)
+04B0
+	805C513E - (bit: 03 hex: 08)
+04B1
+	805C4D9D - (bit: 05 hex: 20)
+04B2
+	805C5110 - (bit: 00 hex: 01)
+04B3
+	805C4DB3 - (bit: 05 hex: 20)
+04B4
+	805C4DB4 - (bit: 01 hex: 02) Pool #1 drained in Diamond Bay cave (After animation)
+04B5
+	805C4D63 - (bit: 01 hex: 02)
+04B6
+	805C4D63 - (bit: 02 hex: 04)
+04B7
+	805C4D63 - (bit: 03 hex: 08)
+04B8
+	805C4D41 - (bit: 02 hex: 04) Spellstone (Activated) [Cloudrunner Fortress] (Doesn't show up as 'activated' in the menu)
+04B9
+	805C511C - (bit: 02 hex: 04)
+04BA
+	805C4D63 - (bit: 04 hex: 10)
+04BB
+	805C5116 - (bit: 05 hex: 20)
+04BC
+	805C4D47 - (bit: 03 hex: 08)
+04BD
+	805C5111 - (bit: 02 hex: 04)
+04BE
+	805C4D5A - (bit: 02 hex: 04)
+04BF
+	805C4D5A - (bit: 03 hex: 08)
+04C0
+	805C4D5A - (bit: 04 hex: 10)
+04C1
+	805C4D5A - (bit: 05 hex: 20)
+04C2
+	805C4D6F - (bit: 05 hex: 20) Burned the right tent near the giant snowball
+04C3
+	805C4D6F - (bit: 06 hex: 40) Burned the middle tent near the giant snowball
+04C4
+	805C4D6F - (bit: 07 hex: 80) Burned the left tent near the giant snowball
+04C5
+	805C4D70 - (bit: 00 hex: 01) Burned the right tent in the distance
+04C6
+	805C4D70 - (bit: 01 hex: 02) Burned the center tent in the distance
+04C7
+	805C4D70 - (bit: 02 hex: 04) Burned the left tent in the distance
+04C8
+	805C4D70 - (bit: 03 hex: 08) Burned the right tent near Snowhorn
+04C9
+	805C4D70 - (bit: 04 hex: 10) Burned the center tent near Snowhorn
+04CA
+	805C4D70 - (bit: 05 hex: 20) Burned the left tent near Snowhorn
+04CB
+	805C4D70 - (bit: 06 hex: 40) Burned the right tent near ravine
+04CC
+	805C4D70 - (bit: 07 hex: 80) Burned the center tent near ravine
+04CD
+	805C4D71 - (bit: 00 hex: 01) Burned the left tent near ravine
+04CE
+	805C4D71 - (bit: 01 hex: 02) Bit 0 of ice boulder shot count
+	805C4D71 - (bit: 02 hex: 04) Bit 1 of ice boulder shot count
+04CF
+	805C4D9A - (bit: 03 hex: 08) Trigger: '02B6 Randorn walks to sit'
+04D0
+	805C4C41 - (bit: 07 hex: 80)
+04D1
+	805C512D - (bit: 02 hex: 04) Trigger: '02B3 Randorn gets fed again'
+04D2
+	805C5110 - (bit: 00 hex: 01)
+04D3
+	805C4C39 - (bit: 06 hex: 40) Ice block positioned against the wall, allowing exit
+04D4
+	805C4C39 - (bit: 02 hex: 04) Loaded Sharpclaw camp/Snowhorn's map feeding area
+04D5
+	805C511A - (bit: 01 hex: 02)
+04D6
+	805C4C51 - (bit: 03 hex: 08) Did all puzzles with Kyte
+04D7
+	805C511A - (bit: 02 hex: 04) Trigger: '03E4 Drakor: I can taste your fear, animal. *growl* It is very sweet.'
+04D8
+	805C511A - (bit: 03 hex: 08)
+04D9
+	805C5110 - (bit: 00 hex: 01)
+04DA
+	805C4D5A - (bit: 06 hex: 40)
+04DB
+	805C4D5A - (bit: 07 hex: 80)
+04DC
+	805C4D5B - (bit: 00 hex: 01)
+04DD
+	805C4D5B - (bit: 01 hex: 02)
+04DE
+	805C4D5B - (bit: 02 hex: 04)
+04DF
+	805C4D57 - (bit: 01 hex: 02)
+04E0
+	805C4D4D - (bit: 01 hex: 02) ?
+04E1
+	805C4D48 - (bit: 04 hex: 10)
+04E2
+	805C4FB7 - (bit: 00 hex: 01)
+	805C4FB7 - (bit: 01 hex: 02)
+	805C4FB7 - (bit: 02 hex: 04)
+	805C4FB7 - (bit: 03 hex: 08)
+	805C4FB7 - (bit: 04 hex: 10)
+	805C4FB7 - (bit: 05 hex: 20)
+	805C4FB7 - (bit: 06 hex: 40)
+	805C4FB7 - (bit: 07 hex: 80)
+	805C4FB8 - (bit: 00 hex: 01)
+	805C4FB8 - (bit: 01 hex: 02)
+	805C4FB8 - (bit: 02 hex: 04)
+	805C4FB8 - (bit: 03 hex: 08)
+	805C4FB8 - (bit: 04 hex: 10)
+	805C4FB8 - (bit: 05 hex: 20)
+	805C4FB8 - (bit: 06 hex: 40)
+	805C4FB8 - (bit: 07 hex: 80)
+04E3
+	805C4E0A - (bit: 05 hex: 20)
+	805C4E0A - (bit: 06 hex: 40)
+	805C4E0A - (bit: 07 hex: 80)
+	805C4E0B - (bit: 00 hex: 01)
+	805C4E0B - (bit: 01 hex: 02)
+	805C4E0B - (bit: 02 hex: 04)
+	805C4E0B - (bit: 03 hex: 08)
+	805C4E0B - (bit: 04 hex: 10)
+04E4
+	805C4C7F - (bit: 07 hex: 80)
+04E5
+	805C4C80 - (bit: 00 hex: 01) Tricky spawns
+04E6
+	805C4DB4 - (bit: 02 hex: 04) Pool #2 drained in Diamond Bay cave (After animation)
+04E7
+	805C4DA0 - (bit: 06 hex: 40)
+04E8
+	805C4DA0 - (bit: 07 hex: 80)
+04E9
+	805C4DA5 - (bit: 06 hex: 40) Triggers forced-night time and orb boss to spawn when coming back to beach from VFPT
+04EA
+	805C4DA1 - (bit: 00 hex: 01)
+04EB
+	805C4DA1 - (bit: 01 hex: 02)
+04EC
+	805C4DA1 - (bit: 02 hex: 04)
+04ED
+	805C4DA1 - (bit: 03 hex: 08)
+04EE
+	805C4DA1 - (bit: 04 hex: 10)
+04EF
+	805C4DA1 - (bit: 05 hex: 20)
+04F0
+	805C4DA1 - (bit: 06 hex: 40)
+04F1
+	805C4DA1 - (bit: 07 hex: 80)
+04F2
+	805C4DA2 - (bit: 00 hex: 01)
+04F3
+	805C4DA2 - (bit: 01 hex: 02)
+04F4
+	805C4DA2 - (bit: 02 hex: 04)
+04F5
+	805C4DA2 - (bit: 03 hex: 08)
+04F6
+	805C4DA2 - (bit: 04 hex: 10)
+04F7
+	805C4DA2 - (bit: 05 hex: 20)
+04F8
+	805C4DA2 - (bit: 06 hex: 40)
+04F9
+	805C4DA2 - (bit: 07 hex: 80)
+04FA
+	805C4DA3 - (bit: 00 hex: 01)
+04FB
+	805C4DA3 - (bit: 01 hex: 02)
+04FC
+	805C4DA3 - (bit: 02 hex: 04)
+04FD
+	805C4DA3 - (bit: 03 hex: 08) Killed sharpclaw by the entrance to VFPT entrance
+04FE
+	805C4DDC - (bit: 00 hex: 01) Volcano Force Point Setup bit 1
+	805C4DDC - (bit: 01 hex: 02) Volcano Force Point Setup bit 2
+	805C4DDC - (bit: 02 hex: 04) Volcano Force Point Setup bit 3
+	805C4DDC - (bit: 03 hex: 08) Volcano Force Point Setup bit 4
+04FF
+	805C5110 - (bit: 00 hex: 01)
+0500
+	805C4F95 - (bit: 00 hex: 01)
+	805C4F95 - (bit: 01 hex: 02)
+	805C4F95 - (bit: 02 hex: 04)
+	805C4F95 - (bit: 03 hex: 08)
+	805C4F95 - (bit: 04 hex: 10)
+	805C4F95 - (bit: 05 hex: 20)
+	805C4F95 - (bit: 06 hex: 40)
+	805C4F95 - (bit: 07 hex: 80)
+	805C4F96 - (bit: 00 hex: 01)
+	805C4F96 - (bit: 01 hex: 02)
+	805C4F96 - (bit: 02 hex: 04)
+	805C4F96 - (bit: 03 hex: 08)
+	805C4F96 - (bit: 04 hex: 10)
+	805C4F96 - (bit: 05 hex: 20)
+	805C4F96 - (bit: 06 hex: 40)
+	805C4F96 - (bit: 07 hex: 80)
+	805C4F97 - (bit: 00 hex: 01)
+	805C4F97 - (bit: 01 hex: 02)
+	805C4F97 - (bit: 02 hex: 04)
+	805C4F97 - (bit: 03 hex: 08)
+	805C4F97 - (bit: 04 hex: 10)
+	805C4F97 - (bit: 05 hex: 20)
+	805C4F97 - (bit: 06 hex: 40)
+	805C4F97 - (bit: 07 hex: 80)
+	805C4F98 - (bit: 00 hex: 01)
+	805C4F98 - (bit: 01 hex: 02)
+	805C4F98 - (bit: 02 hex: 04)
+	805C4F98 - (bit: 03 hex: 08)
+	805C4F98 - (bit: 04 hex: 10)
+	805C4F98 - (bit: 05 hex: 20)
+	805C4F98 - (bit: 06 hex: 40)
+	805C4F98 - (bit: 07 hex: 80)
+0501
+	805C4DA3 - (bit: 04 hex: 10) Killed sharpclaw in the sidecave near VFPT entrance
+0502
+	805C4D60 - (bit: 05 hex: 20)
+0503
+	805C4DA3 - (bit: 05 hex: 20) Shot left statue at VFPT (Required for sliding door to open)
+0504
+	805C4DA3 - (bit: 06 hex: 40) Shot right statue at VFPT (Required for sliding door to open)
+0505
+	805C4DA3 - (bit: 07 hex: 80)
+0506
+	805C4DA4 - (bit: 00 hex: 01) Defeated robot miniboss (ladder down)
+0507
+	805C4DA4 - (bit: 01 hex: 02) Pushed elevator button #1 (VFPT)
+0508
+	805C4DA4 - (bit: 02 hex: 04) Pushed elevator button #2 (VFPT)
+0509
+	805C4DA4 - (bit: 03 hex: 08) Pushed elevator button #3 (VFPT)
+050A
+	805C4DA4 - (bit: 04 hex: 10) Pushed elevator button #4 (VFPT)
+050B
+	805C4D61 - (bit: 00 hex: 01)
+050C
+	805C4D5C - (bit: 06 hex: 40)
+050D
+	805C4D5C - (bit: 07 hex: 80)
+050E
+	805C4D5D - (bit: 00 hex: 01)
+050F
+	805C4D5D - (bit: 01 hex: 02)
+0510
+	805C5110 - (bit: 00 hex: 01)
+0511
+	805C4D9A - (bit: 07 hex: 80)
+0512
+	805C4DA4 - (bit: 05 hex: 20) Trigger: '02DB Activate Moving Platform Left'
+0513
+	805C4DA4 - (bit: 06 hex: 40) Trigger: '02DC Activate Moving Platform Right'
+0514
+	805C4DA4 - (bit: 07 hex: 80) VFPT Door seal break
+0515
+	805C4DA5 - (bit: 00 hex: 01)
+0516
+	805C4DA5 - (bit: 01 hex: 02) VFPT Door Open
+0517
+	805C4F91 - (bit: 00 hex: 01)
+	805C4F91 - (bit: 01 hex: 02)
+	805C4F91 - (bit: 02 hex: 04)
+	805C4F91 - (bit: 03 hex: 08)
+	805C4F91 - (bit: 04 hex: 10)
+	805C4F91 - (bit: 05 hex: 20)
+	805C4F91 - (bit: 06 hex: 40)
+	805C4F91 - (bit: 07 hex: 80)
+	805C4F92 - (bit: 00 hex: 01)
+	805C4F92 - (bit: 01 hex: 02)
+	805C4F92 - (bit: 02 hex: 04)
+	805C4F92 - (bit: 03 hex: 08)
+	805C4F92 - (bit: 04 hex: 10)
+	805C4F92 - (bit: 05 hex: 20)
+	805C4F92 - (bit: 06 hex: 40)
+	805C4F92 - (bit: 07 hex: 80)
+	805C4F93 - (bit: 00 hex: 01)
+	805C4F93 - (bit: 01 hex: 02)
+	805C4F93 - (bit: 02 hex: 04)
+	805C4F93 - (bit: 03 hex: 08)
+	805C4F93 - (bit: 04 hex: 10)
+	805C4F93 - (bit: 05 hex: 20)
+	805C4F93 - (bit: 06 hex: 40)
+	805C4F93 - (bit: 07 hex: 80)
+	805C4F94 - (bit: 00 hex: 01)
+	805C4F94 - (bit: 01 hex: 02)
+	805C4F94 - (bit: 02 hex: 04)
+	805C4F94 - (bit: 03 hex: 08)
+	805C4F94 - (bit: 04 hex: 10)
+	805C4F94 - (bit: 05 hex: 20)
+	805C4F94 - (bit: 06 hex: 40)
+	805C4F94 - (bit: 07 hex: 80)
+0518
+	805C513E - (bit: 05 hex: 20)
+0519
+	805C513E - (bit: 06 hex: 40)
+051A
+	805C513E - (bit: 07 hex: 80)
+051B
+	805C513F - (bit: 00 hex: 01)
+051C
+	805C513F - (bit: 01 hex: 02)
+051D
+	805C4DA5 - (bit: 02 hex: 04) Defeated second miniboss robot in VFPT basement
+051E
+	805C513F - (bit: 02 hex: 04) HitAnimator (Bottom lift, VFPT)
+051F
+	805C513F - (bit: 03 hex: 08)
+0520
+	805C513F - (bit: 04 hex: 10)
+0521
+	805C4DA5 - (bit: 03 hex: 08) Tricky used flame on last statue (Door opens)
+0522
+	805C4DA5 - (bit: 04 hex: 10) Hit the switch to turn off flamethrower in VFPT
+0523
+	805C4DA5 - (bit: 05 hex: 20) Fox rode the floating platform to the center of VFPT
+0524
+	805C4D5B - (bit: 07 hex: 80)
+0525
+	805C4D5C - (bit: 00 hex: 01)
+0526
+	805C4D5C - (bit: 01 hex: 02)
+0527
+	805C4D5C - (bit: 04 hex: 10)
+0528
+	805C4D5C - (bit: 02 hex: 04)
+0529
+	805C4D5C - (bit: 03 hex: 08)
+052A
+	805C4DBD - (bit: 05 hex: 20)
+052B
+	805C4DBD - (bit: 06 hex: 40)
+052C
+	805C4DBD - (bit: 07 hex: 80)
+052D
+	805C5110 - (bit: 00 hex: 01)
+052E
+	805C5110 - (bit: 00 hex: 01)
+052F
+	805C5110 - (bit: 00 hex: 01)
+0530
+	805C5110 - (bit: 00 hex: 01)
+0531
+	805C5110 - (bit: 00 hex: 01)
+0532
+	805C5110 - (bit: 00 hex: 01)
+0533
+	805C5110 - (bit: 00 hex: 01)
+0534
+	805C5110 - (bit: 00 hex: 01)
+0535
+	805C5110 - (bit: 00 hex: 01)
+0536
+	805C5110 - (bit: 00 hex: 01)
+0537
+	805C4D47 - (bit: 04 hex: 10)
+0538
+	805C4D47 - (bit: 05 hex: 20)
+0539
+	805C4D47 - (bit: 06 hex: 40)
+053A
+	805C4C5B - (bit: 06 hex: 40) Placed Warp Activator into Podium
+053B
+	805C4E0B - (bit: 05 hex: 20)
+053C
+	805C4E0B - (bit: 06 hex: 40)
+053D
+	805C4E0B - (bit: 07 hex: 80)
+053E
+	805C4E0C - (bit: 00 hex: 01)
+053F
+	805C4E0C - (bit: 01 hex: 02)
+0540
+	805C4E0C - (bit: 02 hex: 04)
+0541
+	805C4E0C - (bit: 03 hex: 08)
+0542
+	805C4E0C - (bit: 04 hex: 10)
+0543
+	805C4DC7 - (bit: 02 hex: 04)
+	805C4DC7 - (bit: 03 hex: 08)
+	805C4DC7 - (bit: 04 hex: 10)
+	805C4DC7 - (bit: 05 hex: 20)
+	805C4DC7 - (bit: 06 hex: 40)
+	805C4DC7 - (bit: 07 hex: 80)
+0544
+	805C4DC8 - (bit: 00 hex: 01)
+	805C4DC8 - (bit: 01 hex: 02)
+	805C4DC8 - (bit: 02 hex: 04)
+	805C4DC8 - (bit: 03 hex: 08)
+	805C4DC8 - (bit: 04 hex: 10)
+	805C4DC8 - (bit: 05 hex: 20)
+0545
+	805C4DC8 - (bit: 06 hex: 40)
+	805C4DC8 - (bit: 07 hex: 80)
+	805C4DC9 - (bit: 00 hex: 01)
+	805C4DC9 - (bit: 01 hex: 02)
+	805C4DC9 - (bit: 02 hex: 04)
+	805C4DC9 - (bit: 03 hex: 08)
+0546
+	805C4DC9 - (bit: 04 hex: 10)
+	805C4DC9 - (bit: 05 hex: 20)
+	805C4DC9 - (bit: 06 hex: 40)
+	805C4DC9 - (bit: 07 hex: 80)
+	805C4DCA - (bit: 00 hex: 01)
+	805C4DCA - (bit: 01 hex: 02)
+0547
+	805C4DDC - (bit: 04 hex: 10) BOSS Klanadack Setup bit 1
+	805C4DDC - (bit: 05 hex: 20) BOSS Klanadack Setup bit 2
+	805C4DDC - (bit: 06 hex: 40) BOSS Klanadack Setup bit 3
+	805C4DDC - (bit: 07 hex: 80) BOSS Klanadack Setup bit 4
+0548
+	805C4F99 - (bit: 00 hex: 01)
+	805C4F99 - (bit: 01 hex: 02)
+	805C4F99 - (bit: 02 hex: 04)
+	805C4F99 - (bit: 03 hex: 08)
+	805C4F99 - (bit: 04 hex: 10)
+	805C4F99 - (bit: 05 hex: 20)
+	805C4F99 - (bit: 06 hex: 40)
+	805C4F99 - (bit: 07 hex: 80)
+	805C4F9A - (bit: 00 hex: 01)
+	805C4F9A - (bit: 01 hex: 02)
+	805C4F9A - (bit: 02 hex: 04)
+	805C4F9A - (bit: 03 hex: 08)
+	805C4F9A - (bit: 04 hex: 10)
+	805C4F9A - (bit: 05 hex: 20)
+	805C4F9A - (bit: 06 hex: 40)
+	805C4F9A - (bit: 07 hex: 80)
+	805C4F9B - (bit: 00 hex: 01)
+	805C4F9B - (bit: 01 hex: 02)
+	805C4F9B - (bit: 02 hex: 04)
+	805C4F9B - (bit: 03 hex: 08)
+	805C4F9B - (bit: 04 hex: 10)
+	805C4F9B - (bit: 05 hex: 20)
+	805C4F9B - (bit: 06 hex: 40)
+	805C4F9B - (bit: 07 hex: 80)
+	805C4F9C - (bit: 00 hex: 01)
+	805C4F9C - (bit: 01 hex: 02)
+	805C4F9C - (bit: 02 hex: 04)
+	805C4F9C - (bit: 03 hex: 08)
+	805C4F9C - (bit: 04 hex: 10)
+	805C4F9C - (bit: 05 hex: 20)
+	805C4F9C - (bit: 06 hex: 40)
+	805C4F9C - (bit: 07 hex: 80)
+0549
+	805C4E06 - (bit: 03 hex: 08)
+054A
+	805C5147 - (bit: 04 hex: 10)
+	805C5147 - (bit: 05 hex: 20)
+054B
+	805C5147 - (bit: 06 hex: 40)
+054C
+	805C5147 - (bit: 07 hex: 80)
+054D
+	805C5148 - (bit: 00 hex: 01)
+054E
+	805C5148 - (bit: 01 hex: 02)
+	805C5148 - (bit: 02 hex: 04)
+054F
+	805C5148 - (bit: 03 hex: 08)
+0550
+	805C5148 - (bit: 04 hex: 10)
+0551
+	805C5148 - (bit: 05 hex: 20)
+0552
+	805C5148 - (bit: 06 hex: 40)
+	805C5148 - (bit: 07 hex: 80)
+0553
+	805C5149 - (bit: 00 hex: 01)
+0554
+	805C5149 - (bit: 01 hex: 02) Found around Klanadack...
+0555
+	805C5149 - (bit: 02 hex: 04)
+0556
+	805C5149 - (bit: 03 hex: 08)
+	805C5149 - (bit: 04 hex: 10)
+0557
+	805C5149 - (bit: 05 hex: 20)
+0558
+	805C5149 - (bit: 06 hex: 40)
+0559
+	805C5149 - (bit: 07 hex: 80)
+055A
+	805C514A - (bit: 00 hex: 01)
+055B
+	805C514A - (bit: 01 hex: 02)
+055C
+	805C514A - (bit: 02 hex: 04)
+055D
+	805C514A - (bit: 03 hex: 08)
+055E
+	805C514A - (bit: 04 hex: 10)
+055F
+	805C514A - (bit: 05 hex: 20)
+0560
+	805C514A - (bit: 06 hex: 40)
+0561
+	805C514A - (bit: 07 hex: 80)
+0562
+	805C514B - (bit: 00 hex: 01)
+0563
+	805C514B - (bit: 01 hex: 02)
+0564
+	805C514B - (bit: 02 hex: 04) Trigger Defeat Klanadack
+0565
+	805C514B - (bit: 03 hex: 08)
+0566
+	805C514B - (bit: 04 hex: 10)
+0567
+	805C514B - (bit: 05 hex: 20)
+0568
+	805C514B - (bit: 06 hex: 40)
+0569
+	805C514B - (bit: 07 hex: 80)
+056A
+	805C514C - (bit: 00 hex: 01)
+	805C514C - (bit: 01 hex: 02)
+	805C514C - (bit: 02 hex: 04)
+	805C514C - (bit: 03 hex: 08)
+056B
+	805C514C - (bit: 04 hex: 10)
+	805C514C - (bit: 05 hex: 20)
+	805C514C - (bit: 06 hex: 40)
+	805C514C - (bit: 07 hex: 80)
+056C
+	805C514D - (bit: 00 hex: 01)
+	805C514D - (bit: 01 hex: 02)
+	805C514D - (bit: 02 hex: 04)
+	805C514D - (bit: 03 hex: 08)
+056D
+	805C514D - (bit: 04 hex: 10)
+	805C514D - (bit: 05 hex: 20)
+	805C514D - (bit: 06 hex: 40)
+	805C514D - (bit: 07 hex: 80)
+056E
+	805C4DBC - (bit: 02 hex: 04)
+056F
+	805C4DBC - (bit: 03 hex: 08)
+0570
+	805C4DBC - (bit: 04 hex: 10)
+0571
+	805C4DBC - (bit: 05 hex: 20)
+0572 Klanadack enviroment control flags
+	805C4DBC - (bit: 06 hex: 40)
+	805C4DBC - (bit: 07 hex: 80)
+	805C4DBD - (bit: 00 hex: 01)
+	805C4DBD - (bit: 01 hex: 02)
+0573
+	805C4DBD - (bit: 02 hex: 04)
+0574
+	805C4D5B - (bit: 03 hex: 08)
+0575
+	805C4D5B - (bit: 04 hex: 10) Cloudrunner Fortress textured entrance trigger, and lightning
+0576
+	805C4C3A - (bit: 06 hex: 40) Bit 0 of Alpine Root counter
+	805C4C3A - (bit: 07 hex: 80) Bit 1 of Alpine Root counter
+	805C4C3B - (bit: 00 hex: 01) Bit 2 of Alpine Root counter (never set, there are only two Roots)
+0577
+	805C4D5B - (bit: 05 hex: 20)
+0578
+	805C4C3B - (bit: 01 hex: 02) Bit 0 of Snowhorn feeding count
+	805C4C3B - (bit: 02 hex: 04) Bit 1 of Snowhorn feeding count
+	805C4C3B - (bit: 03 hex: 08) Bit 2 of Snowhorn feeding count (never set, there are only two Roots)
+0579
+	805C5110 - (bit: 00 hex: 01)
+057A
+	805C5110 - (bit: 00 hex: 01)
+057B
+	805C5151 - (bit: 07 hex: 80)
+057C
+	805C5152 - (bit: 00 hex: 01)
+057D
+	805C5152 - (bit: 01 hex: 02)
+057E
+	805C5110 - (bit: 00 hex: 01)
+057F
+	805C5111 - (bit: 06 hex: 40)
+0580
+	805C4D5B - (bit: 06 hex: 40)
+0581
+	805C5151 - (bit: 01 hex: 02)
+	805C5151 - (bit: 02 hex: 04)
+	805C5151 - (bit: 03 hex: 08)
+	805C5151 - (bit: 04 hex: 10)
+	805C5151 - (bit: 05 hex: 20)
+	805C5151 - (bit: 06 hex: 40)
+0582
+	805C4D61 - (bit: 01 hex: 02)
+0583
+	805C4D5C - (bit: 05 hex: 20)
+0584
+	805C4D57 - (bit: 02 hex: 04)
+0585
+	805C4D57 - (bit: 03 hex: 08)
+0586
+	805C4D57 - (bit: 04 hex: 10)
+0587
+	805C4E0C - (bit: 06 hex: 40)
+0588
+	805C5110 - (bit: 00 hex: 01)
+0589
+	805C5134 - (bit: 02 hex: 04)
+058A
+	805C5134 - (bit: 05 hex: 20)
+058B
+	805C5134 - (bit: 06 hex: 40)
+058C
+	805C5134 - (bit: 07 hex: 80)
+058D
+	805C5152 - (bit: 02 hex: 04)
+058E
+	805C5135 - (bit: 00 hex: 01)
+058F
+	805C5152 - (bit: 03 hex: 08)
+0590
+	805C511C - (bit: 00 hex: 01)
+0591
+	805C511C - (bit: 01 hex: 02)
+0592
+	805C5135 - (bit: 02 hex: 04)
+0593
+	805C5135 - (bit: 03 hex: 08)
+0594
+	805C5135 - (bit: 04 hex: 10)
+0595
+	805C5135 - (bit: 05 hex: 20)
+0596
+	805C5135 - (bit: 06 hex: 40)
+0597
+	805C5135 - (bit: 07 hex: 80)
+0598
+	805C5125 - (bit: 03 hex: 08)
+0599
+	805C5125 - (bit: 04 hex: 10)
+059A
+	805C5125 - (bit: 05 hex: 20)
+059B
+	805C5125 - (bit: 06 hex: 40)
+059C
+	805C5125 - (bit: 07 hex: 80)
+059D
+	805C4E06 - (bit: 04 hex: 10)
+059E
+	805C4E06 - (bit: 05 hex: 20)
+059F
+	805C4E06 - (bit: 06 hex: 40)
+05A0
+	805C4E06 - (bit: 07 hex: 80)
+05A1
+	805C4E07 - (bit: 00 hex: 01)
+05A2
+	805C4E07 - (bit: 01 hex: 02)
+05A3
+	805C4E07 - (bit: 02 hex: 04)
+05A4
+	805C4E07 - (bit: 03 hex: 08)
+05A5
+	805C513D - (bit: 01 hex: 02)
+05A6
+	805C5110 - (bit: 00 hex: 01)
+05A7
+	805C513D - (bit: 02 hex: 04)
+05A8
+	805C513D - (bit: 03 hex: 08)
+05A9
+	805C513D - (bit: 04 hex: 10)
+05AA
+	805C5137 - (bit: 04 hex: 10)
+05AB
+	805C5110 - (bit: 00 hex: 01)
+05AC
+	805C5137 - (bit: 05 hex: 20)
+05AD
+	805C5136 - (bit: 00 hex: 01)
+05AE
+	805C5137 - (bit: 03 hex: 08)
+05AF
+	805C5137 - (bit: 02 hex: 04)
+05B0
+	805C5110 - (bit: 00 hex: 01)
+05B1
+	805C5136 - (bit: 01 hex: 02)
+05B2
+	805C513B - (bit: 03 hex: 08)
+05B3
+	805C513B - (bit: 04 hex: 10)
+05B4
+	805C513B - (bit: 05 hex: 20)
+05B5
+	805C513B - (bit: 06 hex: 40)
+05B6
+	805C513B - (bit: 07 hex: 80)
+05B7
+	805C513C - (bit: 00 hex: 01)
+05B8
+	805C513C - (bit: 01 hex: 02)
+05B9
+	805C513C - (bit: 02 hex: 04)
+05BA
+	805C4D6D - (bit: 02 hex: 04) SnowHorn mounting cutscene is currently playing
+05BB
+	805C4D6D - (bit: 03 hex: 08) SnowHorn dismounting cutscene is currently playing
+05BC
+	805C513A - (bit: 01 hex: 02)
+05BD
+	805C4DBE - (bit: 07 hex: 80) Portal
+05BE
+	805C513A - (bit: 02 hex: 04)
+05BF
+	805C4D86 - (bit: 03 hex: 08) HitAnimator near Turret (Dragon Rock)
+05C0
+	805C4D86 - (bit: 04 hex: 10) HitAnimator near Turret (Dragon Rock)
+05C1
+	805C4D86 - (bit: 05 hex: 20) HitAnimator near Turret (Dragon Rock)
+05C2
+	805C513A - (bit: 03 hex: 08)
+05C3
+	805C513A - (bit: 04 hex: 10)
+05C4
+	805C513A - (bit: 05 hex: 20)
+05C5
+	805C513A - (bit: 06 hex: 40)
+05C6
+	805C513A - (bit: 07 hex: 80)
+05C7
+	805C4D86 - (bit: 06 hex: 40) Destroy Dragon Rock Tower Laser 1
+05C8
+	805C4D86 - (bit: 07 hex: 80) Destroy Dragon Rock Tower Laser 2
+05C9
+	805C4D87 - (bit: 00 hex: 01) Destroy Dragon Rock Tower Laser 3
+05CA
+	805C4D87 - (bit: 01 hex: 02)
+05CB
+	805C4D87 - (bit: 02 hex: 04)
+05CC
+	805C4D87 - (bit: 03 hex: 08)
+05CD
+	805C4D87 - (bit: 04 hex: 10)
+05CE
+	805C4DBF - (bit: 00 hex: 01) Iceblast
+05CF
+	805C4D87 - (bit: 05 hex: 20)
+05D0
+	805C4DDE - (bit: 04 hex: 10) Desert Force Point Setup bit 1
+	805C4DDE - (bit: 05 hex: 20) Desert Force Point Setup bit 2
+	805C4DDE - (bit: 06 hex: 40) Desert Force Point Setup bit 3
+	805C4DDE - (bit: 07 hex: 80) Desert Force Point Setup bit 4
+05D1
+	805C4FA9 - (bit: 00 hex: 01)
+	805C4FA9 - (bit: 01 hex: 02)
+	805C4FA9 - (bit: 02 hex: 04)
+	805C4FA9 - (bit: 03 hex: 08)
+	805C4FA9 - (bit: 04 hex: 10)
+	805C4FA9 - (bit: 05 hex: 20)
+	805C4FA9 - (bit: 06 hex: 40)
+	805C4FA9 - (bit: 07 hex: 80)
+	805C4FAA - (bit: 00 hex: 01)
+	805C4FAA - (bit: 01 hex: 02)
+	805C4FAA - (bit: 02 hex: 04)
+	805C4FAA - (bit: 03 hex: 08)
+	805C4FAA - (bit: 04 hex: 10)
+	805C4FAA - (bit: 05 hex: 20)
+	805C4FAA - (bit: 06 hex: 40)
+	805C4FAA - (bit: 07 hex: 80)
+	805C4FAB - (bit: 00 hex: 01)
+	805C4FAB - (bit: 01 hex: 02)
+	805C4FAB - (bit: 02 hex: 04)
+	805C4FAB - (bit: 03 hex: 08)
+	805C4FAB - (bit: 04 hex: 10)
+	805C4FAB - (bit: 05 hex: 20)
+	805C4FAB - (bit: 06 hex: 40)
+	805C4FAB - (bit: 07 hex: 80)
+	805C4FAC - (bit: 00 hex: 01)
+	805C4FAC - (bit: 01 hex: 02)
+	805C4FAC - (bit: 02 hex: 04)
+	805C4FAC - (bit: 03 hex: 08)
+	805C4FAC - (bit: 04 hex: 10)
+	805C4FAC - (bit: 05 hex: 20)
+	805C4FAC - (bit: 06 hex: 40)
+	805C4FAC - (bit: 07 hex: 80)
+05D2
+	805C4D87 - (bit: 06 hex: 40) Earthwalker-destroyable wall #1 smashes (Dragon Rock)
+05D3
+	805C4D88 - (bit: 00 hex: 01) Earthwalker-destroyable wall #2 smashes (Dragon Rock)
+05D4
+	805C5110 - (bit: 00 hex: 01)
+05D5
+	805C4DCE - (bit: 06 hex: 40)
+05D6
+	805C4DCF - (bit: 00 hex: 01) Lantern Fireflies
+	805C4DCF - (bit: 01 hex: 02) Lantern Fireflies
+	805C4DCF - (bit: 02 hex: 04) Lantern Fireflies
+	805C4DCF - (bit: 03 hex: 08) Lantern Fireflies
+	805C4DCF - (bit: 04 hex: 10) ?
+05D7
+	805C4D88 - (bit: 03 hex: 08)
+05D8
+	805C4D88 - (bit: 04 hex: 10)
+05D9
+	805C4D88 - (bit: 05 hex: 20)
+05DA
+	805C4D88 - (bit: 06 hex: 40)
+05DB
+	805C4F9D - (bit: 00 hex: 01)
+	805C4F9D - (bit: 01 hex: 02)
+	805C4F9D - (bit: 02 hex: 04)
+	805C4F9D - (bit: 03 hex: 08)
+	805C4F9D - (bit: 04 hex: 10)
+	805C4F9D - (bit: 05 hex: 20)
+	805C4F9D - (bit: 06 hex: 40)
+	805C4F9D - (bit: 07 hex: 80)
+	805C4F9E - (bit: 00 hex: 01)
+	805C4F9E - (bit: 01 hex: 02)
+	805C4F9E - (bit: 02 hex: 04)
+	805C4F9E - (bit: 03 hex: 08)
+	805C4F9E - (bit: 04 hex: 10)
+	805C4F9E - (bit: 05 hex: 20)
+	805C4F9E - (bit: 06 hex: 40)
+	805C4F9E - (bit: 07 hex: 80)
+	805C4F9F - (bit: 00 hex: 01)
+	805C4F9F - (bit: 01 hex: 02)
+	805C4F9F - (bit: 02 hex: 04)
+	805C4F9F - (bit: 03 hex: 08)
+	805C4F9F - (bit: 04 hex: 10)
+	805C4F9F - (bit: 05 hex: 20)
+	805C4F9F - (bit: 06 hex: 40)
+	805C4F9F - (bit: 07 hex: 80)
+	805C4FA0 - (bit: 00 hex: 01)
+	805C4FA0 - (bit: 01 hex: 02)
+	805C4FA0 - (bit: 02 hex: 04)
+	805C4FA0 - (bit: 03 hex: 08)
+	805C4FA0 - (bit: 04 hex: 10)
+	805C4FA0 - (bit: 05 hex: 20)
+	805C4FA0 - (bit: 06 hex: 40)
+	805C4FA0 - (bit: 07 hex: 80)
+05DC
+	805C4FA1 - (bit: 00 hex: 01)
+	805C4FA1 - (bit: 01 hex: 02)
+	805C4FA1 - (bit: 02 hex: 04)
+	805C4FA1 - (bit: 03 hex: 08)
+	805C4FA1 - (bit: 04 hex: 10)
+	805C4FA1 - (bit: 05 hex: 20)
+	805C4FA1 - (bit: 06 hex: 40)
+	805C4FA1 - (bit: 07 hex: 80)
+	805C4FA2 - (bit: 00 hex: 01)
+	805C4FA2 - (bit: 01 hex: 02)
+	805C4FA2 - (bit: 02 hex: 04)
+	805C4FA2 - (bit: 03 hex: 08)
+	805C4FA2 - (bit: 04 hex: 10)
+	805C4FA2 - (bit: 05 hex: 20)
+	805C4FA2 - (bit: 06 hex: 40)
+	805C4FA2 - (bit: 07 hex: 80)
+	805C4FA3 - (bit: 00 hex: 01)
+	805C4FA3 - (bit: 01 hex: 02)
+	805C4FA3 - (bit: 02 hex: 04)
+	805C4FA3 - (bit: 03 hex: 08)
+	805C4FA3 - (bit: 04 hex: 10)
+	805C4FA3 - (bit: 05 hex: 20)
+	805C4FA3 - (bit: 06 hex: 40)
+	805C4FA3 - (bit: 07 hex: 80)
+	805C4FA4 - (bit: 00 hex: 01)
+	805C4FA4 - (bit: 01 hex: 02)
+	805C4FA4 - (bit: 02 hex: 04)
+	805C4FA4 - (bit: 03 hex: 08)
+	805C4FA4 - (bit: 04 hex: 10)
+	805C4FA4 - (bit: 05 hex: 20)
+	805C4FA4 - (bit: 06 hex: 40)
+	805C4FA4 - (bit: 07 hex: 80)
+05DD
+	805C4D88 - (bit: 07 hex: 80)
+	805C4D89 - (bit: 00 hex: 01)
+	805C4D89 - (bit: 01 hex: 02)
+	805C4D89 - (bit: 02 hex: 04)
+05DE
+	805C4D89 - (bit: 03 hex: 08) Trigger: '0310 EarthWalker dies'
+05DF
+	805C4DA7 - (bit: 02 hex: 04)
+05E0
+	805C513F - (bit: 06 hex: 40)
+05E1
+	805C513F - (bit: 07 hex: 80)
+05E2
+	805C5140 - (bit: 00 hex: 01)
+05E3
+	805C4DA7 - (bit: 03 hex: 08)
+05E4
+	805C5140 - (bit: 01 hex: 02)
+05E5
+	805C5140 - (bit: 02 hex: 04)
+05E6
+	805C4F3C - (bit: 00 hex: 01)
+	805C4F3C - (bit: 01 hex: 02)
+	805C4F3C - (bit: 02 hex: 04)
+	805C4F3C - (bit: 03 hex: 08)
+	805C4F3C - (bit: 04 hex: 10)
+	805C4F3C - (bit: 05 hex: 20)
+	805C4F3C - (bit: 06 hex: 40)
+	805C4F3C - (bit: 07 hex: 80)
+05E7
+	805C5140 - (bit: 03 hex: 08)
+05E8
+	805C4DA7 - (bit: 05 hex: 20)
+05E9
+	805C5140 - (bit: 04 hex: 10)
+05EA
+	805C4DA7 - (bit: 06 hex: 40)
+05EB
+	805C4DA7 - (bit: 07 hex: 80)
+05EC
+	805C4DA8 - (bit: 00 hex: 01)
+05ED
+	805C4DA8 - (bit: 01 hex: 02)
+05EE
+	805C5140 - (bit: 05 hex: 20)
+05EF
+	805C5140 - (bit: 06 hex: 40)
+05F0
+	805C5140 - (bit: 07 hex: 80)
+05F1
+	805C4DA8 - (bit: 02 hex: 04)
+05F2
+	805C4DA8 - (bit: 03 hex: 08)
+05F3
+	805C4DA8 - (bit: 04 hex: 10)
+05F4
+	805C4DA8 - (bit: 05 hex: 20)
+05F5
+	805C4DA8 - (bit: 06 hex: 40)
+05F6
+	805C4DA8 - (bit: 07 hex: 80)
+05F7
+	805C5110 - (bit: 00 hex: 01)
+05F8
+	805C5110 - (bit: 00 hex: 01)
+05F9
+	805C4D89 - (bit: 04 hex: 10) Trigger: '02BF Fox: Skeetlas! Come on Tricky, we've got to help him!'
+05FA
+	805C4D89 - (bit: 05 hex: 20) Triggered: '02BF Fox: Skeetlas! Come on Tricky, we've got to help him!'
+05FB
+	805C4D89 - (bit: 06 hex: 40) Triggered: '0310 EarthWalker dies'
+05FC
+	805C4DBF - (bit: 01 hex: 02) Mindread
+05FD
+	805C4D89 - (bit: 07 hex: 80) Trigger: '02C1 Sharpclaw eats and frees EarthWalker'
+05FE
+	805C4D8A - (bit: 00 hex: 01) Triggered: '02C1 Sharpclaw eats and frees EarthWalker'
+05FF
+	805C4D8A - (bit: 05 hex: 20) Play: 0358 (Showing entrance to the rock) [DR_Seqobj]
+0600
+	805C4C7E - (bit: 07 hex: 80)
+	805C4C7F - (bit: 00 hex: 01)
+	805C4C7F - (bit: 01 hex: 02)
+	805C4C7F - (bit: 02 hex: 04)
+	805C4C7F - (bit: 03 hex: 08)
+	805C4C7F - (bit: 04 hex: 10)
+	805C4C7F - (bit: 05 hex: 20)
+	805C4C7F - (bit: 06 hex: 40)
+0601
+	805C4FA5 - (bit: 00 hex: 01)
+	805C4FA5 - (bit: 01 hex: 02)
+	805C4FA5 - (bit: 02 hex: 04)
+	805C4FA5 - (bit: 03 hex: 08)
+	805C4FA5 - (bit: 04 hex: 10)
+	805C4FA5 - (bit: 05 hex: 20)
+	805C4FA5 - (bit: 06 hex: 40)
+	805C4FA5 - (bit: 07 hex: 80)
+	805C4FA6 - (bit: 00 hex: 01)
+	805C4FA6 - (bit: 01 hex: 02)
+	805C4FA6 - (bit: 02 hex: 04)
+	805C4FA6 - (bit: 03 hex: 08)
+	805C4FA6 - (bit: 04 hex: 10)
+	805C4FA6 - (bit: 05 hex: 20)
+	805C4FA6 - (bit: 06 hex: 40)
+	805C4FA6 - (bit: 07 hex: 80)
+	805C4FA7 - (bit: 00 hex: 01)
+	805C4FA7 - (bit: 01 hex: 02)
+	805C4FA7 - (bit: 02 hex: 04)
+	805C4FA7 - (bit: 03 hex: 08)
+	805C4FA7 - (bit: 04 hex: 10)
+	805C4FA7 - (bit: 05 hex: 20)
+	805C4FA7 - (bit: 06 hex: 40)
+	805C4FA7 - (bit: 07 hex: 80)
+	805C4FA8 - (bit: 00 hex: 01)
+	805C4FA8 - (bit: 01 hex: 02)
+	805C4FA8 - (bit: 02 hex: 04)
+	805C4FA8 - (bit: 03 hex: 08)
+	805C4FA8 - (bit: 04 hex: 10)
+	805C4FA8 - (bit: 05 hex: 20)
+	805C4FA8 - (bit: 06 hex: 40)
+	805C4FA8 - (bit: 07 hex: 80)
+0602
+	805C4C4F - (bit: 07 hex: 80) Gas chamber exit door opening cutscene
+0603
+	805C4C50 - (bit: 00 hex: 01) Loaded the Cape Claw cannon area
+0604
+	805C4C50 - (bit: 04 hex: 10) Pulled the right gate lever/flamed the right torch with Kyte
+0605
+	805C4D8A - (bit: 06 hex: 40) HitAnimator (Dragon Rock - CloudRunner Cage Entrance)
+0606
+	805C4D8A - (bit: 07 hex: 80)
+0607
+	805C4D8B - (bit: 00 hex: 01) Play: 0320 (Sabre: War over! Time to eat!) [DR_Seqobj]
+0608
+	805C4D8B - (bit: 01 hex: 02) Played: 0320 (Sabre: War over! Time to eat!) [DR_Seqobj]
+0609
+	805C4D8B - (bit: 02 hex: 04) Triggered: '02CC Earthwalker: If I could get out of these chains, I would offer you my assistance.'
+060A
+	805C4D8B - (bit: 03 hex: 08) HitAnimator located near CloudRunner Cage (Dragon Rock)
+060B
+	805C4D8B - (bit: 04 hex: 10)
+060C
+	805C4D8B - (bit: 05 hex: 20)
+060D
+	805C5110 - (bit: 00 hex: 01)
+060E
+	805C5112 - (bit: 06 hex: 40)
+060F
+	805C4C46 - (bit: 05 hex: 20)
+0610
+	805C4D8B - (bit: 06 hex: 40)
+0611
+	805C4C40 - (bit: 06 hex: 40) ?
+0612
+	805C4C43 - (bit: 03 hex: 08)
+0613
+	805C4C43 - (bit: 04 hex: 10)
+0614
+	805C4F3A - (bit: 00 hex: 01)
+	805C4F3A - (bit: 01 hex: 02)
+	805C4F3A - (bit: 02 hex: 04)
+	805C4F3A - (bit: 03 hex: 08)
+	805C4F3A - (bit: 04 hex: 10)
+	805C4F3A - (bit: 05 hex: 20)
+	805C4F3A - (bit: 06 hex: 40)
+	805C4F3A - (bit: 07 hex: 80)
+0615
+	805C4C50 - (bit: 05 hex: 20) Gate opened
+0616
+	805C4D65 - (bit: 04 hex: 10) ?
+0617
+	805C4D63 - (bit: 07 hex: 80)
+0618
+	805C4D88 - (bit: 01 hex: 02)
+0619
+	805C4D88 - (bit: 02 hex: 04)
+061A
+	805C4D64 - (bit: 00 hex: 01)
+061B
+	805C4D64 - (bit: 01 hex: 02)
+061C
+	805C4C46 - (bit: 07 hex: 80)
+061D
+	805C4D64 - (bit: 02 hex: 04)
+061E
+	805C4C56 - (bit: 05 hex: 20)
+061F
+	805C4C57 - (bit: 00 hex: 01)
+0620
+	805C5119 - (bit: 05 hex: 20)
+0621
+	805C511B - (bit: 00 hex: 01)
+0622
+	805C4C56 - (bit: 06 hex: 40)
+0623
+	805C4C56 - (bit: 07 hex: 80)
+0624
+	805C4D64 - (bit: 03 hex: 08)
+0625
+	805C4D64 - (bit: 04 hex: 10)
+0626
+	805C4D64 - (bit: 05 hex: 20)
+0627
+	805C4C3F - (bit: 04 hex: 10) ?
+	805C4C3F - (bit: 05 hex: 20) ?
+	805C4C3F - (bit: 06 hex: 40) ?
+0628
+	805C4D8C - (bit: 00 hex: 01) Trigger: '02CC Earthwalker: If I could get out of these chains, I would offer you my assistance.'
+0629
+	805C5110 - (bit: 00 hex: 01)
+062A
+	805C4D8C - (bit: 01 hex: 02) Play: 0337 (Hightop Free) [DR_Seqobj]
+062B
+	805C4D8C - (bit: 02 hex: 04) Played: 0337 (Hightop Free) [DR_Seqobj]
+062C
+	805C4D8C - (bit: 03 hex: 08)
+062D
+	805C4D8C - (bit: 04 hex: 10)
+062E
+	805C4D8C - (bit: 05 hex: 20)
+062F
+	805C4D8C - (bit: 06 hex: 40) Play: 0338 (Hightop: Listen. I know how to get you inside the rock. Just help me cross the plain without getting hurt, and all will be revealed.) [DR_Seqobj]
+0630
+	805C4D8C - (bit: 07 hex: 80) Played: 0338 (Hightop: Listen. I know how to get you inside the rock. Just help me cross the plain without getting hurt, and all will be revealed.) [DR_Seqobj]
+0631
+	805C4D8D - (bit: 00 hex: 01) Play: 033A (Hightop: It's up to you guys now. You'll figure it out.) [DR_Seqobj]
+0632
+	805C4D8D - (bit: 01 hex: 02) Played: 033A (Hightop: It's up to you guys now. You'll figure it out.) [DR_Seqobj]
+0633
+	805C4F3B - (bit: 00 hex: 01)
+	805C4F3B - (bit: 01 hex: 02)
+	805C4F3B - (bit: 02 hex: 04)
+	805C4F3B - (bit: 03 hex: 08)
+	805C4F3B - (bit: 04 hex: 10)
+	805C4F3B - (bit: 05 hex: 20)
+	805C4F3B - (bit: 06 hex: 40)
+	805C4F3B - (bit: 07 hex: 80)
+0634
+	805C4D8D - (bit: 02 hex: 04)
+0635
+	805C5141 - (bit: 00 hex: 01)
+0636
+	805C5119 - (bit: 06 hex: 40)
+0637
+	805C5119 - (bit: 07 hex: 80)
+0638
+	805C511A - (bit: 00 hex: 01)
+0639
+	805C4C40 - (bit: 07 hex: 80) Prison Key (Moon Mountain Pass Key)
+063A
+	805C4D87 - (bit: 07 hex: 80)
+063B
+	805C5111 - (bit: 00 hex: 01)
+063C
+	805C4DA5 - (bit: 07 hex: 80)
+063D
+	805C4DA6 - (bit: 00 hex: 01)
+063E
+	805C4C43 - (bit: 05 hex: 20)
+	805C4C43 - (bit: 06 hex: 40)
+	805C4C43 - (bit: 07 hex: 80)
+063F
+	805C4C44 - (bit: 00 hex: 01)
+	805C4C44 - (bit: 01 hex: 02)
+	805C4C44 - (bit: 02 hex: 04)
+0640
+	805C4C44 - (bit: 03 hex: 08)
+	805C4C44 - (bit: 04 hex: 10)
+	805C4C44 - (bit: 05 hex: 20)
+0641
+	805C4C44 - (bit: 06 hex: 40)
+	805C4C44 - (bit: 07 hex: 80)
+	805C4C45 - (bit: 00 hex: 01)
+0642
+	805C514E - (bit: 07 hex: 80)
+0643
+	805C5126 - (bit: 02 hex: 04)
+0644
+	805C4D8D - (bit: 03 hex: 08)
+0645
+	805C4D8D - (bit: 04 hex: 10)
+0646
+	805C4D8D - (bit: 05 hex: 20)
+0647
+	805C5111 - (bit: 01 hex: 02)
+0648
+	805C4D8D - (bit: 06 hex: 40)
+0649
+	805C4D8D - (bit: 07 hex: 80)
+064A
+	805C4D8B - (bit: 07 hex: 80)
+064B
+	805C4F38 - (bit: 00 hex: 01)
+	805C4F38 - (bit: 01 hex: 02)
+	805C4F38 - (bit: 02 hex: 04)
+	805C4F38 - (bit: 03 hex: 08)
+	805C4F38 - (bit: 04 hex: 10)
+	805C4F38 - (bit: 05 hex: 20)
+	805C4F38 - (bit: 06 hex: 40)
+	805C4F38 - (bit: 07 hex: 80)
+064C
+	805C5112 - (bit: 07 hex: 80)
+064D
+	805C5113 - (bit: 00 hex: 01)
+064E
+	805C5113 - (bit: 01 hex: 02)
+064F
+	805C5113 - (bit: 02 hex: 04)
+0650
+	805C5113 - (bit: 03 hex: 08)
+0651
+	805C5126 - (bit: 03 hex: 08) Trigger: '034F Krazoa: In the dark of a tree hollow... the moon seeds begun to grow...'
+0652
+	805C4D71 - (bit: 03 hex: 08) Triggered: '034F Krazoa: In the dark of a tree hollow... the moon seeds begun to grow...'
+0653
+	805C4D8E - (bit: 00 hex: 01)
+0654
+	805C4D8A - (bit: 01 hex: 02) Trigger: '034B Trick: Uhh, don't you think we should be getting out from here?'
+0655
+	805C4D8A - (bit: 02 hex: 04) Triggered: '034B Trick: Uhh, don't you think we should be getting out from here?'
+0656
+	805C4D8A - (bit: 03 hex: 08)
+0657
+	805C4D8A - (bit: 04 hex: 10)
+0658
+	805C4D3E - (bit: 01 hex: 02)
+0659
+	805C4D3E - (bit: 02 hex: 04)
+065A
+	805C4D3E - (bit: 03 hex: 08)
+065B
+	805C4D8E - (bit: 01 hex: 02)
+065C
+	805C4D8E - (bit: 02 hex: 04)
+065D
+	805C4D8E - (bit: 03 hex: 08)
+065E
+	805C5110 - (bit: 00 hex: 01)
+065F
+	805C4D8E - (bit: 04 hex: 10) Trigger: '03C7 Activate pulley'
+0660
+	805C4D8E - (bit: 05 hex: 20)
+0661
+	805C4D8E - (bit: 06 hex: 40)
+0662
+	805C4D8E - (bit: 07 hex: 80)
+0663
+	805C4D8F - (bit: 00 hex: 01)
+0664
+	805C5110 - (bit: 00 hex: 01)
+0665
+	805C4D8F - (bit: 01 hex: 02)
+0666
+	805C4D8F - (bit: 02 hex: 04)
+0667
+	805C4D8F - (bit: 03 hex: 08)
+0668
+	805C4D8F - (bit: 04 hex: 10)
+0669
+	805C4D8F - (bit: 05 hex: 20)
+066A
+	805C514F - (bit: 00 hex: 01)
+066B
+	805C514F - (bit: 01 hex: 02)
+066C
+	805C4D3A - (bit: 03 hex: 08)
+	805C4D3A - (bit: 04 hex: 10)
+	805C4D3A - (bit: 05 hex: 20)
+	805C4D3A - (bit: 06 hex: 40)
+066D
+	805C4D3A - (bit: 07 hex: 80)
+	805C4D3B - (bit: 00 hex: 01)
+	805C4D3B - (bit: 01 hex: 02)
+	805C4D3B - (bit: 02 hex: 04)
+066E
+	805C5141 - (bit: 01 hex: 02)
+066F
+	805C5141 - (bit: 02 hex: 04)
+0670
+	805C5141 - (bit: 03 hex: 08)
+0671
+	805C5141 - (bit: 04 hex: 10)
+0672
+	805C5141 - (bit: 05 hex: 20)
+0673
+	805C5141 - (bit: 06 hex: 40)
+0674
+	805C5141 - (bit: 07 hex: 80)
+0675
+	805C5142 - (bit: 00 hex: 01)
+0676
+	805C4D8F - (bit: 06 hex: 40)
+0677
+	805C5142 - (bit: 01 hex: 02)
+0678
+	805C5142 - (bit: 02 hex: 04)
+0679
+	805C5142 - (bit: 03 hex: 08)
+067A
+	805C5142 - (bit: 04 hex: 10)
+067B
+	805C5142 - (bit: 05 hex: 20)
+067C
+	805C5142 - (bit: 06 hex: 40)
+067D
+	805C5142 - (bit: 07 hex: 80)
+067E
+	805C5143 - (bit: 00 hex: 01)
+067F
+	805C4D8F - (bit: 07 hex: 80)
+0680
+	805C4D71 - (bit: 05 hex: 20) Triggered: '0375 SharpC: Big stone mine! Haha!'
+0681
+	805C4DA9 - (bit: 00 hex: 01)
+0682
+	805C5143 - (bit: 01 hex: 02)
+0683
+	805C4D90 - (bit: 00 hex: 01)
+	805C4D90 - (bit: 01 hex: 02)
+	805C4D90 - (bit: 02 hex: 04)
+0684
+	805C4D3F - (bit: 04 hex: 10)
+0685
+	805C4D3F - (bit: 05 hex: 20)
+0686
+	805C4D3F - (bit: 06 hex: 40)
+0687
+	805C4D90 - (bit: 03 hex: 08)
+0688
+	805C4D94 - (bit: 06 hex: 40)
+0689
+	805C4D95 - (bit: 00 hex: 01)
+068A
+	805C4D95 - (bit: 01 hex: 02)
+068B
+	805C4D95 - (bit: 02 hex: 04)
+068C
+	805C4D95 - (bit: 03 hex: 08)
+068D
+	805C4D95 - (bit: 04 hex: 10)
+068E
+	805C4D95 - (bit: 05 hex: 20)
+068F
+	805C4D95 - (bit: 06 hex: 40)
+0690
+	805C4D95 - (bit: 07 hex: 80) Exit for the "The Rock" opened
+0691
+	805C4D96 - (bit: 00 hex: 01)
+0692
+	805C4D96 - (bit: 01 hex: 02)
+0693
+	805C4D94 - (bit: 07 hex: 80)
+0694
+	805C4D96 - (bit: 02 hex: 04)
+0695
+	805C4D96 - (bit: 03 hex: 08)
+0696
+	805C4D96 - (bit: 04 hex: 10)
+0697
+	805C5110 - (bit: 00 hex: 01)
+0698
+	805C4DD0 - (bit: 02 hex: 04)
+	805C4DD0 - (bit: 03 hex: 08)
+	805C4DD0 - (bit: 04 hex: 10)
+0699
+	805C5110 - (bit: 00 hex: 01)
+069A
+	805C4DA9 - (bit: 01 hex: 02)
+069B
+	805C4E0D - (bit: 01 hex: 02)
+069C
+	805C4E0D - (bit: 02 hex: 04)
+069D
+	805C4E0D - (bit: 03 hex: 08)
+069E
+	805C4E0D - (bit: 04 hex: 10)
+069F
+	805C4E0D - (bit: 05 hex: 20)
+06A0
+	805C4E0D - (bit: 06 hex: 40)
+06A1
+	805C4E0D - (bit: 07 hex: 80)
+06A2
+	805C4E0E - (bit: 00 hex: 01)
+06A3
+	805C4E0E - (bit: 01 hex: 02)
+06A4
+	805C4E0E - (bit: 02 hex: 04)
+06A5
+	805C4E0E - (bit: 03 hex: 08)
+06A6
+	805C4E0E - (bit: 04 hex: 10)
+06A7
+	805C4E0E - (bit: 05 hex: 20)
+06A8
+	805C4E0E - (bit: 06 hex: 40)
+06A9
+	805C4E0E - (bit: 07 hex: 80)
+06AA
+	805C4E0F - (bit: 00 hex: 01)
+06AB
+	805C4E0F - (bit: 01 hex: 02)
+06AC
+	805C4E0F - (bit: 02 hex: 04)
+06AD
+	805C4E0F - (bit: 03 hex: 08)
+06AE
+	805C4E0F - (bit: 04 hex: 10)
+06AF
+	805C4E0F - (bit: 05 hex: 20)
+06B0
+	805C4E0F - (bit: 06 hex: 40)
+06B1
+	805C4E0F - (bit: 07 hex: 80)
+06B2
+	805C4E10 - (bit: 00 hex: 01)
+06B3
+	805C4E10 - (bit: 01 hex: 02)
+06B4
+	805C4E10 - (bit: 02 hex: 04)
+06B5
+	805C4E10 - (bit: 03 hex: 08)
+06B6
+	805C4E10 - (bit: 04 hex: 10)
+06B7
+	805C4E10 - (bit: 05 hex: 20)
+06B8
+	805C4E10 - (bit: 06 hex: 40)
+06B9
+	805C4E10 - (bit: 07 hex: 80)
+06BA
+	805C4E11 - (bit: 00 hex: 01)
+06BB
+	805C4E11 - (bit: 01 hex: 02)
+06BC
+	805C4E11 - (bit: 02 hex: 04)
+06BD
+	805C4E11 - (bit: 03 hex: 08)
+06BE
+	805C4E11 - (bit: 04 hex: 10)
+06BF
+	805C4E11 - (bit: 05 hex: 20)
+06C0
+	805C4E11 - (bit: 06 hex: 40)
+06C1
+	805C4E11 - (bit: 07 hex: 80)
+06C2
+	805C4E12 - (bit: 00 hex: 01)
+06C3
+	805C4E12 - (bit: 01 hex: 02)
+06C4
+	805C4E12 - (bit: 02 hex: 04)
+06C5
+	805C4E12 - (bit: 03 hex: 08)
+06C6
+	805C4E12 - (bit: 04 hex: 10)
+06C7
+	805C4E12 - (bit: 05 hex: 20)
+06C8
+	805C4E12 - (bit: 06 hex: 40)
+06C9
+	805C4E12 - (bit: 07 hex: 80)
+06CA
+	805C4E13 - (bit: 00 hex: 01)
+06CB
+	805C4E13 - (bit: 01 hex: 02)
+06CC
+	805C4E13 - (bit: 02 hex: 04)
+06CD
+	805C4E13 - (bit: 03 hex: 08)
+06CE
+	805C4E13 - (bit: 04 hex: 10)
+06CF
+	805C4E13 - (bit: 05 hex: 20)
+06D0
+	805C4E13 - (bit: 06 hex: 40)
+06D1
+	805C4E13 - (bit: 07 hex: 80)
+06D2
+	805C4E14 - (bit: 00 hex: 01)
+06D3
+	805C4E14 - (bit: 01 hex: 02)
+06D4
+	805C4E14 - (bit: 02 hex: 04)
+06D5
+	805C4E14 - (bit: 03 hex: 08)
+06D6
+	805C4E14 - (bit: 04 hex: 10)
+06D7
+	805C4E14 - (bit: 05 hex: 20)
+06D8
+	805C4E14 - (bit: 06 hex: 40)
+06D9
+	805C4E14 - (bit: 07 hex: 80)
+06DA
+	805C4E15 - (bit: 00 hex: 01)
+06DB
+	805C4E15 - (bit: 01 hex: 02)
+06DC
+	805C4E15 - (bit: 02 hex: 04)
+06DD
+	805C4E15 - (bit: 03 hex: 08)
+06DE
+	805C4E15 - (bit: 04 hex: 10)
+06DF
+	805C4E15 - (bit: 05 hex: 20)
+06E0
+	805C4E15 - (bit: 06 hex: 40)
+06E1
+	805C4E15 - (bit: 07 hex: 80)
+06E2
+	805C4E16 - (bit: 00 hex: 01)
+06E3
+	805C4E16 - (bit: 01 hex: 02)
+06E4
+	805C4E16 - (bit: 02 hex: 04)
+06E5
+	805C4E16 - (bit: 03 hex: 08)
+06E6
+	805C4E16 - (bit: 04 hex: 10)
+06E7
+	805C4E16 - (bit: 05 hex: 20)
+06E8
+	805C4E16 - (bit: 06 hex: 40)
+06E9
+	805C4E16 - (bit: 07 hex: 80)
+06EA
+	805C4E17 - (bit: 00 hex: 01)
+06EB
+	805C4E17 - (bit: 01 hex: 02)
+06EC
+	805C4E17 - (bit: 02 hex: 04)
+06ED
+	805C4E17 - (bit: 03 hex: 08)
+06EE
+	805C4E17 - (bit: 04 hex: 10)
+06EF
+	805C4E17 - (bit: 05 hex: 20)
+06F0
+	805C4E17 - (bit: 06 hex: 40)
+06F1
+	805C4E17 - (bit: 07 hex: 80)
+06F2
+	805C4E18 - (bit: 00 hex: 01)
+06F3
+	805C4E18 - (bit: 01 hex: 02)
+06F4
+	805C4E18 - (bit: 02 hex: 04)
+06F5
+	805C4E18 - (bit: 03 hex: 08)
+06F6
+	805C4E18 - (bit: 04 hex: 10)
+06F7
+	805C4E18 - (bit: 05 hex: 20)
+06F8
+	805C4E18 - (bit: 06 hex: 40)
+06F9
+	805C4E18 - (bit: 07 hex: 80)
+06FA
+	805C4E19 - (bit: 00 hex: 01)
+06FB
+	805C4E19 - (bit: 01 hex: 02)
+06FC
+	805C4E19 - (bit: 02 hex: 04)
+06FD
+	805C4E19 - (bit: 03 hex: 08)
+06FE
+	805C4E19 - (bit: 04 hex: 10)
+06FF
+	805C4E19 - (bit: 05 hex: 20)
+0700
+	805C4E19 - (bit: 06 hex: 40)
+0701
+	805C4E19 - (bit: 07 hex: 80)
+0702
+	805C4E1A - (bit: 00 hex: 01)
+0703
+	805C4E1A - (bit: 01 hex: 02)
+0704
+	805C4E1A - (bit: 02 hex: 04)
+0705
+	805C4E1A - (bit: 03 hex: 08)
+0706
+	805C4E1A - (bit: 04 hex: 10)
+0707
+	805C4E1A - (bit: 05 hex: 20)
+0708
+	805C4E1A - (bit: 06 hex: 40)
+0709
+	805C4E1A - (bit: 07 hex: 80)
+070A
+	805C4E1B - (bit: 00 hex: 01)
+070B
+	805C4E1B - (bit: 01 hex: 02)
+070C
+	805C4E1B - (bit: 02 hex: 04)
+070D
+	805C4E1B - (bit: 03 hex: 08)
+070E
+	805C4E1B - (bit: 04 hex: 10)
+070F
+	805C4E1B - (bit: 05 hex: 20)
+0710
+	805C4E1B - (bit: 06 hex: 40)
+0711
+	805C4E1B - (bit: 07 hex: 80)
+0712
+	805C4E1C - (bit: 00 hex: 01)
+0713
+	805C4E1C - (bit: 01 hex: 02)
+0714
+	805C4E1C - (bit: 02 hex: 04)
+0715
+	805C4E1C - (bit: 03 hex: 08)
+0716
+	805C4E1C - (bit: 04 hex: 10)
+0717
+	805C4E1C - (bit: 05 hex: 20)
+0718
+	805C4E1C - (bit: 06 hex: 40)
+0719
+	805C4E1C - (bit: 07 hex: 80)
+071A
+	805C4E1D - (bit: 00 hex: 01)
+071B
+	805C4E1D - (bit: 01 hex: 02)
+071C
+	805C4E1D - (bit: 02 hex: 04)
+071D
+	805C4E1D - (bit: 03 hex: 08)
+071E
+	805C4E1D - (bit: 04 hex: 10)
+071F
+	805C4E1D - (bit: 05 hex: 20)
+0720
+	805C4E1D - (bit: 06 hex: 40)
+0721
+	805C4E1D - (bit: 07 hex: 80)
+0722
+	805C4E1E - (bit: 00 hex: 01)
+0723
+	805C4E1E - (bit: 01 hex: 02)
+0724
+	805C4E1E - (bit: 02 hex: 04)
+0725
+	805C4E1E - (bit: 03 hex: 08)
+0726
+	805C4E1E - (bit: 04 hex: 10)
+0727
+	805C4E1E - (bit: 05 hex: 20)
+0728
+	805C4E1E - (bit: 06 hex: 40)
+0729
+	805C4E1E - (bit: 07 hex: 80)
+072A
+	805C4E1F - (bit: 00 hex: 01)
+072B
+	805C4E1F - (bit: 01 hex: 02)
+072C
+	805C4E1F - (bit: 02 hex: 04)
+072D
+	805C4E1F - (bit: 03 hex: 08)
+072E
+	805C4E1F - (bit: 04 hex: 10)
+072F
+	805C4E1F - (bit: 05 hex: 20)
+0730
+	805C4E1F - (bit: 06 hex: 40)
+0731
+	805C4E1F - (bit: 07 hex: 80)
+0732
+	805C4E20 - (bit: 00 hex: 01)
+0733
+	805C4E20 - (bit: 01 hex: 02)
+0734
+	805C4E20 - (bit: 02 hex: 04)
+0735
+	805C4E20 - (bit: 03 hex: 08)
+0736
+	805C4E20 - (bit: 04 hex: 10)
+0737
+	805C4E20 - (bit: 05 hex: 20)
+0738
+	805C4E20 - (bit: 06 hex: 40)
+0739
+	805C4E20 - (bit: 07 hex: 80)
+073A
+	805C4E21 - (bit: 00 hex: 01)
+073B
+	805C4E21 - (bit: 01 hex: 02)
+073C
+	805C4E21 - (bit: 02 hex: 04)
+073D
+	805C4E21 - (bit: 03 hex: 08)
+073E
+	805C4E21 - (bit: 04 hex: 10)
+073F
+	805C4E21 - (bit: 05 hex: 20)
+0740
+	805C4E21 - (bit: 06 hex: 40)
+0741
+	805C4E21 - (bit: 07 hex: 80)
+0742
+	805C4E22 - (bit: 00 hex: 01)
+0743
+	805C4E22 - (bit: 01 hex: 02)
+0744
+	805C4E22 - (bit: 02 hex: 04)
+0745
+	805C4E22 - (bit: 03 hex: 08)
+0746
+	805C4E22 - (bit: 04 hex: 10)
+0747
+	805C4E22 - (bit: 05 hex: 20)
+0748
+	805C4E22 - (bit: 06 hex: 40)
+0749
+	805C4E22 - (bit: 07 hex: 80)
+074A
+	805C4E23 - (bit: 00 hex: 01)
+074B
+	805C4E23 - (bit: 01 hex: 02)
+074C
+	805C4E23 - (bit: 02 hex: 04)
+074D
+	805C4E23 - (bit: 03 hex: 08)
+074E
+	805C4E23 - (bit: 04 hex: 10)
+074F
+	805C4E23 - (bit: 05 hex: 20)
+0750
+	805C4E23 - (bit: 06 hex: 40)
+0751
+	805C4E23 - (bit: 07 hex: 80)
+0752
+	805C4E24 - (bit: 00 hex: 01)
+0753
+	805C4E24 - (bit: 01 hex: 02)
+0754
+	805C4E24 - (bit: 02 hex: 04)
+0755
+	805C4E24 - (bit: 03 hex: 08)
+0756
+	805C4E24 - (bit: 04 hex: 10)
+0757
+	805C4E24 - (bit: 05 hex: 20)
+0758
+	805C4E24 - (bit: 06 hex: 40)
+0759
+	805C4E24 - (bit: 07 hex: 80)
+075A
+	805C4E25 - (bit: 00 hex: 01)
+075B
+	805C4E25 - (bit: 01 hex: 02)
+075C
+	805C4E25 - (bit: 02 hex: 04)
+075D
+	805C4E25 - (bit: 03 hex: 08)
+075E
+	805C4E25 - (bit: 04 hex: 10)
+075F
+	805C4E25 - (bit: 05 hex: 20)
+0760
+	805C4E25 - (bit: 06 hex: 40)
+0761
+	805C4E25 - (bit: 07 hex: 80)
+0762
+	805C4E26 - (bit: 00 hex: 01)
+0763
+	805C5110 - (bit: 00 hex: 01)
+0764
+	805C4D90 - (bit: 04 hex: 10)
+0765
+	805C4D90 - (bit: 05 hex: 20)
+0766
+	805C4DA9 - (bit: 02 hex: 04)
+0767
+	805C4DA9 - (bit: 03 hex: 08)
+0768
+	805C5113 - (bit: 04 hex: 10)
+0769
+	805C5113 - (bit: 05 hex: 20)
+076A
+	805C5113 - (bit: 06 hex: 40)
+076B
+	805C5113 - (bit: 07 hex: 80)
+076C
+	805C4DA9 - (bit: 04 hex: 10)
+076D
+	805C4DA9 - (bit: 05 hex: 20)
+076E
+	805C4DDD - (bit: 00 hex: 01) Dragon Rock - Top Setup bit 1
+	805C4DDD - (bit: 01 hex: 02) Dragon Rock - Top Setup bit 2
+	805C4DDD - (bit: 02 hex: 04) Dragon Rock - Top Setup bit 3
+	805C4DDD - (bit: 03 hex: 08) Dragon Rock - Top Setup bit 4
+076F
+	805C4DDD - (bit: 04 hex: 10) Dragon Rock - Bottom Setup bit 1
+	805C4DDD - (bit: 05 hex: 20) Dragon Rock - Bottom Setup bit 2
+	805C4DDD - (bit: 06 hex: 40) Dragon Rock - Bottom Setup bit 3
+	805C4DDD - (bit: 07 hex: 80) Dragon Rock - Bottom Setup bit 4
+0770
+	805C5114 - (bit: 00 hex: 01)
+0771
+	805C4DA9 - (bit: 06 hex: 40)
+0772
+	805C5126 - (bit: 05 hex: 20)
+0773
+	805C5126 - (bit: 04 hex: 10) Trigger: '0375 SharpC: Big stone mine! Haha!'
+0774
+	805C4D90 - (bit: 06 hex: 40) Trigger: '037A Light beam shines on symbol'
+0775
+	805C4D90 - (bit: 07 hex: 80) Triggered: '037A Light beam shines on symbol'
+0776
+	805C4D91 - (bit: 00 hex: 01) HitAnimator on "The Rock" entry
+0777
+	805C4DBF - (bit: 02 hex: 04) Wizard Randorn (Unknown usage)
+0778
+	805C4C54 - (bit: 06 hex: 40)
+0779
+	805C512A - (bit: 04 hex: 10)
+077A
+	805C5143 - (bit: 02 hex: 04)
+077B
+	805C5143 - (bit: 03 hex: 08)
+077C
+	805C5143 - (bit: 04 hex: 10)
+077D
+	805C5143 - (bit: 05 hex: 20)
+077E
+	805C5127 - (bit: 00 hex: 01)
+077F
+	805C5127 - (bit: 01 hex: 02)
+0780
+	805C5114 - (bit: 01 hex: 02)
+0781
+	805C5112 - (bit: 02 hex: 04)
+0782
+	805C4C46 - (bit: 01 hex: 02)
+0783
+	805C4D91 - (bit: 01 hex: 02)
+0784
+	805C5112 - (bit: 03 hex: 08)
+0785
+	805C4C46 - (bit: 02 hex: 04)
+0786
+	805C5112 - (bit: 04 hex: 10)
+0787
+	805C4C46 - (bit: 03 hex: 08)
+0788
+	805C4D96 - (bit: 05 hex: 20)
+0789
+	805C4D96 - (bit: 06 hex: 40)
+	805C4D96 - (bit: 07 hex: 80)
+	805C4D97 - (bit: 00 hex: 01)
+078A
+	805C5127 - (bit: 02 hex: 04)
+078B
+	805C4D91 - (bit: 02 hex: 04) Played: 0358 (Showing entrance to the rock) [DR_Seqobj]
+078C
+	805C5143 - (bit: 06 hex: 40) Enable FXEmit Spellstone Holder #1
+078D
+	805C4DAA - (bit: 00 hex: 01)
+078E
+	805C5143 - (bit: 07 hex: 80)
+078F
+	805C5144 - (bit: 00 hex: 01)
+0790
+	805C5144 - (bit: 01 hex: 02)
+0791
+	805C5144 - (bit: 02 hex: 04)
+0792
+	805C4DAA - (bit: 01 hex: 02)
+0793
+	805C4DAA - (bit: 02 hex: 04)
+0794
+	805C5110 - (bit: 00 hex: 01)
+0795
+	805C4D71 - (bit: 06 hex: 40) ?
+0796
+	805C4D71 - (bit: 07 hex: 80) ?
+0797
+	805C5144 - (bit: 03 hex: 08)
+0798
+	805C5144 - (bit: 04 hex: 10)
+0799
+	805C5144 - (bit: 05 hex: 20)
+079A
+	805C5144 - (bit: 06 hex: 40)
+079B
+	805C5144 - (bit: 07 hex: 80)
+079C
+	805C5145 - (bit: 00 hex: 01)
+079D
+	805C5145 - (bit: 01 hex: 02)
+079E
+	805C5145 - (bit: 02 hex: 04)
+079F
+	805C5145 - (bit: 03 hex: 08)
+07A0
+	805C4DAA - (bit: 03 hex: 08)
+07A1
+	805C4DAA - (bit: 04 hex: 10)
+07A2
+	805C4DAA - (bit: 05 hex: 20)
+07A3
+	805C4DAA - (bit: 06 hex: 40)
+07A4
+	805C4D91 - (bit: 03 hex: 08)
+07A5
+	805C5127 - (bit: 03 hex: 08) Trigger: '0319 Gradabug: Ah, hello again, Krystal. And welcome to Golden Plains.'
+07A6
+	805C4D72 - (bit: 00 hex: 01) Triggered: '0319 Gradabug: Ah, hello again, Krystal. And welcome to Golden Plains.'
+07A7
+	805C4DAA - (bit: 07 hex: 80)
+07A8
+	805C4DAB - (bit: 00 hex: 01) Trigger: '0372 Kyte: Krystal! You've shut down a section of the power beam!', enables 2nd Spellstone Holder
+07A9
+	805C4D92 - (bit: 07 hex: 80)
+	805C4D93 - (bit: 00 hex: 01)
+	805C4D93 - (bit: 01 hex: 02)
+07AA
+	805C4D93 - (bit: 02 hex: 04)
+	805C4D93 - (bit: 03 hex: 08)
+	805C4D93 - (bit: 04 hex: 10)
+	805C4D93 - (bit: 05 hex: 20)
+	805C4D93 - (bit: 06 hex: 40)
+07AB
+	805C4D72 - (bit: 01 hex: 02)
+07AC
+	805C514E - (bit: 01 hex: 02)
+07AD
+	805C4DBD - (bit: 03 hex: 08)
+07AE
+	805C514E - (bit: 02 hex: 04) Play Drakor Defeat
+07AF
+	805C4DBD - (bit: 04 hex: 10) Drakor Defeat triggered
+07B0
+	805C5127 - (bit: 04 hex: 10)
+07B1
+	805C5127 - (bit: 05 hex: 20)
+07B2
+	805C5127 - (bit: 06 hex: 40)
+07B3
+	805C4D72 - (bit: 02 hex: 04) Triggered: '039B GP_ShrinePillar rise from sand'
+07B4
+	805C4D72 - (bit: 03 hex: 08) Triggered: '039C GP_ShrinePillar rise from sand'? Object flag is set to 0xFFFF
+07B5
+	805C4D72 - (bit: 04 hex: 10) Triggered: '039D GP_ShrinePillar nothing happens'
+07B6
+	805C4D93 - (bit: 07 hex: 80)
+07B7
+	805C5127 - (bit: 07 hex: 80) Triggers: '039B GP_ShrinePillar rise from sand'
+07B8
+	805C5128 - (bit: 00 hex: 01) Triggers: '039C GP_ShrinePillar rise from sand'
+07B9
+	805C5128 - (bit: 01 hex: 02) Triggers: '039D GP_ShrinePillar nothing happens'
+07BA
+	805C4D91 - (bit: 04 hex: 10) Earthwalker-destroyable wall smashes #3 (Dragon Rock)
+07BB
+	805C4D91 - (bit: 05 hex: 20) Earthwalker-destroyable wall smashes #3 (Triggered by 07BA)
+07BC
+	805C4D91 - (bit: 06 hex: 40)
+07BD
+	805C4DAC - (bit: 04 hex: 10) Spellstone (Krystal)
+07BE
+	805C4DA7 - (bit: 04 hex: 10)
+07BF
+	805C4DBF - (bit: 03 hex: 08) Unknown (looks like Krazoa Tablet)
+07C0
+	805C5110 - (bit: 00 hex: 01)
+07C1
+	805C4DAB - (bit: 01 hex: 02)
+07C2
+	805C4DAB - (bit: 02 hex: 04)
+07C3
+	805C4DAB - (bit: 03 hex: 08)
+07C4
+	805C4DAB - (bit: 04 hex: 10)
+07C5
+	805C514E - (bit: 03 hex: 08) Play: Boss Drakor touches crystal
+07C6
+	805C514E - (bit: 05 hex: 20) Play: Boss Drakor hurt, first room
+07C7
+	805C4D92 - (bit: 00 hex: 01) Play: 0359 (Sabre: Tricky, stay there! Don't move, I'll be back soon!) [DR_Seqobj]
+07C8
+	805C4D92 - (bit: 01 hex: 02) Played: 0359 (Sabre: Tricky, stay there! Don't move, I'll be back soon!) [DR_Seqobj]
+07C9
+	805C4D92 - (bit: 02 hex: 04)
+07CA
+	805C514E - (bit: 04 hex: 10)
+07CB
+	805C514E - (bit: 06 hex: 40)
+07CC
+	805C4D92 - (bit: 03 hex: 08) Play: 035A (Sabre: The last Spellstone!) [DR_Seqobj]
+07CD
+	805C4D92 - (bit: 04 hex: 10) Played: 035A (Sabre: The last Spellstone!) [DR_Seqobj] - Also adds an invisible wall to the exit
+07CE
+	805C4FAD - (bit: 00 hex: 01)
+	805C4FAD - (bit: 01 hex: 02)
+	805C4FAD - (bit: 02 hex: 04)
+	805C4FAD - (bit: 03 hex: 08)
+	805C4FAD - (bit: 04 hex: 10)
+	805C4FAD - (bit: 05 hex: 20)
+	805C4FAD - (bit: 06 hex: 40)
+	805C4FAD - (bit: 07 hex: 80)
+	805C4FAE - (bit: 00 hex: 01)
+	805C4FAE - (bit: 01 hex: 02)
+	805C4FAE - (bit: 02 hex: 04)
+	805C4FAE - (bit: 03 hex: 08)
+	805C4FAE - (bit: 04 hex: 10)
+	805C4FAE - (bit: 05 hex: 20)
+	805C4FAE - (bit: 06 hex: 40)
+	805C4FAE - (bit: 07 hex: 80)
+	805C4FAF - (bit: 00 hex: 01)
+	805C4FAF - (bit: 01 hex: 02)
+	805C4FAF - (bit: 02 hex: 04)
+	805C4FAF - (bit: 03 hex: 08)
+	805C4FAF - (bit: 04 hex: 10)
+	805C4FAF - (bit: 05 hex: 20)
+	805C4FAF - (bit: 06 hex: 40)
+	805C4FAF - (bit: 07 hex: 80)
+	805C4FB0 - (bit: 00 hex: 01)
+	805C4FB0 - (bit: 01 hex: 02)
+	805C4FB0 - (bit: 02 hex: 04)
+	805C4FB0 - (bit: 03 hex: 08)
+	805C4FB0 - (bit: 04 hex: 10)
+	805C4FB0 - (bit: 05 hex: 20)
+	805C4FB0 - (bit: 06 hex: 40)
+	805C4FB0 - (bit: 07 hex: 80)
+07CF
+	805C4C46 - (bit: 06 hex: 40)
+07D0
+	805C5128 - (bit: 03 hex: 08) GPShrine, trigger cutscene
+07D1
+	805C4D72 - (bit: 06 hex: 40) GPShrine, cutscene triggered
+07D2
+	805C4D72 - (bit: 07 hex: 80) GPShrine visible
+07D3
+	805C4D73 - (bit: 00 hex: 01) GPShrine floor visible
+07D4
+	805C4D91 - (bit: 07 hex: 80)
+07D5
+	805C5128 - (bit: 06 hex: 40) Trigger: '03A7 Scare away Chimney Swipe'
+07D6
+	805C4D73 - (bit: 01 hex: 02) Triggered: '03A7 Scare away Chimney Swipe'
+07D7
+	805C5146 - (bit: 06 hex: 40)
+07D8
+	805C5146 - (bit: 07 hex: 80)
+07D9
+	805C5147 - (bit: 00 hex: 01)
+07DA
+	805C5147 - (bit: 01 hex: 02)
+07DB
+	805C5147 - (bit: 02 hex: 04)
+07DC
+	805C514F - (bit: 03 hex: 08)
+07DD
+	805C4E07 - (bit: 04 hex: 10)
+07DE
+	805C4E07 - (bit: 05 hex: 20)
+07DF
+	805C4D44 - (bit: 00 hex: 01)
+07E0
+	805C4E07 - (bit: 06 hex: 40)
+07E1
+	805C4E07 - (bit: 07 hex: 80)
+07E2
+	805C514F - (bit: 04 hex: 10)
+07E3
+	805C512A - (bit: 05 hex: 20)
+07E4
+	805C512A - (bit: 06 hex: 40)
+07E5
+	805C4E08 - (bit: 00 hex: 01)
+07E6
+	805C4E08 - (bit: 01 hex: 02)
+07E7
+	805C4DAB - (bit: 05 hex: 20)
+07E8
+	805C4DAB - (bit: 06 hex: 40)
+07E9
+	805C4E08 - (bit: 02 hex: 04)
+07EA
+	805C4DAB - (bit: 07 hex: 80)
+07EB
+	805C5129 - (bit: 00 hex: 01) Trigger: '03B6 Chimmney Swipe blows you away'
+07EC
+	805C4D73 - (bit: 02 hex: 04) Triggered: '03B6 Chimmney Swipe blows you away'
+07ED
+	805C4D7C - (bit: 00 hex: 01) Sun Timer Challenge
+07EE
+	805C4D7C - (bit: 01 hex: 02)
+07EF
+	805C4D7C - (bit: 02 hex: 04)
+07F0
+	805C4D7C - (bit: 04 hex: 10) Moon Timer Challenge
+07F1
+	805C4D7C - (bit: 06 hex: 40)
+07F2
+	805C4D7C - (bit: 07 hex: 80)
+07F3
+	805C4D7D - (bit: 00 hex: 01)
+07F4
+	805C4D7D - (bit: 01 hex: 02)
+07F5
+	805C4D7D - (bit: 02 hex: 04)
+07F6
+	805C4D7D - (bit: 03 hex: 08)
+07F7
+	805C4D7D - (bit: 04 hex: 10)
+07F8
+	805C4D7D - (bit: 06 hex: 40)
+07F9
+	805C4D7C - (bit: 03 hex: 08)
+07FA
+	805C4D7C - (bit: 05 hex: 20)
+07FB
+	805C4D7D - (bit: 07 hex: 80)
+07FC
+	805C4D7E - (bit: 00 hex: 01)
+07FD
+	805C5128 - (bit: 02 hex: 04)
+07FE
+	805C4D72 - (bit: 05 hex: 20)
+07FF
+	805C5129 - (bit: 01 hex: 02)
+0800
+	805C5129 - (bit: 02 hex: 04)
+0801
+	805C5129 - (bit: 03 hex: 08)
+0802
+	805C4D7D - (bit: 05 hex: 20)
+0803
+	805C5117 - (bit: 01 hex: 02) Trigger: '03C4 Kyte: *gasp* Look out! (asteroid crash)'
+0804
+	805C4C48 - (bit: 01 hex: 02) Triggered: '03C4 Kyte: *gasp* Look out! (asteroid crash)'
+0805
+	805C5145 - (bit: 04 hex: 10)
+0806
+	805C5145 - (bit: 05 hex: 20)
+0807
+	805C5145 - (bit: 06 hex: 40)
+0808
+	805C4D7E - (bit: 01 hex: 02)
+0809
+	805C4D7E - (bit: 02 hex: 04)
+080A
+	805C4D92 - (bit: 05 hex: 20) Triggered: '03C7 Activate pulley' (Dragon Rock Mine)
+080B
+	805C5117 - (bit: 02 hex: 04) Trigger: '03C8 QALachu: You must not stop. Only when the six Quan Ata Lachu are collected will my palace reveal itself to you.'
+080C
+	805C4C48 - (bit: 02 hex: 04) Triggered: '03C8 QALachu: You must not stop. Only when the six Quan Ata Lachu are collected will my palace reveal itself to you.'
+080D
+	805C5145 - (bit: 07 hex: 80)
+080E
+	805C5146 - (bit: 00 hex: 01)
+080F
+	805C5146 - (bit: 01 hex: 02)
+0810
+	805C4D7E - (bit: 03 hex: 08)
+	805C4D7E - (bit: 04 hex: 10)
+	805C4D7E - (bit: 05 hex: 20)
+0811
+	805C4D7E - (bit: 06 hex: 40)
+	805C4D7E - (bit: 07 hex: 80)
+	805C4D7F - (bit: 00 hex: 01)
+0812
+	805C4D7F - (bit: 01 hex: 02)
+0813
+	805C4D7F - (bit: 02 hex: 04)
+0814
+	805C4D7F - (bit: 03 hex: 08)
+0815
+	805C4D7F - (bit: 04 hex: 10)
+0816
+	805C4D7F - (bit: 05 hex: 20)
+0817
+	805C4D7F - (bit: 06 hex: 40)
+0818
+	805C5110 - (bit: 00 hex: 01)
+0819
+	805C4D7F - (bit: 07 hex: 80)
+081A
+	805C5110 - (bit: 00 hex: 01)
+081B
+	805C4D80 - (bit: 00 hex: 01) ?
+081C
+	805C4D80 - (bit: 01 hex: 02) ?
+081D
+	805C4D80 - (bit: 02 hex: 04) Silver Tooth
+081E
+	805C4D80 - (bit: 03 hex: 08) Gold Tooth
+081F
+	805C4D80 - (bit: 04 hex: 10) ?
+0820
+	805C4D80 - (bit: 05 hex: 20) ?
+0821
+	805C4D92 - (bit: 06 hex: 40)
+0822
+	805C4D94 - (bit: 00 hex: 01)
+0823
+	805C4D94 - (bit: 01 hex: 02)
+0824
+	805C4D94 - (bit: 02 hex: 04)
+0825
+	805C4D94 - (bit: 03 hex: 08)
+0826
+	805C4D94 - (bit: 04 hex: 10)
+0827
+	805C4D94 - (bit: 05 hex: 20)
+0828
+	805C4D81 - (bit: 06 hex: 40)
+0829
+	805C4D81 - (bit: 07 hex: 80)
+082A
+	805C5110 - (bit: 00 hex: 01)
+082B
+	805C4DB8 - (bit: 07 hex: 80)
+	805C4DB9 - (bit: 00 hex: 01)
+	805C4DB9 - (bit: 01 hex: 02)
+	805C4DB9 - (bit: 02 hex: 04)
+082C
+	805C5129 - (bit: 05 hex: 20)
+082D
+	805C4D73 - (bit: 05 hex: 20)
+082E
+	805C4E08 - (bit: 03 hex: 08)
+082F
+	805C4E08 - (bit: 04 hex: 10)
+0830
+	805C4E08 - (bit: 05 hex: 20)
+0831
+	805C4E08 - (bit: 06 hex: 40)
+0832
+	805C4E08 - (bit: 07 hex: 80)
+0833
+	805C5117 - (bit: 06 hex: 40) '03E5 Activate Magic Bridge'
+0834
+	805C5117 - (bit: 07 hex: 80)
+0835
+	805C4E09 - (bit: 00 hex: 01)
+0836
+	805C5129 - (bit: 04 hex: 10)
+0837
+	805C4D73 - (bit: 03 hex: 08)
+0838
+	805C5129 - (bit: 06 hex: 40)
+0839
+	805C5152 - (bit: 04 hex: 10)
+083A
+	805C4DAC - (bit: 01 hex: 02) Spellstone (Krystal)
+083B
+	805C4DAC - (bit: 02 hex: 04) Spellstone #2
+083C
+	805C4DAC - (bit: 03 hex: 08) Fire Crystal
+083D
+	805C5152 - (bit: 05 hex: 20)
+083E
+	805C4DBB - (bit: 07 hex: 80) PointBack Egg
+083F
+	805C4DB9 - (bit: 03 hex: 08) Opened VFPT round door with Bay Diamond for the first time
+	805C4DB9 - (bit: 04 hex: 10)
+	805C4DB9 - (bit: 05 hex: 20)
+0840
+	805C4DB9 - (bit: 06 hex: 40) Triggers guardian voiceline while opening VFPT round door??? (Will turn off once triggered)
+0841
+	805C4D86 - (bit: 00 hex: 01)
+0842
+	805C4D86 - (bit: 01 hex: 02)
+0843
+	805C5117 - (bit: 03 hex: 08)
+0844
+	805C5117 - (bit: 04 hex: 10)
+0845
+	805C5117 - (bit: 05 hex: 20)
+0846
+	805C4DBC - (bit: 00 hex: 01)
+0847
+	805C4DBC - (bit: 01 hex: 02)
+0848
+	805C4D86 - (bit: 02 hex: 04)
+0849
+	805C4C49 - (bit: 06 hex: 40)
+084A
+	805C5118 - (bit: 00 hex: 01)
+084B
+	805C4C49 - (bit: 07 hex: 80)
+084C
+	805C5118 - (bit: 01 hex: 02)
+084D
+	805C4C4A - (bit: 00 hex: 01)
+084E
+	805C5118 - (bit: 02 hex: 04)
+084F
+	805C4DB9 - (bit: 07 hex: 80) Door opens after defeating Orb Boss
+0850
+	805C4C4A - (bit: 01 hex: 02)
+0851
+	805C5118 - (bit: 03 hex: 08)
+0852
+	805C4C4A - (bit: 02 hex: 04)
+0853
+	805C5118 - (bit: 04 hex: 10)
+0854
+	805C4C4A - (bit: 03 hex: 08)
+0855
+	805C5118 - (bit: 05 hex: 20)
+0856
+	805C5119 - (bit: 00 hex: 01)
+0857
+	805C4C4A - (bit: 06 hex: 40)
+0858
+	805C5119 - (bit: 01 hex: 02) Trigger: '03F3 Moonseed Vine Grow'
+0859
+	805C4C4A - (bit: 07 hex: 80) Triggered: '03F3 Moonseed Vine Grow'
+085A
+	805C5119 - (bit: 02 hex: 04) Trigger: '03F4 Moonseed Vine Grow'
+085B
+	805C4C4B - (bit: 00 hex: 01) Triggered: '03F4 Moonseed Vine Grow'
+085C
+	805C5110 - (bit: 00 hex: 01)
+085D
+	805C5129 - (bit: 07 hex: 80)
+085E
+	805C4D73 - (bit: 07 hex: 80)
+085F
+	805C4D73 - (bit: 06 hex: 40)
+0860
+	805C4C4A - (bit: 04 hex: 10)
+0861
+	805C5118 - (bit: 06 hex: 40)
+0862
+	805C4C4A - (bit: 05 hex: 20)
+0863
+	805C5118 - (bit: 07 hex: 80)
+0864
+	805C5119 - (bit: 03 hex: 08)
+0865
+	805C4C4B - (bit: 01 hex: 02) ?
+0866
+	805C4C4B - (bit: 02 hex: 04) ?
+0867
+	805C4C4B - (bit: 03 hex: 08) ?
+0868
+	805C4C4B - (bit: 04 hex: 10) ?
+0869
+	805C4C4B - (bit: 05 hex: 20) ?
+086A
+	805C4C4B - (bit: 06 hex: 40) Moon Seeds Bit 1
+	805C4C4B - (bit: 07 hex: 80) Moon Seeds Bit 2
+	805C4C4C - (bit: 00 hex: 01) Moon Seeds Bit 3
+086B
+	805C4DBA - (bit: 00 hex: 01) Diamond Bay Shrine door opens after being shut by boss spawning
+086C
+	805C4DBB - (bit: 05 hex: 20) Have Bay Diamond (item)
+086D
+	805C4DBB - (bit: 06 hex: 40) Have Egg 1 (item)
+086E
+	805C5110 - (bit: 00 hex: 01)
+086F
+	805C4DBA - (bit: 01 hex: 02) Orb destroys the wall leading out of shrine beach
+0870
+	805C4DBA - (bit: 02 hex: 04) Spawned 3 Orbs boss fight
+0871
+	805C4DBA - (bit: 03 hex: 08) Watched the Orb boss cutscene spawning (if set on prior to spawning boss, it just spawns without cutscene)
+0872
+	805C4DBA - (bit: 04 hex: 10) Watched post-shrine orb cutscene
+0873
+	805C4DBA - (bit: 05 hex: 20) Watched post-shrine orb cutscene (2nd flag??)
+0874
+	805C4D74 - (bit: 00 hex: 01) ?
+0875
+	805C5110 - (bit: 00 hex: 01)
+0876
+	805C5110 - (bit: 00 hex: 01)
+0877
+	805C4DA6 - (bit: 01 hex: 02) Trigger: '02CA Place spellstone'
+0878
+	805C4DA6 - (bit: 02 hex: 04) Trigger: '0408 W.I.P. spellstone placement'
+0879
+	805C4D47 - (bit: 07 hex: 80)
+087A
+	805C4D48 - (bit: 00 hex: 01)
+087B
+	805C4C48 - (bit: 03 hex: 08)
+	805C4C48 - (bit: 04 hex: 10)
+087C
+	805C5110 - (bit: 00 hex: 01)
+087D
+	805C4DBA - (bit: 06 hex: 40) Killed Orb #1
+087E
+	805C4DBA - (bit: 07 hex: 80) Killed Orb #2
+087F
+	805C4DBB - (bit: 00 hex: 01) Killed Orb #3
+0880
+	805C5150 - (bit: 07 hex: 80)
+0881
+	805C512D - (bit: 03 hex: 08)
+0882
+	805C5110 - (bit: 00 hex: 01)
+0883
+	805C4D40 - (bit: 06 hex: 40)
+0884
+	805C4D40 - (bit: 01 hex: 02) Play: 01FB Swapstone, back in Swapstone Hollow
+0885
+	805C4D40 - (bit: 02 hex: 04) Play: 01FD (Rocky: I think the Prince EarthWalker is ready for a new skill.)
+0886
+	805C4D40 - (bit: 04 hex: 10)
+0887
+	805C4D40 - (bit: 05 hex: 20)
+0888
+	805C4D48 - (bit: 01 hex: 02)
+0889
+	805C4D48 - (bit: 02 hex: 04)
+088A
+	805C4C49 - (bit: 01 hex: 02)
+088B
+	805C4C49 - (bit: 02 hex: 04)
+088C
+	805C4C48 - (bit: 05 hex: 20)
+	805C4C48 - (bit: 06 hex: 40)
+088D
+	805C4DBB - (bit: 01 hex: 02) ?
+088E
+	805C4C4C - (bit: 02 hex: 04)
+088F
+	805C4C4C - (bit: 03 hex: 08)
+0890
+	805C4C4C - (bit: 04 hex: 10)
+0891
+	805C4C4C - (bit: 05 hex: 20)
+0892
+	805C4C4C - (bit: 06 hex: 40)
+0893
+	805C4C4C - (bit: 07 hex: 80)
+0894
+	805C4C48 - (bit: 07 hex: 80)
+	805C4C49 - (bit: 00 hex: 01)
+0895
+	805C4C4D - (bit: 00 hex: 01)
+	805C4C4D - (bit: 01 hex: 02)
+	805C4C4D - (bit: 02 hex: 04)
+0896
+	805C4C4D - (bit: 03 hex: 08)
+	805C4C4D - (bit: 04 hex: 10)
+	805C4C4D - (bit: 05 hex: 20)
+0897
+	805C4C4D - (bit: 06 hex: 40)
+	805C4C4D - (bit: 07 hex: 80)
+	805C4C4E - (bit: 00 hex: 01) ?
+0898
+	805C5110 - (bit: 00 hex: 01)
+0899
+	805C4D9B - (bit: 00 hex: 01)
+089A
+	805C512D - (bit: 04 hex: 10)
+089B
+	805C4C4E - (bit: 01 hex: 02) ?
+089C
+	805C512D - (bit: 05 hex: 20)
+089D
+	805C4D6E - (bit: 04 hex: 10) Lit igloo puzzle fire at 7:30
+089E
+	805C4D6E - (bit: 05 hex: 20) Lit igloo puzzle fire at 4:30
+089F
+	805C4D6E - (bit: 06 hex: 40) Lit igloo puzzle fire at 12:00
+08A0
+	805C4D9B - (bit: 01 hex: 02)
+08A1
+	805C4D9B - (bit: 03 hex: 08)
+08A2
+	805C4D9B - (bit: 02 hex: 04)
+08A3
+	805C4D9B - (bit: 04 hex: 10)
+08A4
+	805C4D6E - (bit: 07 hex: 80) Lit all three igloo puzzle fires
+08A5
+	805C4D6F - (bit: 00 hex: 01) Igloo flame puzzle floor melted
+08A6
+	805C4DBB - (bit: 02 hex: 04) Watched first Pointback egg fetch cutscene
+08A7
+	805C4DA6 - (bit: 03 hex: 08)
+08A8
+	805C4D9B - (bit: 05 hex: 20)
+08A9
+	805C4D9B - (bit: 06 hex: 40)
+08AA
+	805C4C49 - (bit: 03 hex: 08)
+08AB
+	805C4C49 - (bit: 04 hex: 10)
+08AC
+	805C4C49 - (bit: 05 hex: 20)
+08AD
+	805C5110 - (bit: 00 hex: 01)
+08AE
+	805C512D - (bit: 06 hex: 40)
+08AF
+	805C4DBB - (bit: 03 hex: 08) Drains part of the river leading to the waterfall in Diamond Bay (turns on after watching welcome to Diamond Bay cutscene)
+08B0
+	805C4C5D - (bit: 02 hex: 04)
+08B1
+	805C4D48 - (bit: 03 hex: 08)
+08B2
+	805C4D5D - (bit: 02 hex: 04)
+08B3
+	805C4D5D - (bit: 03 hex: 08)
+08B4
+	805C4D5D - (bit: 04 hex: 10)
+08B5
+	805C5116 - (bit: 06 hex: 40)
+08B6
+	805C4DA6 - (bit: 04 hex: 10) Triggered: '02DB Activate Moving Platform Left' VFPT left statue has flames coming out
+08B7
+	805C4DA6 - (bit: 05 hex: 20) Triggered: '02DC Activate Moving Platform Right' VFPT right statue has flames coming out
+08B8
+	805C4D4C - (bit: 02 hex: 04) ?
+08B9
+	805C4D4C - (bit: 03 hex: 08) ?
+08BA
+	805C4D4C - (bit: 04 hex: 10) ?
+08BB
+	805C4E0A - (bit: 04 hex: 10)
+08BC
+	805C4DA6 - (bit: 06 hex: 40)
+08BD
+	805C4DA6 - (bit: 07 hex: 80)
+08BE
+	805C5110 - (bit: 00 hex: 01)
+08BF
+	805C4D5D - (bit: 05 hex: 20)
+08C0
+	805C4D5D - (bit: 06 hex: 40)
+08C1
+	805C5126 - (bit: 00 hex: 01)
+08C2
+	805C4C4C - (bit: 01 hex: 02)
+08C3
+	805C4C3E - (bit: 07 hex: 80) ?
+08C4
+	805C5122 - (bit: 06 hex: 40)
+08C5
+	805C5147 - (bit: 03 hex: 08)
+08C6
+	805C514E - (bit: 00 hex: 01)
+08C7
+	805C4DAC - (bit: 00 hex: 01) ?
+08C8
+	805C4D54 - (bit: 05 hex: 20)
+08C9
+	805C4D5D - (bit: 07 hex: 80)
+08CA
+	805C4D5E - (bit: 01 hex: 02)
+08CB
+	805C4D5E - (bit: 02 hex: 04)
+08CC
+	805C4D5E - (bit: 03 hex: 08)
+08CD
+	805C4D5E - (bit: 04 hex: 10)
+08CE
+	805C4D5E - (bit: 05 hex: 20)
+08CF
+	805C4D5E - (bit: 00 hex: 01)
+08D0
+	805C5110 - (bit: 00 hex: 01)
+08D1
+	805C4D5E - (bit: 06 hex: 40)
+08D2
+	805C4D3F - (bit: 07 hex: 80)
+08D3
+	805C4D5E - (bit: 07 hex: 80)
+08D4
+	805C4D39 - (bit: 05 hex: 20)
+08D5
+	805C511C - (bit: 03 hex: 08)
+08D6
+	805C511C - (bit: 04 hex: 10)
+08D7
+	805C511C - (bit: 05 hex: 20)
+08D8
+	805C511C - (bit: 06 hex: 40)
+08D9
+	805C511C - (bit: 07 hex: 80)
+08DA
+	805C511D - (bit: 00 hex: 01)
+08DB
+	805C511D - (bit: 01 hex: 02)
+08DC
+	805C511D - (bit: 02 hex: 04)
+08DD
+	805C511D - (bit: 03 hex: 08)
+08DE
+	805C5116 - (bit: 07 hex: 80)
+08DF
+	805C511D - (bit: 04 hex: 10)
+08E0
+	805C511D - (bit: 05 hex: 20)
+08E1
+	805C511D - (bit: 06 hex: 40)
+08E2
+	805C511D - (bit: 07 hex: 80)
+08E3
+	805C511E - (bit: 00 hex: 01)
+08E4
+	805C511E - (bit: 01 hex: 02)
+08E5
+	805C511E - (bit: 02 hex: 04)
+08E6
+	805C511E - (bit: 03 hex: 08)
+08E7
+	805C511E - (bit: 04 hex: 10)
+08E8
+	805C511E - (bit: 05 hex: 20)
+08E9
+	805C4D5F - (bit: 00 hex: 01) ?
+08EA
+	805C4D5F - (bit: 01 hex: 02) Construction Engineer's Key [Cloudrunner Fortress]
+08EB
+	805C4DBB - (bit: 04 hex: 10) Completed egg fetch 1 puzzle
+08EC
+	805C4DDE - (bit: 00 hex: 01) Krazoa Palace Setup bit 1
+	805C4DDE - (bit: 01 hex: 02) Krazoa Palace Setup bit 2
+	805C4DDE - (bit: 02 hex: 04) Krazoa Palace Setup bit 3
+	805C4DDE - (bit: 03 hex: 08) Krazoa Palace Setup bit 4
+08ED
+	805C4FB1 - (bit: 00 hex: 01)
+	805C4FB1 - (bit: 01 hex: 02)
+	805C4FB1 - (bit: 02 hex: 04)
+	805C4FB1 - (bit: 03 hex: 08)
+	805C4FB1 - (bit: 04 hex: 10)
+	805C4FB1 - (bit: 05 hex: 20)
+	805C4FB1 - (bit: 06 hex: 40)
+	805C4FB1 - (bit: 07 hex: 80)
+	805C4FB2 - (bit: 00 hex: 01)
+	805C4FB2 - (bit: 01 hex: 02)
+	805C4FB2 - (bit: 02 hex: 04)
+	805C4FB2 - (bit: 03 hex: 08)
+	805C4FB2 - (bit: 04 hex: 10)
+	805C4FB2 - (bit: 05 hex: 20)
+	805C4FB2 - (bit: 06 hex: 40)
+	805C4FB2 - (bit: 07 hex: 80)
+	805C4FB3 - (bit: 00 hex: 01)
+	805C4FB3 - (bit: 01 hex: 02)
+	805C4FB3 - (bit: 02 hex: 04)
+	805C4FB3 - (bit: 03 hex: 08)
+	805C4FB3 - (bit: 04 hex: 10)
+	805C4FB3 - (bit: 05 hex: 20)
+	805C4FB3 - (bit: 06 hex: 40)
+	805C4FB3 - (bit: 07 hex: 80)
+	805C4FB4 - (bit: 00 hex: 01)
+	805C4FB4 - (bit: 01 hex: 02)
+	805C4FB4 - (bit: 02 hex: 04)
+	805C4FB4 - (bit: 03 hex: 08)
+	805C4FB4 - (bit: 04 hex: 10)
+	805C4FB4 - (bit: 05 hex: 20)
+	805C4FB4 - (bit: 06 hex: 40)
+	805C4FB4 - (bit: 07 hex: 80)
+08EE
+	805C4DA9 - (bit: 07 hex: 80)
+08EF
+	805C5110 - (bit: 00 hex: 01)
+08F0
+	805C4DA7 - (bit: 00 hex: 01) Floor grid leading to VFPT basement disappears (visual only)
+08F1
+	805C513F - (bit: 05 hex: 20)
+08F2
+	805C5110 - (bit: 00 hex: 01)
+08F3
+	805C5110 - (bit: 00 hex: 01)
+08F4
+	805C4C5D - (bit: 03 hex: 08) Trigger: '00EF Scales Escapes with Kyte'
+08F5
+	805C4DA7 - (bit: 01 hex: 02) Hit the switch to turn off flamethrower in VFPT
+08F6
+	805C5128 - (bit: 07 hex: 80)
+08F7
+	805C4D61 - (bit: 02 hex: 04)
+08F8
+	805C5110 - (bit: 00 hex: 01)
+08F9
+	805C4D73 - (bit: 04 hex: 10)
+08FA
+	805C5110 - (bit: 00 hex: 01)
+08FB
+	805C5110 - (bit: 00 hex: 01)
+08FC
+	805C4D5F - (bit: 05 hex: 20) ?
+08FD
+	805C4D5F - (bit: 06 hex: 40) ?
+08FE
+	805C4D5F - (bit: 07 hex: 80) ?
+08FF
+	805C4D60 - (bit: 00 hex: 01)
+0900
+	805C4D53 - (bit: 00 hex: 01)
+	805C4D53 - (bit: 01 hex: 02)
+	805C4D53 - (bit: 02 hex: 04)
+0901
+	805C4D5F - (bit: 02 hex: 04) ?
+	805C4D5F - (bit: 03 hex: 08) ?
+	805C4D5F - (bit: 04 hex: 10) ?
+0902
+	805C4D60 - (bit: 01 hex: 02)
+0903
+	805C4C5D - (bit: 04 hex: 10)
+0904
+	805C4C5D - (bit: 05 hex: 20)
+0905
+	805C4C5D - (bit: 06 hex: 40) Trigger: '0446 Randorn Door open'
+0906
+	805C4D98 - (bit: 00 hex: 01)
+0907
+	805C4D98 - (bit: 01 hex: 02)
+0908
+	805C5110 - (bit: 00 hex: 01)
+0909
+	805C4D60 - (bit: 02 hex: 04)
+090A
+	805C5110 - (bit: 00 hex: 01)
+090B
+	805C4C45 - (bit: 01 hex: 02)
+090C
+	805C4C45 - (bit: 02 hex: 04)
+090D
+	805C4C38 - (bit: 00 hex: 01) First time picking up Magic Gem
+090E
+	805C4C38 - (bit: 01 hex: 02) First time picking up Energy Eggs
+090F
+	805C4C38 - (bit: 02 hex: 04) First time picking up Dino Fruits
+0910
+	805C4C38 - (bit: 03 hex: 08) First time picking up Scarab
+0911
+	805C4C38 - (bit: 04 hex: 10) First time picking up Blue Mushroom
+0912
+	805C4C38 - (bit: 05 hex: 20) "When the Z LOCK Icon appears"
+0913
+	805C4C38 - (bit: 06 hex: 40)
+0914
+	805C4C38 - (bit: 07 hex: 80) "This is a MAGIC CRYSTAL PLANT!!"
+0915
+	805C4C39 - (bit: 00 hex: 01) (Krystal:) Loaded the dying Triceratops' map at Warlock Mountain
+0916
+	805C4C3C - (bit: 02 hex: 04) Used Find on hole leading to Magic Cave
+0917
+	805C5128 - (bit: 04 hex: 10)
+0918
+	805C5128 - (bit: 05 hex: 20)
+0919
+	805C4D66 - (bit: 03 hex: 08) Scarab pickup related
+091A
+	805C4D66 - (bit: 04 hex: 10) ?
+091B
+	805C4D66 - (bit: 05 hex: 20) ?
+091C
+	805C512B - (bit: 00 hex: 01)
+091D
+	805C5110 - (bit: 00 hex: 01)
+091E
+	805C4D38 - (bit: 00 hex: 01)
+091F
+	805C5117 - (bit: 00 hex: 01)

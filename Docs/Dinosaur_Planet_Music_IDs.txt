@@ -1,0 +1,157 @@
+Dinosaur Planet Music IDs
+
+0x001 Swapstone Circle/Hollow
+0x002 Rain
+0x003 Cloudrunner Fortress Jail
+0x004 Swapstone Circle/Hollow (again 2)
+0x006 Thunderstorm (Cloudrunner Fortress Entrance?)
+0x007 Swapstone Circle/Hollow (again 3)
+0x008 Desert Force Point Temple (Sitar, all instruments variation?)
+0x009 Swapstone Circle/Hollow (again 4)
+0x00A Cutscene
+0x00B Encounter?
+0x00C Swapstone Circle/Hollow (again 5)
+0x00D Discovery Falls
+0x00E Discovery Falls cave to Moon Mountain Pass
+0x010 Cloudrunner Fortress Interior
+0x012 Swapstone Circle/Hollow (again 6)
+0x013 Rain and Galleon creaking
+0x014 Howling Wind
+0x015 Rain and Birds
+0x016 Rain and Birds night
+0x01A Ice Mountain Race
+0x01B Discovery Falls (again)
+0x01D Thunderstorm (tends to crash game)
+0x01F Sharpclaw Darkwave (quiet)
+0x020 Rolling Demo Music
+0x021 Rustling Leaves and Birds
+0x022 Cloudrunner Fortress Jail (again)
+0x026 Teleporter
+0x028 Teleporter
+0x02C Evil music, boss?
+0x02D Opening Cinematic Music
+0x02E Evil music, boss? (again)
+0x030 Opening Credits Galleon Music
+0x031 Evil music, boss? (more intense)
+0x032 Opening Credits Galleon Music (again)
+0x035 Rustling Leaves and Wind
+0x037 Rustling leaves and Water
+0x038 Cave with water droplets?
+0x03A Evil music, boss? (again)
+0x03B Sharpclaw Darkwave?
+0x03C Cutscene
+0x041 Snowhorn Wastes (difficult to trigger?)
+0x042 Wind, rustling leaves and creaking wood
+0x043 Guardclaw Theme
+0x047 Opening Credits Galleon Music (again)
+0x048 Wind, Warlock Mountain Exterior?
+0x049 Volcano Force Point Temple
+0x04D Snowhorn Wastes
+0x051 Rustling Leaves, Wind
+0x053 Jingle
+0x054 Cutscene
+0x055 Sharpclaw Darkwave? (more intense)
+0x056 Cutscene before Ice Mountain Race
+0x058 Krazoa Test
+0x05A Krazoa Ambience?
+0x05D Lava Ambience
+0x05F Dark Ice Mines falling platforms lava room
+0x060 Dark Ice Mines Surface
+0x061 Dark Ice Mines Caves
+0x065 Dark Ice Mines Surface (quiet)
+0x069 Dark Ice Mines Conveyor Belt
+0x06D Jingle        
+0x06E Jingle
+0x06F Jingle
+0x070 Dark Ice Mines ice cave
+0x073 Cape Claw
+0x074 Encounter? (again)
+0x076 Galdon Boss variations
+0x077 Galdon Boss variations
+0x078 Galdon Boss variations
+0x07E Walled City?
+0x07F Walled City?
+0x080 Walled City?
+0x081 Walled City? 
+0x085 Jingle
+0x084 Creepy dark cave in DIM
+0x08D Cloudrunner Fortress entrance/race variations
+0x08E Cloudrunner Fortress entrance/race variations
+0x08F Cloudrunner Fortress entrance/race variations
+0x093 Walled City (again)
+0x097 Snowhorn Wastes (again)
+0x099 Horn of Truth
+0x09A Summon Snowhorn with Horn of Truth
+0x09F Galdon Boss (again)
+0x0A0 Diamond Bay all Instruments
+0x0A1 Diamond Bay Rapids
+0x0A2 Diamond Bay
+0x0A9 Rain
+0x0A3 Waves (music track)
+0x0B1 Warlock Mountain
+0x0B5 Krystal being captured by Lightfoots cutscene
+0x0B6 Ice Cave (again)
+0x0B7 Cloudrunner Fortress Entrance (again)
+0x0BA Ambient bird sounds
+0x0BB Ambient bird sounds
+0x0BC Ambient bird sounds
+0x0BD Cape Claw (again)
+0x0BE Cloudrunner Fortress Interior
+0x0BF Unknown harp music
+0x0C0 Diamond Bay (again)
+0x0C1 Swapstone Music
+0x0C3 Volcano Force Point Temple
+0x0CA Volcano Force Point Temple (no flute or harp)
+0x0CB Swapstone Music (again)
+0x0CF Lava Ambience
+0x0D2 Teleporter
+0x0D3 Ice Mountain Tricky Ship Cutscene
+0x0D5 unknown ominous drums and choir music
+0x0D8 unknown suspenseful sharp brass and drums music (boss klanadack?)
+0x0D9 variation of above
+0x0DD Sabre meets Tricky
+0x0DE Waves and Wind
+0x0E0 River and Birds (Swapstone Hollow?)
+0x0E3 Moon Mountain Pass ambience
+0x0E7 Nature Sounds
+0x0ED Desert Force Point Temple (no sitar)
+0x0EE Golden Plains
+0x0EF Unknown harp music (again)
+0x0F1 Cutscene?
+0x0F2 Magic cutscene
+0x0F3 Swapstone Shop
+0x0F4 Swapstone Circle/Hollow (again 7)
+0x0F5 Swapstone Shop Scarab Game
+0x0F6 Dragon Rock
+0x0F7 Swapstone Shop Drums Only
+0x0F8 Krystal fighting Lightfoots at the Totem Pole
+0x0F9 Ending Theme?
+0x0FE Final Boss theme?
+0x100 Final Boss theme variation?
+0x102 Lava Ambience(again) 
+0x104 Walled City (again 2)
+0x105 Walled City (again 3)
+0x106 Encounter?
+0x10B Scary cutscene
+0x10C Techy music
+0x10D Krystal tied to the totem pole cutscene
+0x10F Waves and bats (inside cave in Cape Claw?)
+0x110 Golden Plains (again)
+0x114 Teleporter appears in Warlock Mountain?
+0x11A Waves
+0x11B Golden Plains (again 2)
+0x11D Cutscene?
+0x11F Wind
+0x120 Wind
+0x121 Magic/tech humming
+0x122 Rain and Galleon creaking (again)
+0x124 Rain and droplets fading out
+0x125 Rain and droplets fading out
+0x12B Magic ascension?
+0x12C Diamond Bay (again 2)
+0x12D Diamond Bay (again 3)
+0x12F Losing Ice Mountain Race
+0x130 Evil Cutscene?
+0x132 Guardclaw Theme
+
+

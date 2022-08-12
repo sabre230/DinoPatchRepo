@@ -1,0 +1,117 @@
+Here's a bunch of optional patches if anyone wants to try. 
+Starting with the Mammoth and wheel in the Test of Knowledge. 
+It's seq ID is normally disabled so won't move. 
+
+To enable: 
+0216F858 0000
+
+
+
+
+
+Enable the music for CRF Scales cutscene:
+0211F0DE 0503
+
+
+
+
+Swapstone Hollow Character Lighting enabled - You need to go through the Triggerplane 
+in the tunnel leading from SW to SH to trigger
+
+02102532 050D
+02102536 050D
+0210253A 050D
+
+
+
+
+
+The Mammoth wheel in DIM2 has a disabled sound effect 
+(video is before and after)
+
+Enable wheel sound
+02157DB6 0504
+
+
+
+
+
+Add Big Tent to DIM: 
+Swapping out a SHbluemushroom - 
+DIM big tent
+
+0214444E 0334
+02144456 C337
+02144458 4EC0
+0214445E 44B7
+02144460 0AE8
+
+The tent has no back opening so can't get to the small cave, but pretty cool to see
+
+
+
+
+
+
+DarkIce Mines - Tent Area: 
+
+Re-enabled weather effects, character lighting and music. 
+Walk over the Triggerpoint near the middle of this area to set
+
+0214374A 0A0A
+0214374E 0A0A
+02143752 0A0A
+02143756 0A0A
+0214375E 0A0D
+02143762 0A0D
+02143766 0A03
+
+
+
+
+
+
+DIM Weather effects added to Triggerplane between lava cave exit and DIM
+
+Keep in mind this is just a basic change to one Triggerplane, 
+so if you enter a different area/cave etc it will disable. 
+
+0214365E 43F7
+02143672 050A
+02143674 00BD
+02143678 00BE
+0214367C 00BF
+0214367A 050A
+0214368A 050A
+0214368C 00E0
+
+
+
+Lastly for now, if preferred the weather effects but without the green tint.
+
+Take off the last 2 codes above:
+0214368A 050A
+0214368C 00E0
+
+
+
+
+
+
+Another optional one - Switch out all DIM 1 Lightholders with Wall Torches!
+
+May or may not affect performance
+
+02145102 0071
+02145126 0071
+0214514A 0071
+0214516E 0071
+02145192 0071
+02145CEA 0071
+02145D0E 0071
+02145D32 0071
+
+
+
+
+

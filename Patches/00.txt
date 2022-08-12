@@ -1,0 +1,5 @@
+name the rom dinomod24.z64
+
+To fix Checksum:
+
+rn64crc -update

@@ -1,0 +1,92 @@
+The sandworm boss crashes when you save and reload the game in that location. The cause? Kyte's spawn point doesn't fire off the moment the boss loads. Its load distance is too small. This will fix that.
+
+02162E50 64
+
+
+
+
+Rolling Demo - Krystal Logfix
+
+Changing some MAPS objects and their OBJSEQ counterparts, this will get Krystal back on the log in the game's opening! Not perfect, but definitely better than before!
+
+020F652E 03EB
+020F6552 0022
+037EA368 03EB
+037EA378 0022
+
+
+
+
+
+
+
+Desert Force Point 3 Fixes!
+
+All these will allow you to get through the last DFPT visit and connect to back to Golden Plains. As doing things a bit out of order, keep in mind you'll only be able to visit the 3rd state while holding the KP Spellstone. This will be part of a CC3/KP fix when I get there. For testing you can give yourself the stone with - 805C4DAC 0010
+
+There's still some tweaks needed like:
+
+Look into the issue with the "all instruments" DFP music trigger
+
+Set WGmutant to talk only when 3rd spellstone is placed
+
+Fix and add subtitles to spell place scene
+
+Set state for GP3 - including the bike chase sequence of events
+
+Likely some other things
+
+
+
+
+
+
+
+
+
+DFP3 subtitles patched back in - Timing isn't perfect but does the job!
+
+01F6497C 0D01
+01F6497E A203 - This and above add text trigger for subs to scene
+
+Subs timing - feel free to edit to match up better, adding colour to text etc
+
+From 01FF82AA , paste - 07AD0E990696
+From 01FF82B2 , paste - 07AD069607AD
+From 01FF82BC , paste - 07AD07AD07AD07AD07AD07AD
+
+
+
+
+
+
+
+
+
+Quick patch to get Kyte from SC/LFV to Blackwater Canyon!
+
+She normally gets stuck in the totem puzzle room and will eventully crash the game when too far. 
+This will unload her and will spawn her back when in the central BWC section. 
+Ideally, there may be a way to connect the 2 curves from SC-BWC (Her first BWC curves under group 8A I think!) 
+
+Can delete this post once a better patch is made but should do for now at least!
+
+02133486 0526
+02133488 0100
+0217E6CA 000E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
