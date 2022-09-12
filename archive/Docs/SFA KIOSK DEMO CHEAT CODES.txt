@@ -1,0 +1,70 @@
+Seeing how far we can get in the Kiosk with some fixes along the way
+
+Disable 45 minute time limit - 
+04022630 60000000
+
+Infinite Magic - 
+0038CEC1 000000FF
+
+Infinite HP (Fox)
+0038CEBC 00000060
+0038CEBD 00000010
+
+Infinite Scarabs
+0038CEC4 000000FF
+
+38:30 - Warpstone wont' take you to Ice Mountain, use this code to fix (Thanks to Rena)
+0420D208 60000000
+0420D20C 38600002
+
+43:55 - Game normally boots you out after cutscene, use this code to bypass: (Turn off after the Hot Spring section)
+Bypass Forced Resets
+0411A50C 4E800020
+041a46d8 38000000
+0420d184 38600002
+0420d18c 38600002
+0420d20c 38600002
+0422ee24 3800003A
+0422ef7c 42800228
+0422fe1c 4280072C
+04293fd8 38000001
+042a8c1c 38000001
+042ab26c 38000001
+042acbb4 38000001
+042ac8e4 38000001
+042acce8 38000001
+042ace28 38000001
+042ae780 428001AC
+042b080c 38000000
+
+
+
+
+
+
+
+Moon Jump
+CA3288F2 00000200
+42325464 00143FFF
+42325464 00153FFF
+4232F690 00143FFF
+4232F690 00153FFF
+
+28:25 - Warp to DIM via Warpstone - 
+After you have finished the Arwing to DIM section you will be warped back to TTH. Use the Warp to Ice Mountain code from part 1 but change the warp destination to
+0420D208 60000000
+0420D20C 38600077
+
+38:50 - If Tricky refuses to use the Flame Command here just exit the room and come back
+
+
+
+
+
+
+
+
+
+
+
+

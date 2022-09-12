@@ -1,0 +1,753 @@
+##################################################
+General
+##################################################
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "805C3971 007C+805C3965 007C"
+cheat0_enable = "false"
+
+cheat1_desc = "Infinite Magic"
+cheat1_code = "815C3968 0019+815C3974 0019"
+cheat1_enable = "false"
+
+cheat2_desc = "All Spells"
+cheat2_code = "815C4DBE D71F"
+cheat2_enable = "false"
+
+cheat3_desc = "Infinite Tricky Energy"
+cheat3_code = "805C397C 0004"
+cheat3_enable = "false"
+
+cheat4_desc = "Infinite Max Scarabs"
+cheat4_code = "815C396C 00FF+815C3978 00FF"
+cheat4_enable = "false"
+
+##################################################
+Codes that fix problems
+##################################################
+
+cheat5_desc = "Pickup Fix"
+cheat5_code = "814F92E2 05B1"
+cheat5_enable = "false"
+
+cheat6_desc = "Learn Distract for Tricky"
+cheat6_code = "D05C4C80 0001+805C4C80 0009+D05C4C80 0003+805C4C80 000B+D05C4C80 0011+805C4C80 0019+D05C4C80 0013+805C4C80 001B"
+cheat6_enable = "false"
+
+cheat7_desc = "Display Scarab Counter"
+cheat7_code = "805C4D66 0008"
+cheat7_enable = "false"
+
+cheat8_desc = "Prevent Krystal from Being Gassed More Than Once"
+cheat8_code = "D05C4C4F 0076+D05C4C50 0007+805C4C50 0006+D05C4C4F 0076+D05C4C50 0006+805C4C4F 007E+D05C4C4F 0076+D05C4C50 00FE+805C4C4F 007F"
+cheat8_enable = "false"
+
+cheat9_desc = "Galadon Boss Fix"
+cheat9_code = "815C2E50 3442+805C2E53 0001"
+cheat9_enable = "false"
+
+cheat10_desc = "Diamond Bay River Crash Fix"
+cheat10_code = "805C4F51 0002"
+cheat10_enable = "false"
+
+cheat11_desc = "Trigger Blue Monster in Golden Plains"
+cheat11_code = "815C5129 0040 "
+cheat11_enable = "false"
+
+cheat12_desc = "Cell Keys 'Used' Fix (Automatic) [Dark Ice Mines]"
+cheat12_code = "D05C4D75 0056+D05C4D76 0001+805C4D74 00E2+D05C4D75 00FE+D05C4D76 0007+805C4D74 00FA+D05C4D78 00FF+805C4D77 0071+D05C4D7A 009F+805C4D7A 00BF"
+cheat12_enable = "false"
+
+cheat13_desc = "Galadon Kill Gives Spellstone (Automatic) [Dark Ice Mines]"
+cheat13_code = "D05C53A7 001C+D05C53AB 0006+D05C3C5B 0000+805C4D6C 00EF"
+cheat13_enable = "false"
+
+cheat14_desc = "Shield Saving Fix"
+cheat14_code = "D05C4DBE 0002+D05C4C4E 00E4+805C4DBE 0012"
+cheat14_enable = "false"
+
+##################################################
+Miscellaneous Codes
+##################################################
+
+cheat15_desc = "Unused Options Menu"
+cheat15_code = "8008C857 0041"
+cheat15_enable = "false"
+
+cheat16_desc = "Return Out of Options Menu"
+cheat16_code = "8008C853 003C+8008C857 003F"
+cheat16_enable = "false"
+
+cheat17_desc = "Disable Subtitles"
+cheat17_code = "8059DB57 0000"
+cheat17_enable = "false"
+
+cheat18_desc = "Disable Map View"
+cheat18_code = "805CD9A8 0000"
+cheat18_enable = "false"
+
+cheat19_desc = "One Hit Kill Enemies"
+cheat19_code = "815CC20C 240D+815CC20E 0000"
+cheat19_enable = "false"
+
+cheat20_desc = "Widescreen (16:9)"
+cheat20_code = "810BCE30 3FE3+810BCE32 D70A"
+cheat20_enable = "false"
+
+cheat21_desc = "Ultra Widescreen (21:9)"
+cheat21_code = "810BCE30 4017+810BCE32 AE14"
+cheat21_enable = "false"
+
+cheat22_desc = "No AA/VI filters"
+cheat22_code = "81097E6C 0000+81097E6E 3242+81097E9C 0000+81097E9E 3242"
+cheat22_enable = "false"
+
+cheat23_desc = "Disable Environment Updates"
+cheat23_code = "81013E14 3C04+81013E16 0001"
+cheat23_enable = "false"
+
+cheat24_desc = "Disable Objects Streaming"
+cheat24_code = "800AE29C 0001"
+cheat24_enable = "false"
+
+cheat25_desc = "Disable All Objects"
+cheat25_code = "810B1924 0000+810B1926 0000"
+cheat25_enable = "false"
+
+cheat26_desc = "D-Pad Up to cause a Respawn"
+cheat26_code = "D10A7DC0 0800+800B4A58 0001"
+cheat26_enable = "false"
+
+cheat27_desc = "Teleport Tricky to Player (Press D-Pad Down)"
+cheat27_code = "814FD888 0802+814FD88A 6C37+8109B0DC 3C02+8109B0DE 800A+8109B0E0 8442+8109B0E2 7DC0+8109B0E4 2403+8109B0E6 0400+8109B0E8 1443+8109B0EA 0007+8109B0EC 8E5C+8109B0EE 00E4+8109B0F0 8F82+8109B0F2 000C+8109B0F4 8F83+8109B0F6 0010+8109B0F8 8F9C+8109B0FA 0014+8109B0FC AE42+8109B0FE 0000+8109B100 AE43+8109B102 0004+8109B104 AE5C+8109B106 0008+8109B108 8E45+8109B10A 0000+8109B10C 0813+8109B10E F624+8109B110 8E46+8109B112 0008"
+cheat27_enable = "false"
+
+cheat28_desc = "Levitate Noclip"
+cheat28_code = "814EA390 0802+814EA392 6C2D+814EA394 8FBC+814EA396 0030+8109B0B4 8FBF+8109B0B6 0034+8109B0B8 3C04+8109B0BA 800D+8109B0BC 8084+8109B0BE D3F5+8109B0C0 2405+8109B0C2 0020+8109B0C4 50A4+8109B0C6 0003+8109B0C8 0000+8109B0CA 0000+8109B0CC 0813+8109B0CE A8E6+8109B0D0 0000+8109B0D2 0000+8109B0D4 3C05+8109B0D6 800A+8109B0D8 80A4+8109B0DA B160+8109B0DC 1080+8109B0DE 0003+8109B0E0 0000+8109B0E2 0000+8109B0E4 2404+8109B0E6 00A4+8109B0E8 A204+8109B0EA 00FB+8109B0EC 80A4+8109B0EE B161+8109B0F0 5480+8109B0F2 0003+8109B0F4 A0A0+8109B0F6 B161+8109B0F8 1000+8109B0FA 0005+8109B0FC 0000+8109B0FE 0000+8109B100 2404+8109B102 00AF+8109B104 A204+8109B106 00FB+8109B108 1000+8109B10A 0013+8109B10C 0000+8109B10E 0000+8109B110 80A4+8109B112 B160+8109B114 1080+8109B116 0010+8109B118 0000+8109B11A 0000+8109B11C 3C06+8109B11E 4000+8109B120 AE06+8109B122 0028+8109B124 8606+8109B126 0360+8109B128 2404+8109B12A 001C+8109B12C 1486+8109B12E 0002+8109B130 2404+8109B132 001D+8109B134 A604+8109B136 0360+8109B138 2404+8109B13A 0014+8109B13C 1486+8109B13E 0002+8109B140 2404+8109B142 0001+8109B144 A604+8109B146 0360+8109B148 2404+8109B14A 000D+8109B14C 1486+8109B14E 0002+8109B150 2404+8109B152 0001+8109B154 A604+8109B156 0360+8109B158 0813+8109B15A A8E6+8109B15C 0000+8109B15E 0000+D109B160 7276+8109B160 0000+D00CD3F4 0008+8109B160 0100+D00CD3F4 0004+8109B160 0001"
+cheat28_enable = "false"
+
+cheat29_desc = "Force Best Player Model"
+cheat29_code = "81035B9C 081F+81035B9E C000+81035BA0 0000+81035BA2 0000+817F0000 3C02+817F0002 805C+817F0004 8C42+817F0006 1568+817F0008 1040+817F000A 0003+817F000C 0000+817F000E 0000+817F0010 2409+817F0012 0001+817F0014 A049+817F0016 00AD+817F0018 81C9+817F001A 00AD+817F001C 0800+817F001E D6E9+817F0020 0019+817F0022 10C0"
+cheat29_enable = "false"
+
+cheat30_desc = "Force Disguise Sabre"
+cheat30_code = "814EA030 0802+814EA032 6C71+814EA034 0000+814EA036 0000+8109B1C4 3C04+8109B1C6 8048+8109B1C8 8C84+8109B1CA 9A8C+8109B1CC 8E19+8109B1CE 0050+8109B1D0 1499+8109B1D2 0003+8109B1D4 85E4+8109B1D6 0182+8109B1D8 2404+8109B1DA 0002+8109B1DC A204+8109B1DE 00AD+8109B1E0 8F99+8109B1E2 0020+8109B1E4 8E04+8109B1E6 0030+8109B1E8 0813+8109B1EA A80E+8109B1EC 0000+8109B1EE 0000"
+cheat30_enable = "false"
+
+cheat31_desc = "Fox Model Swap Sabre Mod"
+cheat31_code = "81021780 0C02+81021782 6CC1+81021784 0000+81021786 0000+8109B304 240E+8109B306 0007+8109B308 108E+8109B30A 0003+8109B30C 240E+8109B30E 0008+8109B310 148E+8109B312 0002+8109B314 0000+8109B316 0000+8109B318 2404+8109B31A 0009+8109B31C 0800+8109B31E 5F57+8109B320 0004+8109B322 2023"
+cheat31_enable = "false"
+
+cheat32_desc = "Play as Sabre (File 1, reload area)"
+cheat32_code = "805C3C5B 0000+805C3C67 0000"
+cheat32_enable = "false"
+
+cheat33_desc = "Play as Krystal (File 1, reload area)"
+cheat33_code = "805C3C5B 0001+805C3C67 0001"
+cheat33_enable = "false"
+
+cheat34_desc = "Projectile Shot Is Riding Cloudrunner"
+cheat34_code = "81253086 03CF"
+cheat34_enable = "false"
+
+cheat35_desc = "Crates Are Drakor [On Warlock Mountain at least]"
+cheat35_code = "8125372E 005B"
+cheat35_enable = "false"
+
+cheat36_desc = "Redeye Replaces Crates"
+cheat36_code = "8125372E 00F9"
+cheat36_enable = "false"
+
+cheat37_desc = "Bats Are Fox Clones"
+cheat37_code = "812535EC 0019"
+cheat37_enable = "false"
+
+cheat38_desc = "Crates Contain Player Clones"
+cheat38_code = "8104A948 0000+8104A94A 0000+81252E06 0002"
+cheat38_enable = "false"
+
+cheat39_desc = "Some Crates Are Kyte"
+cheat39_code = "8125372E 0005"
+cheat39_enable = "false"
+
+cheat40_desc = "Tricky Looks Like Krystal"
+cheat40_code = "81017EC8 081F+81017ECA C540+81017ECC 0000+81017ECE 0000+817F1500 240D+817F1502 000C+817F1504 51ED+817F1506 0001+817F1508 240F+817F150A 0001+817F150C 3C0D+817F150E 800B+817F1510 8DAD+817F1512 17A0+817F1514 0800+817F1516 5FB4+817F1518 0000+817F151A 0000"
+cheat40_enable = "false"
+
+cheat41_desc = "Shoot Projectile To Reach Demo"
+cheat41_code = "81253086 0426"
+cheat41_enable = "false"
+
+cheat42_desc = "Replace Demo Actor With Dummy Object"
+cheat42_code = "812537CE 0000"
+cheat42_enable = "false"
+
+cheat43_desc = "Jellyfish Is Drakor"
+cheat43_code = "8125392A 005B"
+cheat43_enable = "false"
+
+cheat44_desc = "Tricky Burps Instead Of Barking"
+cheat44_code = "81577B14 8056+81577B16 5568"
+cheat44_enable = "false"
+
+cheat45_desc = "Totem Chanting As All Instruments"
+cheat45_code = "81073DE0 0802+81073DE2 6C59+8109B164 3C05+8109B166 8054+8109B168 24A5+8109B16A 8250+8109B16C 0801+8109B16E CF7A+8109B170 0000+8109B172 0000"
+cheat45_enable = "false"
+
+##################################################
+Inventory Items
+##################################################
+
+==================================================
+Sabre/Fox
+==================================================
+
+cheat46_desc = "Gate Key [Northern Waste]"
+cheat46_code = "805C4D65 0040"
+cheat46_enable = "false"
+
+cheat47_desc = "Max Alpine Roots (3)"
+cheat47_code = "805C4D6A 0003"
+cheat47_enable = "false"
+
+cheat48_desc = "Spellstone [Dark Ice Mines]"
+cheat48_code = "805C4D6C 0008"
+cheat48_enable = "false"
+
+cheat49_desc = "Activated Spellstone [Dark Ice Mines]"
+cheat49_code = "805C4D6C 0010"
+cheat49_enable = "false"
+
+cheat50_desc = "Mine Key [Dark Ice Mines]"
+cheat50_code = "805C4D67 0001"
+cheat50_enable = "false"
+
+cheat51_desc = "All Gears [Dark Ice Mines]"
+cheat51_code = "805C4D68 0055"
+cheat51_enable = "false"
+
+cheat52_desc = "All Gears Used [Dark Ice Mines]"
+cheat52_code = "805C4D68 00FF"
+cheat52_enable = "false"
+
+cheat53_desc = "Gear #1 [Dark Ice Mines]"
+cheat53_code = "805C4D68 0010"
+cheat53_enable = "false"
+
+cheat54_desc = "Gear #2 [Dark Ice Mines]"
+cheat54_code = "805C4D68 0040"
+cheat54_enable = "false"
+
+cheat55_desc = "Gear #3 [Dark Ice Mines]"
+cheat55_code = "805C4D68 0001"
+cheat55_enable = "false"
+
+cheat56_desc = "Gear #4 [Dark Ice Mines]"
+cheat56_code = "805C4D68 0004"
+cheat56_enable = "false"
+
+cheat57_desc = "3 Alpine Roots (SnowHord Food) [Dark Ice Mines]"
+cheat57_code = "805C4D6A 0003"
+cheat57_enable = "false"
+
+cheat58_desc = "Horn [Dark Ice Mines]"
+cheat58_code = "805C4D6C 0020"
+cheat58_enable = "false"
+
+cheat59_desc = "Silver Tooth [Walled City]"
+cheat59_code = "805C4D80 0004"
+cheat59_enable = "false"
+
+cheat60_desc = "Gold Tooth [Walled City]"
+cheat60_code = "805C4D80 0008"
+cheat60_enable = "false"
+
+cheat61_desc = "Sun Stone [Walled City]"
+cheat61_code = "805C4D80 0040"
+cheat61_enable = "false"
+
+cheat62_desc = "Moon Stone [Walled City]"
+cheat62_code = "805C4D80 0080"
+cheat62_enable = "false"
+
+cheat63_desc = "Sun & Moon Stone [Walled City]"
+cheat63_code = "805C4D80 00C0"
+cheat63_enable = "false"
+
+cheat64_desc = "Forcefield spell? (looks like a Key)"
+cheat64_code = "805C4D9C 0002"
+cheat64_enable = "false"
+
+cheat65_desc = "2 Shiny Crystals? (Glitched item)"
+cheat65_code = "805C4DAC 00FF"
+cheat65_enable = "false"
+
+cheat66_desc = "Bay Diamond [Diamond Bay]"
+cheat66_code = "805C4DBB 0020"
+cheat66_enable = "false"
+
+cheat67_desc = "Pointback Egg [Diamond Bay]"
+cheat67_code = "805C4DBB 0040"
+cheat67_enable = "false"
+
+cheat68_desc = "Unlimited Mushrooms (All types)"
+cheat68_code = "805C4D39 00F0+805C4D3A 00FF+805C4D3B 000F"
+cheat68_enable = "false"
+
+cheat69_desc = "No Mushroom (All types)"
+cheat69_code = "805C4D39 0000+805C4D3A 0000+805C4D3B 0000"
+cheat69_enable = "false"
+
+==================================================
+Krystal
+==================================================
+
+cheat70_desc = "Shiny Nugget #1"
+cheat70_code = "805C4C3F 0001"
+cheat70_enable = "false"
+
+cheat71_desc = "Shiny Nugget #2"
+cheat71_code = "805C4C3F 0002"
+cheat71_enable = "false"
+
+cheat72_desc = "Moon Mountain Pass Key ('Prison Key') [Cloudrunner Fortress]"
+cheat72_code = "805C4C40 0040"
+cheat72_enable = "false"
+
+cheat73_desc = "Shiny Nugget #3 [Cape Claw]"
+cheat73_code = "805C4C4F 0002"
+cheat73_enable = "false"
+
+cheat74_desc = "10 Blue Grubs (Cloudrunner Food)"
+cheat74_code = "805C4C51 00A0"
+cheat74_enable = "false"
+
+cheat75_desc = "Cell Door Key [Cape Claw]"
+cheat75_code = "805C4C51 0001"
+cheat75_enable = "false"
+
+cheat76_desc = "3 Fire Crystals [Cape Claw]"
+cheat76_code = "805C4C52 0018"
+cheat76_enable = "false"
+
+cheat77_desc = "3 Krazoa Tablets [Cape Claw]"
+cheat77_code = "805C4C53 00E0"
+cheat77_enable = "false"
+
+cheat78_desc = "Snowbike Key"
+cheat78_code = "805C4C58 0004"
+cheat78_enable = "false"
+
+cheat79_desc = "Warp Activator [Warlock Mountain]"
+cheat79_code = "805C4C5B 0020"
+cheat79_enable = "false"
+
+cheat80_desc = "Spellstone [Cloudrunner Fortress]"
+cheat80_code = "805C4D41 0002"
+cheat80_enable = "false"
+
+cheat81_desc = "Spellstone [2?]"
+cheat81_code = "805C4DAC 0010"
+cheat81_enable = "false"
+
+cheat82_desc = "Spellstone [3?]"
+cheat82_code = "805C4DAC 0002"
+cheat82_enable = "false"
+
+cheat83_desc = "Prison Key [Cloudrunner Fortress]"
+cheat83_code = "805C4D49 0020"
+cheat83_enable = "false"
+
+cheat84_desc = "Red Power Crystal [Cloudrunner Fortress]"
+cheat84_code = "805C4D4B 0080"
+cheat84_enable = "false"
+
+cheat85_desc = "Green Power Crystal [Cloudrunner Fortress]"
+cheat85_code = "805C4D4C 0001"
+cheat85_enable = "false"
+
+cheat86_desc = "Blue Power Crystal [Cloudrunner Fortress]"
+cheat86_code = "805C4D4C 0020"
+cheat86_enable = "false"
+
+cheat87_desc = "Power Room Key [Cloudrunner Fortress]"
+cheat87_code = "805C4D4D 0080"
+cheat87_enable = "false"
+
+cheat88_desc = "Treasure Chest Key [Cloudrunner Fortress]"
+cheat88_code = "805C4D56 0004"
+cheat88_enable = "false"
+
+cheat89_desc = "Construction Engineer's Key"
+cheat89_code = "805C4D5F 0020"
+cheat89_enable = "false"
+
+cheat90_desc = "Mystery Item (looks like Krazoa Tablet)"
+cheat90_code = "805C4DBF 0008"
+cheat90_enable = "false"
+
+==================================================
+Both
+==================================================
+
+cheat91_desc = "Max Moon Seeds (7)"
+cheat91_code = "805C4C4B 00D0+805C4C4C 0001"
+cheat91_enable = "false"
+
+cheat92_desc = "Small Food Bag"
+cheat92_code = "815C4DC0 013E"
+cheat92_enable = "false"
+
+cheat93_desc = "Medium Food Bag"
+cheat93_code = "815C4DC0 033E"
+cheat93_enable = "false"
+
+cheat94_desc = "Large Food Bag"
+cheat94_code = "815C4DC0 073E"
+cheat94_enable = "false"
+
+cheat95_desc = "Small Grubs Bag"
+cheat95_code = "815C4DC0 40C0"
+cheat95_enable = "false"
+
+cheat96_desc = "Medium Grubs Bag"
+cheat96_code = "815C4DC0 C0C0"
+cheat96_enable = "false"
+
+cheat97_desc = "Large Grubs Bag"
+cheat97_code = "815C4DC0 C0C1"
+cheat97_enable = "false"
+
+cheat98_desc = "Both Large Bags/Actions"
+cheat98_code = "815C4DC0 FFFF"
+cheat98_enable = "false"
+
+cheat99_desc = "Lantern (10 Fireflies)"
+cheat99_code = "805C4DCF 000A"
+cheat99_enable = "false"
+
+cheat100_desc = "Max Food/Grubs"
+cheat100_code = "815C4DC2 FFFF+815C4DC4 FFFF+815C4DC6 FFFF+815C4DC8 FFFF+815C4DCA FFFF+815C4DCC FFFF+805C4DCE 00FF"
+cheat100_enable = "false"
+
+==================================================
+New Codes added by Reynardine
+==================================================
+
+cheat101_desc = "Blue World"
+cheat101_code = "8101EF24 0000+8101EF26 0000+80090C70 00FF"
+cheat101_enable = "false"
+
+cheat102_desc = "Very Wobbly Models"
+cheat102_code = "8101CA54 0000+8101CA56 0000+8101CA6C 0000+8101CA6E 0000+8101CA84 0000+8101CA86 0000"
+cheat102_enable = "false"
+
+cheat103_desc = "Exorcist Animations"
+cheat103_code = "8101BCF8 240E+8101BCFA 0001"
+cheat103_enable = "false"
+
+cheat104_desc = "Geddan"
+cheat104_code = "8101BD48 2410+8101BD4A 000F"
+cheat104_enable = "false"
+
+cheat105_desc = "Facial Expression Stretch and Squish Mod"
+cheat105_code = "8101B292 4080"
+cheat105_enable = "false"
+
+cheat106_desc = "More Oddities"
+cheat106_code = "810192DC 3C19+810192DE 0002"
+cheat106_enable = "false"
+
+cheat107_desc = "Wacky Animation Oddities"
+cheat107_code = "810192D8 2407+810192DA 0004"
+cheat107_enable = "false"
+
+cheat108_desc = "Insanity"
+cheat108_code = "81013090 2404+81013092 0045"
+cheat108_enable = "false"
+
+cheat109_desc = "Infinite Blue Mushrooms Both Characters"
+cheat109_code = "805C3B65 0001+805C3B67 0001+805C3B69 0001"
+cheat109_enable = "false"
+
+cheat110_desc = "Small Grub Bag Both Characters"
+cheat110_code = "D05C4DC0 0000+805C4DC0 0048"
+cheat110_enable = "false"
+
+cheat111_desc = "Have Small Grub Bag"
+cheat111_code = "D05C4DC0 0000+805C4DC0 0040"
+cheat111_enable = "false"
+
+cheat112_desc = "Force Infinite Mushrooms"
+cheat112_code = "805C4DCB 00C0+805C3C19 0001+805C3C1B 0001+805C3C1D 0001"
+cheat112_enable = "false"
+
+cheat113_desc = "Small Grub Bag Blue Mushroom Object Mod Prison Sharpclaw"
+cheat113_code = "812535F0 007F"
+cheat113_enable = "false"
+
+cheat114_desc = "Small Grub Bag Blue Mushroom Object Mod Log"
+cheat114_code = "812535F0 01EF"
+cheat114_enable = "false"
+
+cheat115_desc = "Small Grub Bag Blue Mushroom Object Mod Lightfoot Kid"
+cheat115_code = "812535F0 0261"
+cheat115_enable = "false"
+
+cheat116_desc = "Prevent Some Stale Ram Data Wipes"
+cheat116_code = "8100C338 0000+8100C33A 0000"
+cheat116_enable = "false"
+
+cheat117_desc = "Totem Platform Timer Sound Mod"
+cheat117_code = "8156A438 0043+8156A43A 93F0+8156A43C 0000+8156A43E 6B5E"
+cheat117_enable = "false"
+
+cheat118_desc = "Reduced Offscreen Culling"
+cheat118_code = "80043C48 0010"
+cheat118_enable = "false"
+
+cheat119_desc = "Prevent Behind Viewport Culling"
+cheat119_code = "80043C48 0010+81043D58 0000+81043D5A 0000"
+cheat119_enable = "false"
+
+cheat120_desc = "Disable Frustum Culling"
+cheat120_code = "81044D9E 0000"
+cheat120_enable = "false"
+
+cheat121_desc = "Disable Particle Effects"
+cheat121_code = "8008C50B 0001"
+cheat121_enable = "false"
+
+cheat122_desc = "Krystal Alt HUD Face Replaces Projectile Shot Icon"
+cheat122_code = "814DC187 01C7"
+cheat122_enable = "false"
+
+cheat123_desc = "Krystal HUD Icon Swap"
+cheat123_code = "814DC52E 01C7"
+cheat123_enable = "false"
+
+cheat124_desc = "Shield Saving Fix"
+cheat124_code = "D05C4DBE 0002+D05C4C4E 00E4+805C4DBE 0012"
+cheat124_enable = "false"
+
+cheat125_desc = "Bathroom EQ Audio"
+cheat125_code = "8106C2C8 240E+8106C2CA 00FF"
+cheat125_enable = "false"
+
+cheat126_desc = "Random Voice Clips Play"
+cheat126_code = "81073688 2408+8107368A 00B0"
+cheat126_enable = "false"
+
+cheat127_desc = "Strange Music"
+cheat127_code = "81073698 240B+8107369A 0005"
+cheat127_enable = "false"
+
+cheat128_desc = "Remove Krazoa 1 Spirit [Krystal] Die/Quit"
+cheat128_code = "805C4D99 0008+805C4D9E 0004"
+cheat128_enable = "false"
+
+cheat129_desc = "Have Krazoa 1 Spirit [Krystal] Die/Quit"
+cheat129_code = "805C4D99 0028+805C4D9E 000C"
+cheat129_enable = "false"
+
+cheat130_desc = "Returned Krazoa 1 Spirit [Krystal] Die/Quit"
+cheat130_code = "805C4D99 0038+805C4D9E 0004"
+cheat130_enable = "false"
+
+cheat131_desc = "Respawning with D-Pad Up"
+cheat131_code = "D10A7DC0 0800+800B4A58 0001"
+cheat131_enable = "false"
+
+cheat132_desc = "Remove Desert Force Point Temple Spellstone"
+cheat132_code = "805C4D41 0000"
+cheat132_enable = "false"
+
+cheat133_desc = "Bay Diamond 'used' Fix [Volcano Force Point Temple] (Automatic)"
+cheat133_code = "D05C4DB9 0008+805C4DBB 001C"
+cheat133_enable = "false"
+
+cheat134_desc = "Green Dino First Egg Spawning Cutscene Crash Fix (Diamond Bay)"
+cheat134_code = "5000FF02 0000+8125B5B6 0000"
+cheat134_enable = "false"
+
+cheat135_desc = "Prevent A Map Despawn Crash Cape Claw Lightfoot Cage Wall"
+cheat135_code = "81018A84 0000+81018A86 0000+81018AAC 0000+81018AAE 0000"
+cheat135_enable = "false"
+
+cheat136_desc = "Remove Instances Of R0 Writing To R0 Crash Fix"
+cheat136_code = "8000C3BC 0000+80018AAC 0000+80022350 0000+8051A98C 0000"
+cheat136_enable = "false"
+
+cheat137_desc = "Players Swapped"
+cheat137_code = "81091664 001F+81091666 0000"
+cheat137_enable = "false"
+
+cheat138_desc = "Invisible Stuff Visible"
+cheat138_code = "81034EAC 240F"
+cheat138_enable = "false"
+
+cheat139_desc = "More Stuff Made Visible"
+cheat139_code = "81034E48 0000+81034E4A 0000+81034E4C 0000+81034E4E 0000+81034EB0 1000"
+cheat139_enable = "false"
+
+cheat140_desc = "Widescreen 16:9"
+cheat140_code = "8008C890 0001"
+cheat140_enable = "false"
+
+cheat141_desc = "Force-Trigger 2nd Green Dino Egg Fetch Cutscene [Diamond Bay]"
+cheat141_code = "805C4DAE 0003"
+cheat141_enable = "false"
+
+cheat142_desc = "Deactivate Whirlpool Permanently (2nd Egg Fetch) [Diamond Bay]"
+cheat142_code = "805C53AB 0000"
+cheat142_enable = "false"
+
+cheat143_desc = "Force-Trigger 3rd Green Dino Egg Fetch Cutscene [Diamond Bay]"
+cheat143_code = "805C4DB2 0004"
+cheat143_enable = "false"
+
+cheat144_desc = "Talking to Green Dino Triggers 3rd Egg Fetch Cutscene (reload area) [Diamond Bay]"
+cheat144_code = "805C4DDB 0021"
+cheat144_enable = "false"
+
+cheat145_desc = "Picked Up Egg #3"
+cheat145_code = "805C4DBB 00C8+805C4DAF 0080+805C4E40 0004"
+cheat145_enable = "false"
+
+cheat146_desc = "Prevent Orb Boss from Spawning (And Forced-Night upon Visiting Shrine) [Diamond Bay]"
+cheat146_code = "805C4DA5 0000"
+cheat146_enable = "false"
+
+cheat147_desc = "Walled City Sun Puzzle Fix"
+cheat147_code = "81059DD4 0000+81059DE0 0000"
+cheat147_enable = "false"
+
+cheat148_desc = "No Fade-Outs"
+cheat148_code = "804FC878 0000"
+cheat148_enable = "false"
+
+cheat149_desc = "Sabre White Sword Fix"
+cheat149_code = "81035560 240C+81035562 0044"
+cheat149_enable = "false"
+
+cheat150_desc = "Sabre Invisible Sword Fix"
+cheat150_code = "81023A78 03E0+81023A7A 0008+81023A7C 0000+81023A7E 0000"
+cheat150_enable = "false"
+
+cheat151_desc = "Klanadack Bugfix"
+cheat151_code = "810DA130 0705"
+cheat151_enable = "false"
+
+cheat152_desc = "Fast Game Speed (Fixes Klanadack)"
+cheat152_code = "8005DA87 0003"
+cheat152_enable = "false"
+
+cheat153_desc = "Game Speed Back to Normal"
+cheat153_code = "8005DA87 0001"
+cheat153_enable = "false"
+
+cheat154_desc = "Walled City Sun Block Puzzle Crash Fix"
+cheat154_code = "81059DD4 0000+81059DE0 0000"
+cheat154_enable = "false"
+
+cheat155_desc = "No Fadeout Fixes Walled City Puzzle Cutscene"
+cheat155_code = "804FC878 0000"
+cheat155_enable = "false"
+
+cheat156_desc = "Cape Claw Glitched Log Fix"
+cheat156_code = "81252EE2 01EE"
+cheat156_enable = "false"
+
+cheat157_desc = "Cape Claw Loaded Map Chunks Fix"
+cheat157_code = "805C4F39 00FF"
+cheat157_enable = "false"
+
+cheat158_desc = "Dragon Rock Bottom Mine Cart Tracks OFF"
+cheat158_code = "805C4D8D 0000"
+cheat158_enable = "false"
+
+cheat159_desc = "Spawn Cape Claw Sandworm Boss"
+cheat159_code = "805C4DD8 0021"
+cheat159_enable = "false"
+
+cheat160_desc = "Cape Claw Sandworm Boss (Activate in Boss Area)"
+cheat160_code = "805C4C55 0060"
+cheat160_enable = "false"
+
+cheat161_desc = "Cape Claw Sandworm Boss (Activate in Boss Area) Alt"
+cheat161_code = "805C4C55 0070"
+cheat161_enable = "false"
+
+cheat162_desc = "Golden Plains Shrine Fix"
+cheat162_code = "812536E8 0000"
+cheat162_enable = "false"
+
+cheat163_desc = "Diamond Bay Log for a Fish Cutscene"
+cheat163_code = "805C4D3D 00FD"
+cheat163_enable = "false"
+
+cheat164_desc = "Press Start to View Credits"
+cheat164_code = "8008C863 004E"
+cheat164_enable = "false"
+
+cheat165_desc = "DIM Spellstone Activation Fix"
+cheat165_code = "804DBF38 0000+814DBF44 0123"
+cheat165_enable = "false"
+
+cheat166_desc = "Enable Kyte"
+cheat166_code = "805C4C51 0002"
+cheat166_enable = "false"
+
+cheat167_desc = "Moon Mountain Pass End Scene (Enables Lightfoot Trials SC6 SC7 Race GP7)"
+cheat167_code = "805C5117 0004"
+cheat167_enable = "false"
+
+cheat168_desc = "No Fades Fixes Lightfoot Trials"
+cheat168_code = "804FC878 0000"
+cheat168_enable = "false"
+
+cheat169_desc = "Raise Golden Plains Pillars"
+cheat169_code = "805C4D72 0080+805C4D73 0001+805C5110 0001"
+cheat169_enable = "false"
+
+cheat170_desc = "Culling Hack"
+cheat170_code = "80043C48 0010+81043D58 0000+81043D5A 0000+81044D9E 0000"
+cheat170_enable = "false"
+
+cheat171_desc = "Garunda Te Only Needs 4 Frost Weeds"
+cheat171_code = "D05C4C3E 0060+805C4C3E 0061"
+cheat171_enable = "false"
+
+cheat172_desc = "Skip Feeding Garunda Te Entirely"
+cheat172_code = "D05C4C3E 0060+D05C4C3D 0000+805C4C3D 008A+D05C4C3E 0060+D05C4C3D 0001+805C4C3D 008B+D05C4C3E 0060+D05C4C3D 0004+805C4C3D 008A+D05C4C3E 0060+D05C4C3D 0005+805C4C3D 008B+D05C4C3E 0060+805C4C3E 0063"
+cheat172_enable = "false"
+
+cheat173_desc = "One Hit Kill Enemies"
+cheat173_code = "815CC20C 240D+815CC20E 0000"
+cheat173_enable = "false"
+
+cheat174_desc = "Despawn DIMBikeDoor"
+cheat174_code = "805C4D6D 0052"
+cheat174_enable = "false"
+
+cheat175_desc = "Warlock Mountain 3 Done (Unlocks Walled City 2nd Visit)"
+cheat175_code = "805C4DD5 0012"
+cheat175_enable = "false"
+
+cheat176_desc = "Reset Moon Block Puzzle Flag"
+cheat176_code = "805C4D7F 0008"
+cheat176_enable = "false"
+
+cheat177_desc = "Remove Mupen64 Black Polygons"
+cheat177_code = "81043624 0000+81043626 0000+810435D8 0000+810435DA 0000"
+cheat177_enable = "false"
+
+cheat178_desc = "Playable Rolling Demo"
+cheat178_code = "81253534 0000"
+cheat178_enable = "false"
+
+cheat179_desc = "Enable Tricky (Breaks DIM)"
+cheat179_code = "805C4C80 0001"
+cheat179_enable = "false"
+
+cheats = "180"

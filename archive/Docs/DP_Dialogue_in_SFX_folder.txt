@@ -1,0 +1,56 @@
+INSTR_0000_SND_00DA Krystal - Distract them
+INSTR_0000_SND_00DB Krystal - Fight
+INSTR_0000_SND_00DC Krystal - Look after it
+INSTR_0000_SND_00DD Krystal - Whistle come here
+INSTR_0000_SND_00DE Krystal - Seek it out
+INSTR_0000_SND_00DF Krystal - Go play
+INSTR_0000_SND_00E0 Krystal - Fetch
+INSTR_0000_SND_00E1 Krystal - Chase
+INSTR_0000_SND_00E2 Krystal - Hide and seek
+INSTR_0000_SND_00E3 Krystal - Tag
+INSTR_0000_SND_00E4 Krystal - Tug of war
+INSTR_0000_SND_00E5 Krystal - Rodeo
+INSTR_0000_SND_00E6 Sabre - Chase
+INSTR_0000_SND_00E7 Sabre - Hide and seek
+INSTR_0000_SND_00E8 Sabre - Tag
+INSTR_0000_SND_00E9 Sabre - Tug of war
+INSTR_0000_SND_00EA Sabre - Rodeo
+INSTR_0000_SND_00F3 Tricky - Hey look at this
+INSTR_0000_SND_00F4 Tricky - Wait! there's something close by
+INSTR_0000_SND_00F5 Sabre - I'm freezing
+INSTR_0000_SND_00F6 Sabre - That's much better
+INSTR_0000_SND_00F7 Sabre - That's too cold for me
+INSTR_0000_SND_01B1 Guardclaw - Go away
+INSTR_0000_SND_01B3 Guardclaw - Sharpclaw only
+INSTR_0000_SND_01B6 Guardclaw - Hey! you!
+INSTR_0000_SND_01B7 Guardclaw - Hey you
+INSTR_0000_SND_01B8 Guardclaw - Come here
+INSTR_0000_SND_02E5 Chief Lightfoot - Hey girl wrong samplerate
+INSTR_0000_SND_02E6 Chief lightfoot - Over here wrong samplerate
+INSTR_0000_SND_011F Snowhorn - That tunnel leads to swapstone hollow
+INSTR_0000_SND_0012 Krystal - I've had a garbled message unused HQ
+INSTR_0000_SND_012A Kyte Placeholder Actor - Help!
+INSTR_0000_SND_012B Kyte Placeholder Actor - Get me out of here
+INSTR_0000_SND_0013 Sabre - Seek it out Low pitch wrong samplerate
+INSTR_0000_SND_0014 Sabre - Distract Them Low pitch wrong samplerate
+INSTR_0000_SND_0015 Sabre - Look after it Low pitch wrong samplerate
+INSTR_0000_SND_0016 Sabre - Fetch Low pitch wrong samplerate
+INSTR_0000_SND_0017 Sabre - Whistle here boy Low pitch wrong samplerate
+INSTR_0000_SND_028E Tricky - Somebody stop this Sharpclaw
+INSTR_0000_SND_037C General Scales - Noooo
+INSTR_0000_SND_039B Sabre - Flame
+INSTR_0000_SND_0110 Sharpclaw - Come on fight
+INSTR_0000_SND_0111 Sharpclaw - Are ya chicken
+INSTR_0000_SND_0112 Sharpclaw - Press Z to fight
+INSTR_0000_SND_0120 Garunda Te - Try using your find command
+INSTR_0000_SND_0121 Garunda Te - Will somebody get me out of here
+INSTR_0000_SND_0122 Sharpclaw - Ah shut up
+INSTR_0000_SND_0123 Queen Earthwalker - You must find more
+INSTR_0000_SND_0124 Tricky - Come on Sabre my family will be worried
+INSTR_0000_SND_0125 Tricky - Sabre this way
+INSTR_0000_SND_0126 Tricky - It's too deep I need more practice
+INSTR_0000_SND_0127 Tricky - I can't get this yet
+INSTR_0000_SND_0257 Sharpclaw - Here fishy fishy
+INSTR_0000_SND_0258 Sharpclaw - Here fishy
+INSTR_0000_SND_0268 Kyte - Find the wizard and get me out of here
+INSTR_0000_SND_0269 Kyte - Help!
