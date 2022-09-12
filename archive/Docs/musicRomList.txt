@@ -1,0 +1,149 @@
+0000 Silence 1
+0001 Silence 2
+0002 Cape Claw
+0003 LightFoot Ambush
+0004 EarthWalker Temple
+0005 SwapStone Circle Cutscene
+0006 sparse07
+0007 Hostile Area
+0008 Sabre Freezing by the Campfire
+0009 Opening Sequence
+000A Crashing into the Hot Spring
+000B CloudRunner Fortress
+000C A Meteor Hits Moon Mountain Pass
+000D Krystal Tied to the LightFoot Totem Pole
+000E sparse0f
+000F Volcano Force Point Temple
+0010 Klanadack Battle
+0011 SwapStone Hollow Songs
+0012 sparse13
+0013 Dragon Rock
+0014 The Galleon Attacks Krystal
+0015 sparse16
+0016 Docking the Galleon at Warlock Mountain
+0017 sparse18
+0018 LightFoot Village Battle
+0019 sparse1a
+001A GuardClaw Theme
+001B Losing the Snow Bike Slope Race
+001C Golden Plains
+001D Galleon Battle
+001E sparse1f
+001F sparse20
+0020 General Scales
+0021 Riding the Galleon to Warlock Mountain
+0022 Krazoa Palace
+0023 Arriving at SwapStone Circle
+0024 Snow Bike Slope Race
+0025 Warlock Mountain Warp Arch Appears
+0026 General Scales Takes the Galleon
+0027 Dying Earthwalker
+0028 Confronting Tricky_s Captors
+0029 sparse2a
+002A Entering Krazoa Test
+002B Krazoa Shrine
+002C Krazoa Test of Combat
+002D Krazoa Test of Strength
+002E Krazoa Test of Fear
+002F Krazoa Test of Skill
+0030 Krazoa Test of Knowledge
+0031 SwapStone Circle Songs
+0032 Riding a SnowHorn
+0033 Krazoa Test of Sacrifice
+0034 Warlock Mountain_s Krazoa Secrets
+0035 Silence 12
+0036 Silence 13
+0037 Desert Force Point Temple Songs
+0038 Silence 14
+0039 Silence 15
+003A SnowHorn Wastes
+003B Galadon Battle Phase 1
+003C Silence 3
+003D Silence 4
+003E Silence 5
+003F Discovery Falls Songs
+0040 Silence 16
+0041 Darkice Mines Theme
+0042 Silence 17
+0043 Galadon Battle Phase 2
+0044 Walled City Songs
+0045 Silence 18
+0046 Fast Drum Beat
+0047 Silence 19
+0048 Galadon Battle Phase 2 Songs
+0049 Northern Wastes Songs
+004A Silence 6
+004B Escaping the Conveyor Belt
+004C Darkice Mines Waterfall Cave
+004D Darkice Mines Conveyor Belt
+004E Silence 7
+004F CloudRunner Fortress Snow Bike Chase
+0050 Entering CloudRunner Fortress
+0051 sparse52
+0052 sparse53
+0053 Warlock Mountain Waters
+0054 sparse55
+0055 Protect the Eggs
+0056 sparse57
+0057 Diamond Bay River Path Songs
+0058 Warlock Mountain Outside Ambience
+0059 sparse5a
+005A Cape Claw Waters
+005B Horn of Truth
+005C Summoning SnowHorn with Horn of Truth
+005D Silence 8
+005E Title Theme (Main Menu)
+005F Desert Force Point Temple Spellstone Pedestal
+0060 Silence 20
+0061 Silence 21
+0062 Silence 22
+0063 Silence 23
+0064 Silence 24
+0065 Silence 25
+0066 Diamond Bay
+0067 The Shop
+0068 ThornTail Village
+0069 Scarab Catching Game
+006A Riding an EarthWalker
+006B sparse6c
+006C sparse6d
+006D Drakor Battle
+006E Silence 9
+006F Silence 10
+0070 UNKNOWN
+0071 UNKNOWN
+0072 UNKNOWN
+0073 UNKNOWN
+0074 UNKNOWN
+0075 UNKNOWN
+0076 UNKNOWN
+0077 UNKNOWN
+0078 UNKNOWN
+0079 UNKNOWN
+007A UNKNOWN
+007B UNKNOWN
+007C UNKNOWN
+007D UNKNOWN
+007E UNKNOWN
+007F UNKNOWN
+0080 UNKNOWN
+0081 UNKNOWN
+0082 UNKNOWN
+0083 UNKNOWN
+0084 UNKNOWN
+0085 UNKNOWN
+0086 UNKNOWN
+0087 UNKNOWN
+0088 UNKNOWN
+0089 UNKNOWN
+008A UNKNOWN
+008B UNKNOWN
+008C UNKNOWN
+008D UNKNOWN
+008E Silence 11
+008F UNKNOWN
+0090 UNKNOWN
+0091 UNKNOWN
+0092 UNKNOWN
+0093 UNKNOWN
+0094 UNKNOWN
