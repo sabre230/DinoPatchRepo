@@ -1,0 +1,622 @@
+Small fix. During the freeing  Garunda Te cutscene it's supposed to show 
+a short sequence of the mine door opening up, but this is hidden with a 
+black screen. This will fix that and show the scene - 
+
+ROM:
+01F2BC64 0000
+01F2BC66 0000
+
+
+I made a mistake awhile back... 
+03A36910 00000000 doesn't patch VFPT Spellstone flag...
+
+Use this instead: 
+03A87690 00000000
+
+
+
+
+Also, this stops the save from getting corrupted when you place the 
+spellstone there. The Swapstone might smarten up now.
+
+020EECD6:
+
+004C1B000804645C44968380C4C5C80044DE56F200041D360A1F0100051F010000000000000000000000000000000000000000000000000000000E101006000000000000FFFF0000FFFFFFFF
+
+
+
+Diamond Bay doesn't unload properly when you return from VFPT 
+and arrive at Swapstone Hollow. this fixes that. 
+
+If you wondered why you crashed near the entry of the Swapstone, 
+that's why. 
+
+Address Value:
+02170D6C: 20
+02170D56: 0A140000 0A14000A 0A14000B
+
+
+To make the Swapstone entry even less likely to crash, 
+this moves a TriggerPlane further back where the memory 
+is lower.
+
+0210285E: 452B3262C43056BC44399258
+02102893: 22
+
+
+Other patches I forgot to mention:
+
+Switch direction of loading trigger in 
+Spellstone chamber in VFPT #2:
+
+020EF07E: 0A130008
+
+
+Stop VFPT from crashing when you go the 
+wrong way back to Diamond Bay:
+
+020EF7D6: 0A060001
+
+
+
+
+Put some various voice lines back in using some of 
+the empty slots. 
+
+Totally optional!
+
+
+Kyte DFPT - "It's the Spellstone holder!" 
+(replaces the wrong voice clips)
+
+000A5DDC 80D6
+01F422E2 0000
+01F422DA 8158
+
+
+Thorntail - "Have you woken the Swapstone yet?" 
+(Matches on screen subs now)
+
+000A5C8C 82C8
+01F0FFCE E140
+
+
+CFPrisonguard - "Wha? Who-zat? GUARDS!"
+
+01E8362E E1C6
+01E83648 0000
+01E8364A 0000
+000A63E0 80A0
+01E8362C 0603
+
+
+CCHightop - "Do not swim in these waters, 
+the currents are strong"
+
+000A55EE 8062
+01F0AA20 06C8
+01F0AA22 E0C7
+
+
+
+
+There's some issues getting the VFP second state to 
+stay loaded after Klanadack. I've changed one of the 
+Triggerplanes on the VFP bridge to set this only once 
+you have the second Spellstone (also had to move it a bit!). 
+This particular Triggerplane only has a flagcheck in it so 
+shouldn't affect anything, though any issues let me know. 
+
+First section in the video is going through the first time 
+(state 1) and second is with the Spellstone (state 2)
+
+Also if you did manage to reach here with state 2 already active, 
+nothing will add to the number, it will always force 2 as long as 
+you're holding the 2nd Spellstone!
+
+ROM:
+020EE4B2 FFFF
+020EE4B6 083B
+020EE476 4565
+020EE478 ED98
+020EE47A C4B0
+020EE47C A000
+020EE47E 446C
+020EE480 88E8
+020EE4A8 0B10
+020EE486 0518
+020EE488 0002
+
+
+
+Making Queen Earthwalker disappear is a little harder than 
+I wanted, but I'd say it's worth it. The more powerful 
+TriggerPlanes become, the better.
+
+0x4000 in a "checkFlagOnCollision" flag ID now gives a 
+"trigger if flag not set" instruction for TriggerPlanes. 
+
+Gives more control for the future too! 
+
+039BE888:
+
+30840FFFAFA500400C0051FBAFA70034100003B7240600018FA500408FBC0018
+
+039BF768:
+
+0C011CDD01A0202510000077000000008E0400B88484005A3085400054A00001004210271000FC4300461024
+
+
+Stop Queen Earthwalker from loading after placing Cloudrunner 
+Fortress Spellstone in DFPT:
+
+021024F2: 0x45F3
+
+
+
+Patched Rubbles' voice lines and text on Krystal's side! 
+Switched out the "Ah, not you again" and 
+"Ready to swap to Krystal?" to their proper lines and 
+switched the appropriate text files
+
+ROM:
+01EBB386 A028
+000A4BEC 8293
+000A4BDE 8295
+01EBB38A E00F
+01EBB30E E010
+01EBB30A A061
+
+
+Oh, one more bonus line from Rubble - 
+
+ROM:
+000A4C5C 8294
+01EBB3D2 E018
+
+
+Oops, another Rubble one I forgot to add last night!
+
+ROM:
+01EBB40E E019
+000A4C6A 8297
+
+
+Another bug patched in DIM. (Vanilla bug, not mine) 
+There was a bug that prevented the jetbike-to-conveyor 
+cutscene from playing under a certain condition, like 
+touching a TriggerPlane without a jetbike, and then 
+going back with the jetbike.
+
+02155EB6: 042D
+
+
+
+
+
+
+Small patches that I forgot about:
+
+To Garunda Te, Music Trigger from lava path:
+0210FDD2: 0A030060
+
+DFPT #3 Spellstone, Scales Cutscene position fix:
+0214E33A: 43957BCCC4B69DA543A4B8A0
+
+Horn of Truth inventory name/info patches:
+0383931D: 1A
+0383949D: 1A
+
+Don't add Spellstone #2 back to inventory in VFPT:
+03A87854: 00000000
+
+
+
+Remove Yellow Gem Drops from Snowhorn Wastes Chuckas
+0x02110041 -> 00
+0x02110209 -> 00
+0x02111439 -> 00
+
+
+
+
+0x021104F1 -> 00
+0x02110DF1 -> 00
+0x02145B65 -> 00
+
+Stop a chunk of Diamond Bay's river from disappearing on your second visit: 
+021725E2: 000E
+
+
+
+
+This SHOULD increase the likelihood of you getting Tricky to Galadon successfully. 
+Hopefully it works better than no patch. What I can tell thus far is it works if Tricky only vanishes 
+on the pillars instead of crashing the whole game. Also, on the save state he vanished in, 
+after I reloaded Tricky, he stopped vanishing.
+
+02157132: 052601FF
+0215718A: 052601FF
+02157060: 24
+
+All it does is reload tricky in two places. One at the start of the pillar jump room, (hopefully to prevent the crash) 
+and the other in the lava room after that, if Tricky only vanishes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is an unused sequence that can squeeze into the "DIM2MammothWheel" object. 
+SEQ: 02EE, then you can keep 0216F858 as is. (Value is 1 by default)
+It's basically the same sequence as the used one, except both the mammoth and wheel are smaller. 
+
+038011F1 02
+03801228 02EE
+
+
+
+
+
+
+
+Willow Grove finally has some life (even if just a little!). 
+Fixed up and added the cutscene meeting the WGmutant to play in game editing the nearby null sequence object. 
+
+Sizing of the mutant and belt object altered, audio patched back in for all lines, positioning, seq id etc added. 
+Haven't figured how to keep the blackbars in yet, changing the sequence from "self" to detect the mutant takes this away
+
+Also a new Transporter has been added that will take you to the Test of Magic 
+(switching out the WGboulder and making alterations to work)
+
+ROM - Mutant scene + fixes
+0380342C 0002
+03803464 03DB
+0217BAB8 0100
+0217BAA2 4476
+0217BAA4 C4C8
+0217BAA6 C49D
+0217BAA8 D496
+0217BAAA 4194
+0217BAAC 2E80
+037EC3A8 0532
+037EC3A6 D000
+0217BAB4 05D0
+0217BAB6 36
+0217BAA0 40
+0380346A 3DF0
+038036A2 3E00
+000AE242 83FA
+000AE250 8409
+000AE25E 8407
+000AE26C 83FB
+000AE27A 83FC
+000AE288 83FD
+000AE296 83FE
+000AE2A4 8408
+000AE2B2 83FF
+0217BAE0 0548
+0217BAB2 0003
+
+Test of Magic Shrine Transporter 
+0217BCBA 00EC
+0217BCD2 7F42
+0217BCD6 0000
+0217BCD8 1EFF
+0217BCD4 2700
+0217BCC2 C3A1
+0217BCC4 7B20
+0217BCC6 C4AD
+0217BCC8 4000
+0217BCCC 74E0
+0217BCCA C3A0
+
+
+
+
+
+
+Noticed getting the VFP2 trigger is still a bit wonky. 
+Have moved the Triggerplane the plane so should be easier to trigger. 
+It's still not perfect as still has a chance of not triggering. 
+Best bet is if you go past the VFP bridge and see a Sharpclaw, turn back and cross the bridge again. 
+You'll know you're in the right state if you see 2 Scorpion Robots.
+
+(For testing you can give yourself Spellstone 2 needed - 805C4DAC 0004)
+
+An ideal solution would be if I can figure out how to change level states remotely rather than needing to be in the area. 
+Lots of things later that would help with too.
+
+Remove these from the previous code:
+
+020EE476 4565
+020EE478 ED98
+020EE47A C4B0
+020EE47C A000
+020EE47E 446C
+020EE480 88E8
+
+Replace with - 
+020EE476 455E
+020EE478 B86C
+020EE47A C4B5
+020EE47C 3086
+020EE47E 4470
+020EE480 3680
+
+
+
+
+Change Klanadack's Spellstone Icon to Activated: 
+038E144C: 00000000
+03839510: 0563
+
+
+
+
+Small one but was always bugging me lol. 
+The small brown door in DFP normally has no trigger and will open 
+when near allowing you to unintentionally get to the back section early. 
+Added this trigger to only open once the block puzzle is completed
+
+ROM:
+0214E168 0766
+
+
+
+
+WM 3 spirit release cutscene has a tendency to crash/freeze often 
+(possibly an overload on the light effects). 
+I removed the yellow beam from that cutscene which seems to make it more stable
+
+ROM:
+01EEBECA 0000
+
+
+
+
+I noticed Klanadack's spellstone doesn't disappear 
+when you place the spellstone. 
+
+So here's the patch:
+0383950E 063C
+
+
+
+
+
+Shop Firefly Lantern for Sabre + Krystal and Translator (improved!)
+
+You can now buy the Firefly Lantern!
+
+This will replace the previous Translator codes 
+
+Moved the Translator across the room (with fixes)
+Set flags for both Sabre and Krystal to obtain firefly upon buying the Lantern - 
+Currently you only have one use per character but will look at adding Firefly spots, 
+or make fireflies unlimited!
+
+Made Translator only viewable on Krystals side
+
+ROM:
+0218ED10 78 (Translator buy scene camera fix)
+038171F8 0187 (SPsidefood large to Translator visual)
+03AFC4D4 07BF (Krystal SPfood to Translator flag)
+03816F78 0187 (Translator visual)
+03839310 0047 (Translator text)
+03AFC4D2 0095 (Translator only shows in Krystals side)
+03AFC454 013D (Lantern flag fix Krystal)
+03AFC450 05D6 (Lantern flag fix Sabre)
+
+
+
+
+
+Quick one. 
+After WM3, normally the game will allow you to do the Lightfoot Trials, 
+which is too early. Rather than fiddling with the map setups I just changed 
+the flag checkers to say only allow this to play once you've deposited the 
+spirit after Walled City 2
+
+ROM:
+021333C6 0142
+02133326 0142
+02133E7E 0142
+
+
+
+
+
+
+
+
+
+Fix a Crash with a Pressure Switch in Earthwalker Temple map:
+0217885E 000E
+
+
+
+
+
+
+Quick optional patch, in Sabre's intro this will remove the puzzle solving sounds that play. On some emulators this will play twice (with the second being far louder it seems which is a bit jarring!). Removing this will not play the sound when opening that specific door yourself however
+
+01EAB682 0000
+
+
+
+This will stop this cutscene from looping once played in LVF. It didn't have a Seqtype number so would play infinitely lol. Adding one will make it play just once after the puzzle now
+
+02134E2A 0003
+
+
+
+Sun Temple Door Fix Improved:
+I moved the Triggerplane and added a backup trigger to open the door from behind. 
+If it's good then can add to the patches!
+
+0212B742 C5AA
+0212B744 74D7
+0212B756 0F12
+0212B758 8274
+
+
+
+
+Disable Ledge Grab in Warlock Mountain Main Chamber:
+
+Krystal Side:
+03270E46 0E80
+03270E6E 0E80
+
+Sabre Side:
+03270F9A 0E80
+03270FEA 0E80
+
+
+
+Remove Broken Magic Gem Drops from Snowhorn Wastes Chuckas:
+0x021104F1 -> 00
+0x02110B61 -> 00
+0x02110DF1 -> 00
+0x02145B65 -> 00
+
+
+
+
+All Waterbaddies Infinite Respawn Fix
+020F986A 0048
+020F9BC6 0048
+020F9C26 0048
+020F9CE2 0048
+020F9EC6 0048
+020F9EFE 0048
+020F9F36 0048
+020F9F6E 0048
+020FAF0E 0048
+020FAF46 0048
+020FAF7E 0048
+020FB746 0048
+02134326 0048
+021343C6 0048
+021721E6 0048
+021735B6 0048
+
+
+
+
+
+
+Enabled and/or moved some of the magic gems and plants in DFP and VFP.
+VFP 1 especially can be annoying to run out of magic for the lava platform section!
+This should keep you going now
+
+Magic plants moved/enabled - These 2 will be part of a big patch coming soon too
+
+Show Plant 1 in DFP1 rotate puzzle room
+0214DDBC 08FE
+0214DDC0 5A50
+
+Show and move plant to DFP2 Bombot room
+From 0214DDE2 , paste - 44BF0C30C4B66000C4887990
+
+VFP - Magicgem 1, move
+020EE362 C47D
+
+VFP - Magicgem 2, move
+020EE392 C47D
+
+
+
+
+Just noticed the positioning of the BWC dockpoint has gone astray, meaning you wouldn't be able to dismount to get the Spellstone! 
+
+This should put it back in the right spot
+0217EEF6 C48D (previous code was C4BD)
+
+
+
+
+Yeah most of the barrels have the same hit box radius which can be far too small to hit your target! 
+Most of the time you need to hit pretty much dead on center for it to detect a hit. 
+I won't post this in the patches channel as a proper fix would be ideal, 
+but this will increase the hitboxes of all DFBarrels and CFBarrels essentially by 2. 
+
+Just enough to still be able to pick them up comfortably - 
+
+DFBarrel hitbox increase 
+0380723A 0A00
+
+CFBarrel hitbox increase 
+037F669E 0A00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPTIONAL for bug finders:
+
+Here's dinomod default memory status for real this time... 
+Had terrible side effects like dinomod patches being off by default. 
+I tested this one more thoroughly, and everything seems fine. 
+The other patch will have to be reverted. 
+As an added bonus, this one is togglable. 
+
+038E5448: 0x24040039
+038E5468: 0x1060FFF6
+038E546C: 0x00000000
+038E5414: 0x10000010
+
+Turns on memory status by default, in the hopes people will keep 
+it on and help me and others figure out where the memory leaks are.
+
+
+
+Disable Blur Effect in Rubble Cutscene:
+
+ROM:
+01EE5826 0000
+
+
+
+
+
+(THIS IS BROKEN DON'T USE)
+Experimental Sun Block Puzzle Crash Fix:
+
+Not sure, the same numbers in ROM look like they're here -  0005A9D4 and 0005A9E0. Though disabling those still come up with the same crash
+
+They should disable the collision of those blocks.
+
+
+
+
+
+
+
+
+
+
+

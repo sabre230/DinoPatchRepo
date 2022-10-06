@@ -1,0 +1,53 @@
+Here are some notes on how HITS.bin works, just in case it's helpful for editing more of the game's collision setups!
+
+HITS.tab divides HITS.bin into 1103 ranges, one for each of the 1103 BLOCKS models in the game. Each BLOCKS model's HITS file contains data for a collection of lines in 3D space.
+
+Each collision line uses 20 bytes of data. This contains signed 2-byte XYZ coordinates for Point A and Point B of the line (taken relative to the BLOCK model's local origin), the type of collision (jump point, ledge grab point, vine/rock-climbing point, pushblock bounds, enemy bounds, etc.) and its settings and height values. Each BLOCK's HITS file is padded with zeros at the end so that its total length is a multiple of 8.
+
+Collision lines generally seem to only take effect when Krystal/Sabre/baddies/etc approach it from one side, for example when Krystal/Sabre cross a jump collision line Point A needs to be on their right and Point B on their left.
+
+Depending on their settings some collision types (like ledge grabs and vines) can use two 1-byte height values instead of just one 2-byte height value. In this case, the values describe separate heights above Point A and Point B. This is used when grabbing a sloped ledge, for example.
+
+Here are a few example settings (bytes 0xC to 0xF of a collision line):
+
+0058 8083 - vine/rock climb, height 0x58 (88), can let go at base
+0043 8E03 - vine/rock climb, height 0x43 (67), can't let go at base
+00AD 8803 - vine/rock climb, height 0xAD (173), can let go at base, can't climb over top
+3F46 0083 - vine/rock climb, variable height 0x3F (63, above A) 0x46 (70, above B), can let go at base
+
+2828 0E84 - jump point, can't dangle at edge
+2828 0E85 - ledge you can dangle from, or take a running jump
+2828 0082 - ledge you can dangle from, but can't jump off
+2828 0E80 - ledge you can't dangle from, or take a running jump
+2828 0C01 - ledge you can't pass
+
+0018 8E86 - ledge climb-up, height 0x18 (24)
+1618 0E86 - ledge climb-up, variable height 0x16 (22, above A) 0x18 (24, above B)
+
+0028 0E90 - clamber onto ledge while swimming, height 0x28 (40)
+
+0038 0001 - invisible wall, height 0x38 (56)
+
+2828 070D - pushblock bounds
+
+2828 0701 - log dismount possible?
+
+2828 0B01 - enemy bounds?
+
+
+COLLISION LINE BYTES
+====================
+
+Coordinates for points A and B
+(Signed integers, relative to BLOCKS model's local origin)
+0x0 to 0x1: Ax
+0x2 to 0x3: Bx
+0x4 to 0x5: Ay
+0x6 to 0x7: By
+0x8 to 0x9: Az
+0xA to 0xB: Bz
+
+0xC to 0xD: height(s) (2-byte integer, or depending on settings can also be two 1-byte integers)
+0xE to 0xF: collision type and settings
+0x10 to 0x11: unknown, "FFFF" seems to be the default value but it's occasionally something else... possibly collision group?
+0x12 to 0x13: unknown

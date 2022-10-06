@@ -1,0 +1,71 @@
+SABRE'S SIDE
+
+SnowHorn Wastes
+
+1) Fixed the rock-climbing spot near the hot spring - you can now let go at the bottom!
+
+2) Improved the jump to the first snowy platform in the lake beyond the first SnowHorn. Previously Sabre would often down-warp to grab the ledge.
+
+3) I've also fixed the jump to the hidden cave in this area - it already had some jump collision in place, but it was mispositioned.
+
+4) In the same area, you can also now clamber onto the first snowy platform from the water.
+
+5) Fixed the rock-climbing spot beyond the felled tree near Garunda Te - you can now let go at the bottom.
+
+Northern Wastes
+
+1) Fixed the rock-climbing spot near the rolling snowball path - you can now let go at the bottom.
+
+2) Fixed a visual glitch at the bottom of the Leap of Faith cave! The small square at the bottom is intended to be the same colour as the pit, but its render settings caused it to light up instead.
+
+SwapStone Hollow
+
+1) Fixed the collision around the river's ledges! Previously Sabre would ledge-grab in the wrong spots and clip through the ground - this happened because the collision was for an older version of the level.
+
+2) Fixed a bug where the bouncing mushrooms could clip through the central rocks in the underground Hollow.
+
+3) When exiting the underground Hollow, you can now climb onto the first rock from the sides instead of just from the front.
+
+4) Again in the underground Hollow, I've removed the invisible wall in front of the vines near the lily pad cave. The path can hopefully be blocked by a proper vine game object in future, which Tricky can burn!
+
+5) You can now climb into the small cave in the corner of the SwapStone's area.
+
+6) You could previously softlock the game if you fell into the water in the reflection pool cave behind the SwapStone. As a temporary fix, I've edited it so you can't fall into the pool. Hopefully the swimming programming glitch can be fixed in future, at which point we can reopen this little pool and add collision for clambering out of it!
+
+7) You can now climb onto the corner ledge in one of the caves behind the SwapStone.
+
+DarkIce Mines
+
+1) It's now much easier to escape DarkIce Mines' waterfall basin after filling it with ice! Previously you would have to navigate to a ledge in the corner, and you could easily activate the swimming glitch on the way, potentially softlocking the game. I hope to improve this fix in future, but I felt it was better to include it for now rather than risk a softlock.
+
+2) The ice pushblock has been penned in to a limited area, preventing you from pushing it until it clips into the void.
+
+3) Previously you would start climbing in mid-air after pushing the iceblock over the cliff edge. This has been fixed!
+
+KRYSTAL'S SIDE
+
+SwapStone Circle
+
+1) You can now leap off the sides of LightFoot Village's central mound! I'm unsure if there was a technical reason for limiting the player's movement, for example forcing you to walk back to the ladder so you'll touch a loading trigger. If this change causes any issues it can easily be reverted!
+
+Cape Claw
+
+1) You can now take a running jump off the ledges in front of the giant Krazoa sculpture. It felt like a fun idea to allow the player take a dive here! I only applied this to edges above water that's safe for swimming.
+
+2) You can now climb the side of the ramp leading to the GuardClaw.
+
+3) Fixed the vines and jumps around the Cape Claw Courtyard cannon platform. Previously you couldn't let go at the bottom of the vines, and jumping back to the mainland didn't work from one side of the platform.
+
+4) Fixed the column vines in Cape Claw Courtyard - you can now let go at the bottom.
+
+5) Fixed the vines in the ruins behind the Courtyard. Previously you could climb over highest point, clipping you through the wall! You also couldn't navigate horizontally onto the upper ledge, and couldn't let go at the bottom.
+
+6) Another nearby vine in the ruins has also been fixed, enabling you to let go at the bottom.
+
+7) Fixed the vines leading down to the Krazoa Tablet chamber - you can now let go at the bottom.
+
+8) The island off of Cape Claw previously had messy UVs and outdated collision, causing you to ledge-grab clip through the ground at various spots on the island. This is all fixed, and you can also escape the interior water pool if you happen to fall into it.
+
+Warlock Mountain
+
+1) Added a climbing setup for the vines leading to the MoonSeed cave! This fix is a WIP and can be refined later.
