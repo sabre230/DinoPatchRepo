@@ -1,0 +1,2 @@
+# Archive the end user doesn't necessarily need access to
+*.archive
