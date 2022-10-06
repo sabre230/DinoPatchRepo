@@ -1,5 +1,0 @@
-Dinomod Version Text:
-038E7FEC
-
-Dinopatch Version Text:
-038E2898

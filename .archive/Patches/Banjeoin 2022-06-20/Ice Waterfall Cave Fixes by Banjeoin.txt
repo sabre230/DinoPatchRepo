@@ -1,0 +1,26 @@
+Yay, I think I found a fix for that funny climbing-the-air glitch with that pushblock! 
+It needs testing since it might still do it from some angles... 
+but it seems to be consistently working when pushing directly towards the cliff from its original startpoint like most players will do: 
+
+32821B5: 58
+32821B7: 4F
+3282395: 58
+3282397: 4F
+32823A2: 0E
+32823A3: 84
+
+The fix pushes the climb startpoint slightly away from the cliff-face, and I changed a "do-not-pass" 
+line at the top of the cliff to a "ledge-grab/jump" line just so Sabre can move past there after the change I made.
+
+
+
+
+
+Oh, there are two more glitched vines in that same area! 
+Here's a fix for those too - 
+the ones at either end of the pier outside CC Courtyard:
+
+
+0x32850CA: 80
+
+0x3285146: 80
